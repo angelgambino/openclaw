@@ -19,10 +19,6 @@
         "provider": "anthropic",
         "mode": "token"
       },
-      "openai-codex:codex-cli": {
-        "provider": "openai-codex",
-        "mode": "oauth"
-      },
       "openai:default": {
         "provider": "openai",
         "mode": "api_key"
