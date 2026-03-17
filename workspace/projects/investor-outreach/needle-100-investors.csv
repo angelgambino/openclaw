@@ -1,25 +1,25 @@
 #,First Name,Last Name,Firm/Company,Investor Type,Email,LinkedIn URL,Website,Sectors of Interest,Location,Source,Match Score,Also Good For
-1,,,NFX,VC,pete@nfx.com,,https://www.nfx.com,Network effects focused VC; $1-5M seed/A checks; backs category creators with compounding moats,San Francisco,needle_list,15,Pitch Slam
-2,,,Uncork Capital,VC,jeff@uncorkcapital.com,,https://www.uncorkcapital.com,Founder-first seed micro-VC; $225M Fund VIII; checks $1.5M–$4M; targets B2B SaaS and marketplaces,San Francisco,needle_list,15,Pitch Slam
-3,,,True Ventures,VC,puneet@trueventures.com,,https://www.trueventures.com,Consumer + B2B crossover; $2-5M seed/A; backs DTC-friendly category creators,San Francisco,needle_list,15,Pitch Slam
-4,,,Felicis Ventures,VC,aydin@felicis.com,,https://www.felicis.com,AI-heavy generalist seed/Series A; $900M Fund X; 70% AI portfolio; founder-first with coaching commitment.,San Francisco,needle_list,15,Pitch Slam
-5,,,CRV,VC,saar@crv.com,,https://www.crv.com,"Enterprise/B2B SaaS, workflow automation; $3-10M Series A/B",San Francisco,needle_list,15,
-6,,,Worklife Ventures,VC,bri@worklife.vc,,https://www.worklife.vc,"Future of work, productivity tools; $500K-2M seed checks",San Francisco,needle_list,15,Pitch Slam
-7,,,Forerunner Ventures,VC,kgreen@forerunnerventures.com,,https://www.forerunnerventures.com,"Commerce enablement, DTC infrastructure; $1-5M seed/A; backed Glossier, Warby Parker",San Francisco,needle_list,15,Pitch Slam
-8,,,Chapter One,VC,jeff@chapterone.com,,https://www.chapterone.com,"AI-native products, creator/SMB tools; $500K-2M seed checks",Los Angeles,needle_list,15,Pitch Slam
-9,,,Notation Capital,VC,alex@notation.vc,,https://www.notation.vc,"Pre-seed/seed B2B SaaS, automation; $500K-1M; conviction-driven, fast decisions",New York,needle_list,15,Pitch Slam
-10,,,Bowery Capital,VC,mike.brown@bowerycap.com,,https://www.bowerycap.com,"B2B SaaS, enterprise software; $2-5M Series A checks",New York,needle_list,15,
-11,,,Shopify Ventures,Strategic/CVC,andrea.you@shopify.com,,https://www.shopify.com/ventures,"DTC infrastructure mandate, commerce enablement; $1-5M seed/A",San Francisco,needle_list,15,Pitch Slam
-12,,,Stagwell / Quarter Creek Ventures,Strategic/CVC,mark.penn@stagwellgroup.com,,https://www.stagwellglobal.com,"Marketing tech, media innovation; $2-5M Series A/B",New York,needle_list,15,
-13,,,S4S Ventures,Strategic/CVC,sanja@s4sventures.com,,https://www.s4sventures.com,"Marketing tech, agency replacement plays; $2-10M Series A/B; Sir Martin Sorrell",London,needle_list,15,
-14,,,The Brandtech Group,Strategic/CVC,david.jones@thebrandtechgroup.com,,https://www.brandtechgroup.com,Marketing stack consolidation; $1-5M seed/A,London,needle_list,15,Pitch Slam
-15,,,Dentsu Ventures,Strategic/CVC,sasamoto@dentsu-v.com,,https://www.dentsuventures.com,Marketing/adtech innovation; $1-5M Series A,San Francisco,needle_list,15,
-16,,,WPP,Strategic/CVC,,,https://www.wpp.com,Strategic investment in martech; $2-10M Series A/B,London,needle_list,15,
-17,,,Bloomberg Beta,Strategic/CVC,roy@bloombergbeta.com,,https://www.bloombergbeta.com,"Future of work, AI applications; $500K-3M seed/A",San Francisco,needle_list,15,Pitch Slam
-18,,,RSE Ventures,Family Office,mhiggins@rseventures.com,,https://www.rseventures.com,"Sports/DTC crossover, brand building; $1-5M seed/A; Matt Higgins, Stephen Ross",New York,needle_list,15,Human Tech Week; Pitch Slam
-19,,,PTK Capital,Family Office,kwall@ptkcapital.com,,https://www.ptkcapital.com,Entertainment/brand ecosystem; $500K-3M seed/A; Kevin Wall,Los Angeles,needle_list,15,Human Tech Week; Pitch Slam
-20,,,Sachse Family Fund,Family Office,dave@familyvc.com,,https://www.sachsefamily.com,"Operator family office, tech-enabled businesses; $500K-2M seed",San Francisco,needle_list,15,Pitch Slam
-21,,,Prehype Family Office Network,Family Office,henrikw@prehype.com,,https://www.prehype.com,"Operator network, venture studio portfolio; $500K-2M seed; Henrik Werdelin",New York,needle_list,15,Pitch Slam
+1,Pete,Flint,NFX,VC,pete@nfx.com,,https://www.nfx.com,Network effects focused VC; $1-5M seed/A checks; backs category creators with compounding moats,San Francisco,needle_list,15,Pitch Slam
+2,Jeff,Clavier,Uncork Capital,VC,jeff@uncorkcapital.com,,https://www.uncorkcapital.com,Founder-first seed micro-VC; $225M Fund VIII; checks $1.5M–$4M; targets B2B SaaS and marketplaces,San Francisco,needle_list,15,Pitch Slam
+3,Puneet,Agarwal,True Ventures,VC,puneet@trueventures.com,,https://www.trueventures.com,Consumer + B2B crossover; $2-5M seed/A; backs DTC-friendly category creators,San Francisco,needle_list,15,Pitch Slam
+4,Aydin,Senkut,Felicis Ventures,VC,aydin@felicis.com,,https://www.felicis.com,AI-heavy generalist seed/Series A; $900M Fund X; 70% AI portfolio; founder-first with coaching commitment.,San Francisco,needle_list,15,Pitch Slam
+5,Saar,Gur,CRV,VC,saar@crv.com,,https://www.crv.com,"Enterprise/B2B SaaS, workflow automation; $3-10M Series A/B",San Francisco,needle_list,15,
+6,Brianne,Kimmel,Worklife Ventures,VC,bri@worklife.vc,,https://www.worklife.vc,"Future of work, productivity tools; $500K-2M seed checks",San Francisco,needle_list,15,Pitch Slam
+7,Kirsten,Green,Forerunner Ventures,VC,kgreen@forerunnerventures.com,,https://www.forerunnerventures.com,"Commerce enablement, DTC infrastructure; $1-5M seed/A; backed Glossier, Warby Parker",San Francisco,needle_list,15,Pitch Slam
+8,Jeff,Morris Jr.,Chapter One,VC,jeff@chapterone.com,,https://www.chapterone.com,"AI-native products, creator/SMB tools; $500K-2M seed checks",Los Angeles,needle_list,15,Pitch Slam
+9,Alex,Lines,Notation Capital,VC,alex@notation.vc,,https://www.notation.vc,"Pre-seed/seed B2B SaaS, automation; $500K-1M; conviction-driven, fast decisions",New York,needle_list,15,Pitch Slam
+10,Mike,Brown,Bowery Capital,VC,mike.brown@bowerycap.com,,https://www.bowerycap.com,"B2B SaaS, enterprise software; $2-5M Series A checks",New York,needle_list,15,
+11,Andrea,You,Shopify Ventures,Strategic/CVC,andrea.you@shopify.com,,https://www.shopify.com/ventures,"DTC infrastructure mandate, commerce enablement; $1-5M seed/A",San Francisco,needle_list,15,Pitch Slam
+12,Mark,Penn,Stagwell / Quarter Creek Ventures,Strategic/CVC,mark.penn@stagwellgroup.com,,https://www.stagwellglobal.com,"Marketing tech, media innovation; $2-5M Series A/B",New York,needle_list,15,
+13,Sanja,Partalo,S4S Ventures,Strategic/CVC,sanja@s4sventures.com,,https://www.s4sventures.com,"Marketing tech, agency replacement plays; $2-10M Series A/B; Sir Martin Sorrell",London,needle_list,15,
+14,David,Jones,The Brandtech Group,Strategic/CVC,david.jones@thebrandtechgroup.com,,https://www.brandtechgroup.com,Marketing stack consolidation; $1-5M seed/A,London,needle_list,15,Pitch Slam
+15,Yusuke,Sasamoto,Dentsu Ventures,Strategic/CVC,sasamoto@dentsu-v.com,,https://www.dentsuventures.com,Marketing/adtech innovation; $1-5M Series A,San Francisco,needle_list,15,
+16,Mark,Read,WPP,Strategic/CVC,,,https://www.wpp.com,Strategic investment in martech; $2-10M Series A/B,London,needle_list,15,
+17,Roy,Bahat,Bloomberg Beta,Strategic/CVC,roy@bloombergbeta.com,,https://www.bloombergbeta.com,"Future of work, AI applications; $500K-3M seed/A",San Francisco,needle_list,15,Pitch Slam
+18,Matt,Higgins,RSE Ventures,Family Office,mhiggins@rseventures.com,,https://www.rseventures.com,"Sports/DTC crossover, brand building; $1-5M seed/A; Matt Higgins, Stephen Ross",New York,needle_list,15,Human Tech Week; Pitch Slam
+19,Kevin,Wall,PTK Capital,Family Office,kwall@ptkcapital.com,,https://www.ptkcapital.com,Entertainment/brand ecosystem; $500K-3M seed/A; Kevin Wall,Los Angeles,needle_list,15,Human Tech Week; Pitch Slam
+20,Dave,Sachse,Sachse Family Fund,Family Office,dave@familyvc.com,,https://www.sachsefamily.com,"Operator family office, tech-enabled businesses; $500K-2M seed",San Francisco,needle_list,15,Pitch Slam
+21,Henrik,Werdelin,Prehype Family Office Network,Family Office,henrikw@prehype.com,,https://www.prehype.com,"Operator network, venture studio portfolio; $500K-2M seed; Henrik Werdelin",New York,needle_list,15,Pitch Slam
 22,Shukhrat,Ibragimov,Cabra VC,Angel/Syndicate,shukhrat.ibragimov@cabra.vc,https://www.linkedin.com/in/shukhrat-ibragimov-b212177/,,Software & Internet/E-Commerce/Artificial Intelligence & Machine Learning/Artificial Intelligence/SaaS/B2B/3D Technology/Retail & Restaurant/,,angel_syndicate,8,
 23,Phil,Nadel,Forefront Venture Partners,Angel/Syndicate,"pnadel@gmail.com,phil@forefrontvp.com",https://www.linkedin.com/in/philnadel,,E-Commerce/SaaS/Software & Internet/Retail & Restaurant/Marketing/Logistics/,,angel_syndicate,7,
 24,Jerry,Li,Engineering Leaders Community Angels,Angel/Syndicate,jerry@gradual.com,https://www.linkedin.com/in/jerry-li-1bb1177/,,SaaS/Financial Technology (FinTech)/Analytics/Artificial Intelligence & Machine Learning/E-Commerce/Retail & Restaurant/Consulting/Financial Services/Software & Internet,,angel_syndicate,7,

@@ -22,6 +22,10 @@
       "openai:default": {
         "provider": "openai",
         "mode": "api_key"
+      },
+      "openai-codex:codex-cli": {
+        "provider": "openai-codex",
+        "mode": "oauth"
       }
     }
   },
