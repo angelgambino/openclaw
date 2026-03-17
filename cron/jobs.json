@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "jobs": []
+  "jobs": [
+    {
+      "id": "investor-checkin",
+      "schedule": "*/30 * * * *",
+      "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short — what's done, what's in progress, any blockers. Send via Telegram.",
+      "channel": "telegram",
+      "to": "telegram:912959241"
+    }
+  ]
 }

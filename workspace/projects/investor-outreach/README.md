@@ -32,7 +32,7 @@ Review investor databases shared by Angel to select investors for three key even
 
 ## Workflow
 1. ✅ Receive project brief from Angel
-2. ⏳ **Receive investor database links from Angel**
+2. ✅ Receive investor database links from Angel (5 sheets, 4 accessible)
 3. Review databases and select 100 investors per event based on profiles above
 4. Compile selected investors into documents with:
    - LinkedIn URL
@@ -44,7 +44,7 @@ Review investor databases shared by Angel to select investors for three key even
 7. Submit all drafts to Angel for review (DO NOT SEND)
 
 ## Databases
-_(Waiting for Angel to share links)_
+See `data-sources.md` for full details. 5 sheets received, 4 accessible, 1 needs auth fix.
 
 ## Notes
 - Some investors may qualify for multiple events — that's fine
