@@ -22,16 +22,21 @@
       "openai-codex:codex-cli": {
         "provider": "openai-codex",
         "mode": "oauth"
+      },
+      "openai:default": {
+        "provider": "openai",
+        "mode": "api_key"
       }
     }
   },
   "agents": {
     "defaults": {
       "model": {
-        "primary": "openai-codex/gpt-5.4"
+        "primary": "openai-codex/gpt-5.3-codex"
       },
       "models": {
-        "openai-codex/gpt-5.4": {}
+        "openai-codex/gpt-5.4": {},
+        "openai-codex/gpt-5.3-codex": {}
       },
       "workspace": "/data/.openclaw/workspace"
     }
@@ -59,6 +64,14 @@
     "tailscale": {
       "mode": "off",
       "resetOnExit": false
+    },
+    "trustedProxies": [
+      "127.0.0.1"
+    ],
+    "controlUi": {
+      "allowedOrigins": [
+        "https://openclaw-railway-template-production-ed18.up.railway.app"
+      ]
     }
   },
   "skills": {
