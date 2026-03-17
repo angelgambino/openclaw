@@ -14,12 +14,19 @@ Review investor databases shared by Angel to select investors for three key even
 ### 1. Human Tech Week — Jeffersonian Dinners
 - **Dates:** May 11-15, 2026
 - **Location:** San Francisco (venue TBD — confirmed upon RSVP)
-- **Format:** Jeffersonian Dinners, 12 people per dinner
+- **Format:** 4 dinners, ~12 people each, off-the-record, curated
+- **Angel's role:** Co-host
+- **The 4 Dinners:**
+  1. Sovereign Funds Dinner (national resilience, workforce readiness, AI as infrastructure)
+  2. Family Office Dinner (longevity, wellbeing, values-aligned tech)
+  3. Angel Investor Dinner (early-stage human-centered AI funding/governance)
+  4. Venture Capital Dinner (growth-stage theses, category creation in Human Performance + AI)
+- **Themes:** AI, human performance, mental health, longevity, ethics, governance
 - **Investor Profile:** Series A+ investors
 - **Sectors:** Impact, Health & Wellness, Human Potential, Sports, Media & Entertainment, AI
 - **Geography:** Based in California
-- **Investor Types:** Series A+ (VCs, growth-stage funds)
-- **Target:** 100 investors
+- **Target:** 100 investors (~25 per dinner type)
+- **Sponsorship:** $5K/dinner, $18K for all four
 
 ### 2. Pitch Slam — Virtual Pitch Event
 - **Date:** April 9, 2026, 10am PT / 1pm ET / 6pm BST
