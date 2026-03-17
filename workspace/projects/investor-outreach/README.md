@@ -66,6 +66,13 @@ Review investor databases shared by Angel to select investors for three key even
 ## Databases
 See `data-sources.md` for full details. 5 sheets received, 4 accessible, 1 needs auth fix.
 
-## Notes
-- Some investors may qualify for multiple events — that's fine
+## Rules
+- **NO DUPLICATES across any lists** — each investor appears on ONE event list only
+- Assign each investor to the event where they're the BEST fit
 - Personalization should reference specific investments, interests, or recent activity
+- Priority order for list building: 1) Needle Lunch 2) Pitch Slam 3) Human Tech Week 4) ACA Summit
+- Once an investor is on one list, they cannot appear on another
+- **Tone:** Warm and professional across all invites
+- **Sign-off:** Just "Angel Gambino" (she has her own email signature)
+- **Human Tech Week:** Angel is CO-HOST of the Jeffersonian Dinners
+- **ACA Summit:** Angel is KEYNOTING. Invite asks if they're attending, mentions keynote, invites to coffee downstairs to explore collaboration opportunities
