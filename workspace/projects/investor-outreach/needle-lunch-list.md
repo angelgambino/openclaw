@@ -2,7 +2,7 @@
 **Date:** Thu March 19 or Fri March 20, 2026 at noon
 **Location:** The Battery, San Francisco
 **Purpose:** Meet Kiyan (Founder/CEO, Needle) + network
-**Confirmed:** 2 (names TBD from Angel)
+**Confirmed:** Noushin + Gady (do NOT include in draft invites)
 **Goal:** 12+ acceptances → inviting ~30 to hit target
 
 ## From Needle's Own List (California-based, matching sectors)
