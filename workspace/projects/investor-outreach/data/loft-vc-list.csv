@@ -1,0 +1,22 @@
+#,First Name,Last Name,Firm/Company,Investor Type,Email,LinkedIn URL,Website,Sectors of Interest,Location,Source,Check Size
+1,Crystal,,Almanac Insights,VC,Crystal@almanacinvest.com,,https://www.almanacinsights.com,"Agri-tech, CPG","New York, NY",loft_vc_list,$50k-$1mm
+2,Nate,,Barrel Ventures,VC,Nate@barrelvc.com,,https://www.barrelvc.com,"Food/CPG, Supply chain, ingredients","Chicago, IL",loft_vc_list,$250k-$500k
+3,,,BFG Partners,VC,dealteam@bfgpartners.com,,https://www.bfgpartners.com,"All FMCG, Service, SaaS, consumer goods","Boulder, CO",loft_vc_list,$1mm-$5mm
+4,Arif,,Blueberry Ventures,VC,arif@blueberryventures.vc,,http://blueberryventures.vc,Consumer,"San Francisco, CA",loft_vc_list,
+5,Ashley,,Bluestein Ventures,VC,ashley@bluesteinventures.com,,https://www.bluesteinventures.com,"Food & beverage, supplements, food industry, commerce, digital technology, foodtech","Chicago, IL",loft_vc_list,$500k-$1.5mm
+6,,,BrandProject,VC,hello@brandproject.com,,https://www.brandproject.com,"Health, wellness, food/bev, beauty, personal care, pet, home, lifestyle, consumer services/tech",NYC/Toronto,loft_vc_list,$500k-$3mm
+7,Kathryn,,Capstar Ventures,VC,kathryn@capstarventures.com,,https://www.capstarventures.com,"Digital first, consumer sector, seed/Series A","Austin, TX",loft_vc_list,$500k-$1mm
+8,Bert,,Clover Vitality Fund,VC,bert@vitalitycapitalllc.com,,https://www.clovervitality.com,"Better for you food & beverage, contract manufacturers","Evanston, IL",loft_vc_list,$100k-$500k
+9,Brian,,FirstLook Venture Co.,VC,brian@firstlook.vc,,https://www.firstlook.vc,"Food & beverage, supplements, beauty, personal care, pet, alcohol, cannabis","Cleveland, OH",loft_vc_list,$10k-$500k
+10,Samyr,,Freedom Trail Capital,VC,samyr@freedomtrail.capital,,https://www.freedomtrail.capital,"Consumer, consumer tech, media, entertainment","Los Angeles, CA",loft_vc_list,$250k-$500k
+11,,,Loft Growth Partners,VC,info@loftgrowthpartners.com,,https://www.loftgrowthpartners.com,"Personal care/beauty, pet, supps, home care, food/bev","Boulder, CO",loft_vc_list,$2-5mm
+12,,,Midnight Venture Partners,VC,rspringer@midnightvp.com,,https://www.midnightvp.com,"Food/bev, personal care, VMS, pet, four wall wellness","Austin, TX",loft_vc_list,$250k-$1m
+13,,,New Fare Partners,VC,info@newfarepartners.com,,https://newfarepartners.com,"Food and beverage, consumer technology, retail, marketplaces","New York, NY",loft_vc_list,$500k
+14,,,Renewal Funds,VC,hello@renewalfunds.com,,https://www.renewalfunds.com,"Plant-based, alternative proteins, zero waste, agtech, energy, mobility","Vancouver, BC",loft_vc_list,$2-5mm
+15,,,RCV Frontline,VC,,,https://www.rcvfrontline.com,"Food, beverage, food technology, logistics, SaaS, novel ingredients, packaging","New York, NY / Battle Creek, MI",loft_vc_list,$300k
+16,Brian,,Silas Capital,VC,brian@silascapital.com,,https://www.silascapital.com,"Beauty, personal care, wellness, apparel, accessories, home, F&B","New York, NY",loft_vc_list,$250k
+17,Mark,,Spiral Sun Ventures,VC,mark@spiralsunventures.com,,https://www.spiralsunventures.com,"Health and wellness, ag and health tech","Chicago, IL",loft_vc_list,$250k+
+18,,,Springdale Ventures,VC,hello@springdaleventures.com,,https://www.springdaleventures.com,"Personal care/beauty, food/bev, pet care","Austin, TX",loft_vc_list,$500k-$1m
+19,Adam,,The Angel Group,Angel,adam@wearetheangelgroup.com,,https://www.wearetheangelgroup.com,Food & beverage,"Toledo, OH",loft_vc_list,$150k-$250k
+20,Elliot,,TIG Venture Community,VC,elliot@tigbrands.com,,https://www.tigbrands.com/venturecommunity,"Food, beverage, personal care, supplements",Northern CA,loft_vc_list,$50k-$250k
+21,Chelsea,,White Road Investments,VC,chelsea@whiteroadinvestments.com,,https://www.whiteroadinvestments.com,"Natural/organic/new category, health/wellness/outdoor","St. Helena, CA",loft_vc_list,$500k-$2m

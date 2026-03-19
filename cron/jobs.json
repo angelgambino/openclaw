@@ -10,7 +10,7 @@
       "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short — what's done, what's in progress, any blockers. Send via Telegram.",
       "state": {
         "nextRunAtMs": 1773784800000,
-        "runningAtMs": 1773871230156
+        "runningAtMs": 1773907242742
       },
       "name": "Cron: */30 * * * *",
       "enabled": true,
