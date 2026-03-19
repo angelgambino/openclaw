@@ -1,8 +1,8 @@
-# DRAFT — Pitch Slam: Personalized Email Invitations
+# DRAFT — Pitch Slam: Personalized Email Invitations (v2)
 **Status:** FOR ANGEL'S REVIEW — DO NOT SEND
 **Event:** Pitch Slam — Virtual Pitch Event
 **Date:** April 9, 2026 | 10am PT / 1pm ET / 6pm BST
-**Format:** Virtual (Zoom) | Investors host breakout rooms matched to their thesis
+**Format:** Virtual (Zoom) | Investors host breakout rooms
 **Co-presented with:** SeedLegals
 
 ---
@@ -12,15 +12,13 @@
 
 Hi Jean-Baptiste,
 
-With Aglaé Ventures's portfolio spanning entertainment and media, health and wellness and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Aglaé Ventures's focus on health, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -31,15 +29,13 @@ Angel Gambino
 
 Hi Cole,
 
-With Elysian Park Ventures's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Elysian Park Ventures's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -50,15 +46,13 @@ Angel Gambino
 
 Hi Jessica,
 
-With Hannah Grey's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Hannah Grey's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -69,15 +63,13 @@ Angel Gambino
 
 Hi Trish,
 
-Portfolia's commitment to entertainment and media, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Portfolia's focus on AI, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -88,15 +80,13 @@ Angel Gambino
 
 Hi Will,
 
-With Joyance Partners AND Social Starts's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Joyance Partners AND Social Starts's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -107,15 +97,13 @@ Angel Gambino
 
 Hi Michael,
 
-With L Catterton Growth's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given L Catterton Growth's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -126,15 +114,13 @@ Angel Gambino
 
 Hi David,
 
-With MSG Entertainment's strategic focus on entertainment and media, health and wellness and AI, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given MSG Entertainment's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -145,15 +131,13 @@ Angel Gambino
 
 Hi Brian,
 
-With Will Ventures's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Will Ventures's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -164,15 +148,13 @@ Angel Gambino
 
 Hi Holger,
 
-With Goldman Sachs Growth Equity's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Goldman Sachs Growth Equity's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -183,15 +165,13 @@ Angel Gambino
 
 Hi Latif,
 
-Given M13's hands-on approach and focus on entertainment and media, health and wellness and AI, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given M13's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -202,15 +182,13 @@ Angel Gambino
 
 Hi Jeff,
 
-With The Raine Group's portfolio spanning entertainment and media, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given The Raine Group's focus on AI, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -221,15 +199,13 @@ Angel Gambino
 
 Hi Edgar,
 
-With Archer Gray Ventures's strategic focus on entertainment and media, AI and impact investing, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given Archer Gray Ventures's focus on AI, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -240,15 +216,13 @@ Angel Gambino
 
 Hi Jeff,
 
-With Benchstrength's portfolio spanning entertainment and media, health and wellness and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Benchstrength's focus on health, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -259,15 +233,13 @@ Angel Gambino
 
 Hi Sanjay,
 
-City Light Capital's commitment to health and wellness, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given City Light Capital's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -278,15 +250,13 @@ Angel Gambino
 
 Hi Dan,
 
-Cohen Circle's commitment to health and wellness, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Cohen Circle's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -297,15 +267,13 @@ Angel Gambino
 
 Hi Garry,
 
-With Initialized Capital's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Initialized Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -316,15 +284,13 @@ Angel Gambino
 
 Hi Jenny,
 
-Rethink Impact's commitment to health and wellness, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Rethink Impact's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -335,15 +301,13 @@ Angel Gambino
 
 Hi Ken,
 
-With Stripes Group's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Stripes Group's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -354,15 +318,13 @@ Angel Gambino
 
 Hi Brent,
 
-With SWAT Equity Partners's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given SWAT Equity Partners's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -373,15 +335,13 @@ Angel Gambino
 
 Hi Clint,
 
-With Ulu Ventures's portfolio spanning entertainment and media, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Ulu Ventures's focus on AI, consumer, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -392,15 +352,13 @@ Angel Gambino
 
 Hi Firas,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given ExSight Ventures's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -411,15 +369,13 @@ Angel Gambino
 
 Hi Kunal,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Ayuh Ventures's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -430,15 +386,13 @@ Angel Gambino
 
 Hi Jon,
 
-With Blackstone Growth Equity (BXG)'s portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Blackstone Growth Equity (BXG)'s focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -449,15 +403,13 @@ Angel Gambino
 
 Hi John,
 
-With JAZZ Venture Partners's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given JAZZ Venture Partners's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -468,15 +420,13 @@ Angel Gambino
 
 Hi Eric,
 
-With NextGen Venture Partners's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given NextGen Venture Partners's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -487,15 +437,13 @@ Angel Gambino
 
 Hi Matt,
 
-ReThink Education's commitment to health and wellness, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given ReThink Education's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -506,15 +454,13 @@ Angel Gambino
 
 Hi Korn,
 
-With Siam Capital's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Siam Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -525,15 +471,13 @@ Angel Gambino
 
 Hi Sean,
 
-Given Venture University's hands-on approach and focus on health and wellness, AI and consumer, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given Venture University's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -544,15 +488,13 @@ Angel Gambino
 
 Hi Lee,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given GrayBella Capital's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -563,15 +505,13 @@ Angel Gambino
 
 Hi Zachary,
 
-Your investing focus on health and wellness, AI and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Zachary Ginsburg || Calm Ventures's focus on health, AI, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -582,15 +522,13 @@ Angel Gambino
 
 Hi Todd,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Seed Healthcare's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -601,15 +539,13 @@ Angel Gambino
 
 Hi Will,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Shelter's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -620,15 +556,13 @@ Angel Gambino
 
 Hi Justin,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given TomorrowScale Ventures Syndicate's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -639,15 +573,13 @@ Angel Gambino
 
 Hi Josh,
 
-Your investing focus on entertainment and media, health and wellness and AI caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Eun Youb Josh Lee LLC's focus on health, AI. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -658,15 +590,13 @@ Angel Gambino
 
 Hi Yi,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Pascal Capital's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -677,15 +607,13 @@ Angel Gambino
 
 Hi Nathaniel,
 
-Your investing focus on health and wellness, life sciences and software caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Cortado Ventures's focus on health, life sciences, enterprise. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -696,15 +624,13 @@ Angel Gambino
 
 Hi Joe,
 
-With 8VC's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given 8VC's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -715,15 +641,13 @@ Angel Gambino
 
 Hi Dan,
 
-With American Family Insurance Institute for Corporate & Social Impact's strategic focus on health and wellness, impact investing and sustainability, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given American Family Insurance Institute for Corporate & Social Impact's focus on health, impact, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -734,15 +658,13 @@ Angel Gambino
 
 Hi David,
 
-AWM Investments, Special Situations Fund's commitment to health and wellness, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given AWM Investments, Special Situations Fund's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -753,15 +675,13 @@ Angel Gambino
 
 Hi Hemi,
 
-With Flat World Partners's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Flat World Partners's focus on health, AI, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -772,15 +692,13 @@ Angel Gambino
 
 Hi Kenneth,
 
-With Hearst Ventures's strategic focus on entertainment and media, health and wellness and consumer, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given Hearst Ventures's focus on health, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -791,15 +709,13 @@ Angel Gambino
 
 Hi Eve,
 
-With HearstLab's strategic focus on entertainment and media, health and wellness and software, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given HearstLab's focus on health, media/entertainment, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -810,15 +726,13 @@ Angel Gambino
 
 Hi Oren,
 
-With Imaginary Capital's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Imaginary Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -829,15 +743,13 @@ Angel Gambino
 
 Hi Jaime,
 
-With JPMorgan Impact Finance's strategic focus on AI, impact investing and commerce, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given JPMorgan Impact Finance's focus on AI, consumer, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -848,15 +760,13 @@ Angel Gambino
 
 Hi Richard,
 
-With LEAD Sports and Health Tech Partners's portfolio spanning entertainment and media, health and wellness and female founders, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given LEAD Sports and Health Tech Partners's focus on health, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -867,15 +777,13 @@ Angel Gambino
 
 Hi Greg,
 
-With Mercato Partners's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Mercato Partners's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -886,15 +794,13 @@ Angel Gambino
 
 Hi Deven,
 
-With PruVen Capital's strategic focus on health and wellness, AI and consumer, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given PruVen Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -905,15 +811,13 @@ Angel Gambino
 
 Hi Meghan,
 
-With Red Bike Capital's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Red Bike Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -924,15 +828,13 @@ Angel Gambino
 
 Hi Yolanda,
 
-With REFASHIOND Ventures's portfolio spanning AI, impact investing and commerce, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given REFASHIOND Ventures's focus on AI, consumer, enterprise. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -943,15 +845,13 @@ Angel Gambino
 
 Hi Jim,
 
-With RRE's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given RRE's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -962,15 +862,13 @@ Angel Gambino
 
 Hi Molly,
 
-With Solera Capital's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Solera Capital's focus on AI, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -981,15 +879,13 @@ Angel Gambino
 
 Hi Stephen,
 
-With Stellation Capital's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Stellation Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1000,15 +896,13 @@ Angel Gambino
 
 Hi John,
 
-TechConnect's commitment to health and wellness, AI and impact investing is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given TechConnect's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1019,15 +913,13 @@ Angel Gambino
 
 Hi Nicole,
 
-The ASCAP Lab's commitment to entertainment and media and AI is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given The ASCAP Lab's focus on AI, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1038,15 +930,13 @@ Angel Gambino
 
 Hi Soraya,
 
-With TMV's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given TMV's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1057,15 +947,13 @@ Angel Gambino
 
 Hi Jean,
 
-With Virgin Management's strategic focus on entertainment and media, health and wellness and AI, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given Virgin Management's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1076,15 +964,13 @@ Angel Gambino
 
 Hi James,
 
-With Watershed Ventures's portfolio spanning health and wellness, AI and impact investing, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Watershed Ventures's focus on health, AI, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1095,15 +981,13 @@ Angel Gambino
 
 Hi Jeff,
 
-Your investing focus on health and wellness, life sciences and sustainability caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Hemisphere Ventures's focus on health, life sciences, enterprise. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1114,15 +998,13 @@ Angel Gambino
 
 Hi Daniel,
 
-Your investing focus on health and wellness and AI caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Gold Dragon Ventures's focus on health, AI, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1133,15 +1015,13 @@ Angel Gambino
 
 Hi Mehrad,
 
-Your investing focus on health and wellness, life sciences and sustainability caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Cool Climate Collective's focus on health, life sciences, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1152,15 +1032,13 @@ Angel Gambino
 
 Hi Nick,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given x4 Capital Partners's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1171,15 +1049,13 @@ Angel Gambino
 
 Hi Brom,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Empath Ventures's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1190,15 +1066,13 @@ Angel Gambino
 
 Hi Kesha,
 
-Given Accelerate Equity Fund's hands-on approach and focus on health and wellness, AI and impact investing, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given Accelerate Equity Fund's focus on health, AI, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1209,15 +1083,13 @@ Angel Gambino
 
 Hi Peter,
 
-Aligned Climate Capital's commitment to AI, impact investing and sustainability is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Aligned Climate Capital's focus on AI, impact, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1228,15 +1100,13 @@ Angel Gambino
 
 Hi Joe,
 
-With Alignment Growth's portfolio spanning entertainment and media and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Alignment Growth's focus on AI, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1247,15 +1117,13 @@ Angel Gambino
 
 Hi Mike,
 
-With Brighton Park Capital's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Brighton Park Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1266,15 +1134,13 @@ Angel Gambino
 
 Hi Detavio,
 
-With CASSIUS Family's portfolio spanning entertainment and media, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given CASSIUS Family's focus on AI, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1285,15 +1151,13 @@ Angel Gambino
 
 Hi Franklin,
 
-With Coefficient Capital's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Coefficient Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1304,15 +1168,13 @@ Angel Gambino
 
 Hi Kerwin,
 
-Community Development Venture Capital Alliance (CDVCA)'s commitment to entertainment and media, impact investing and sustainability is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Community Development Venture Capital Alliance (CDVCA)'s focus on media/entertainment, impact, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1323,15 +1185,13 @@ Angel Gambino
 
 Hi Masha,
 
-Given Day One Ventures's hands-on approach and focus on health and wellness, impact investing and consumer, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given Day One Ventures's focus on health, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1342,15 +1202,13 @@ Angel Gambino
 
 Hi Mylea,
 
-With Divergent Capital's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Divergent Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1361,15 +1219,13 @@ Angel Gambino
 
 Hi Jeff,
 
-With EY Ventures Group's strategic focus on health and wellness, AI and consumer, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given EY Ventures Group's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1380,15 +1236,13 @@ Angel Gambino
 
 Hi Rick,
 
-With FirstMark Capital's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given FirstMark Capital's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1399,15 +1253,13 @@ Angel Gambino
 
 Hi Jeff,
 
-With GreenPoint Partners's portfolio spanning AI, impact investing and sustainability, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given GreenPoint Partners's focus on AI, impact, enterprise. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1418,15 +1270,13 @@ Angel Gambino
 
 Hi Michael,
 
-With Healthworx's strategic focus on health and wellness, impact investing and software, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given Healthworx's focus on health, enterprise. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1437,15 +1287,13 @@ Angel Gambino
 
 Hi Ankur,
 
-Given Kairos HQ's hands-on approach and focus on health and wellness, consumer and life sciences, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given Kairos HQ's focus on health, consumer, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1456,15 +1304,13 @@ Angel Gambino
 
 Hi Chris,
 
-Lowercarbon Capital's commitment to AI, impact investing and life sciences is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Lowercarbon Capital's focus on AI, impact, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1475,15 +1321,13 @@ Angel Gambino
 
 Hi Scott,
 
-With NEA's portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given NEA's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1494,15 +1338,13 @@ Angel Gambino
 
 Hi James,
 
-With New York Ventures's portfolio spanning health and wellness, AI and life sciences, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given New York Ventures's focus on health, AI, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1513,15 +1355,13 @@ Angel Gambino
 
 Hi Ben,
 
-Overlay Capital's commitment to AI, impact investing and sustainability is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Overlay Capital's focus on AI, impact, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1532,15 +1372,13 @@ Angel Gambino
 
 Hi Jamie,
 
-With Pillar's strategic focus on health and wellness, AI and consumer, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given Pillar's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1551,15 +1389,13 @@ Angel Gambino
 
 Hi Matt,
 
-Rethink Food's commitment to AI, impact investing and sustainability is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given Rethink Food's focus on AI, impact, enterprise. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1570,15 +1406,13 @@ Angel Gambino
 
 Hi John,
 
-With Salesforce Ventures's strategic focus on AI, impact investing and sustainability, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given Salesforce Ventures's focus on AI, impact, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1589,15 +1423,13 @@ Angel Gambino
 
 Hi Denis,
 
-With SCOR's strategic focus on health and wellness, AI and sustainability, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given SCOR's focus on health, AI, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1608,15 +1440,13 @@ Angel Gambino
 
 Hi Wayne,
 
-Given Seed to Harvest's hands-on approach and focus on health and wellness, AI and impact investing, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given Seed to Harvest's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1627,15 +1457,13 @@ Angel Gambino
 
 Hi Jason,
 
-With Social Impact Capital's portfolio spanning AI, impact investing and life sciences, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Social Impact Capital's focus on AI, impact, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1646,15 +1474,13 @@ Angel Gambino
 
 Hi Steven,
 
-StartUp Health's commitment to health and wellness, AI and life sciences is exactly the kind of perspective we want in the room. We match investors to founders by thesis, so you'd meet startups directly aligned with your impact mandate.
+I'm reaching out given StartUp Health's focus on health, AI, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1665,15 +1491,13 @@ Angel Gambino
 
 Hi Woody,
 
-With TCV's portfolio spanning entertainment and media, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given TCV's focus on AI, consumer, media/entertainment. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1684,15 +1508,13 @@ Angel Gambino
 
 Hi Bradley,
 
-With Tusk Venture Partners's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given Tusk Venture Partners's focus on health, AI, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1703,15 +1525,13 @@ Angel Gambino
 
 Hi Ryan,
 
-With University Ventures's strategic focus on health and wellness, AI and impact investing, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given University Ventures's focus on health, AI, impact. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1722,15 +1542,13 @@ Angel Gambino
 
 Hi Daniel,
 
-Your investing focus on AI, impact investing and sustainability caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Unreasonable Group's focus on AI, impact, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1741,15 +1559,13 @@ Angel Gambino
 
 Hi Jeffrey,
 
-With WndrCo's portfolio spanning entertainment and media, health and wellness and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given WndrCo's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1760,15 +1576,13 @@ Angel Gambino
 
 Hi Pano,
 
-With XRC Labs's strategic focus on health and wellness, AI and consumer, I thought you'd enjoy hosting a breakout room at Pitch Slam — it's a great way to spot emerging companies in your target verticals before they hit your inbound pipeline.
+I'm reaching out given XRC Labs's focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1779,15 +1593,13 @@ Angel Gambino
 
 Hi Jordy,
 
-Your investing focus on health and wellness and life sciences caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Middle Cove Capital's focus on health, life sciences, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1798,15 +1610,13 @@ Angel Gambino
 
 Hi Johnnie,
 
-Your investing focus on health and wellness caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Cult-Classic Ventures's focus on health. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1817,15 +1627,13 @@ Angel Gambino
 
 Hi Luba,
 
-Your investing focus on health and wellness, sustainability and software caught my attention — we're curating breakout rooms by investor thesis, and I think you'd have a fantastic time meeting founders who are building in your sweet spot.
+I'm reaching out given Palumni VC's focus on health, enterprise, climate. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1836,15 +1644,13 @@ Angel Gambino
 
 Hi Martin,
 
-Given 46health's hands-on approach and focus on health and wellness and life sciences, I think hosting a Pitch Slam breakout room would be a great way to meet early-stage founders who'd benefit from your operational support.
+I'm reaching out given 46health's focus on health, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1855,15 +1661,13 @@ Angel Gambino
 
 Hi Josh,
 
-With 777 Partners's portfolio spanning entertainment and media and AI, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given 777 Partners's focus on AI, media/entertainment, fintech. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1874,15 +1678,13 @@ Angel Gambino
 
 Hi Alex,
 
-With 2048 Ventures's portfolio spanning health and wellness, AI and life sciences, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given 2048 Ventures's focus on health, AI, life sciences. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 
@@ -1893,15 +1695,13 @@ Angel Gambino
 
 Hi Amy,
 
-With ACME (FKA Sherpa Ventures)'s portfolio spanning health and wellness, AI and consumer, I think you'd enjoy hosting a breakout room at Pitch Slam — you'd be matched with founders building in your thesis areas, and 30%+ of our past pitches have led to follow-up meetings.
+I'm reaching out given ACME (FKA Sherpa Ventures)'s focus on health, AI, consumer. We're curating breakout rooms by investor thesis for our next Pitch Slam, and I think you'd see strong deal flow aligned with your portfolio.
 
-**Pitch Slam** is a high-energy virtual event on **April 9th** (10am PT / 1pm ET) where early-stage founders pitch live to investors like you. As a breakout room host, you'll hear 3-minute pitches from 4–6 founders matched to your investment focus, give real-time feedback, and choose one to advance to the finals.
+I run Angel Club (6,000+ founders, 400+ investors) and we co-host Pitch Slam with SeedLegals. 30%+ of past pitches have led to follow-up meetings and investment.
 
-It's fast-paced, high-signal, and genuinely fun — 30%+ of pitches at past events have led to follow-up meetings and investment.
+**Pitch Slam** is on **April 9** (10am PT / 1pm ET). As a breakout room host, you'd hear 3-minute pitches from 4–6 founders matched to your sectors, give real-time feedback, and choose one to advance to the finals. It's fast-paced, high-signal, and takes just 2–3 hours.
 
-Pitch Slam is co-presented by **Angel Club** (6,000+ founders, 400+ investors) and **SeedLegals** (UK's #1 legal platform for startups, now launching in the US).
-
-Interested? Just reply and I'll get you set up with your breakout room details.
+Are you open to hosting a room?
 
 Angel Gambino
 

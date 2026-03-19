@@ -1,16 +1,14 @@
-# DRAFT — Human Tech Week Jeffersonian Dinners: Personalized Email Invitations
+# DRAFT — Human Tech Week Jeffersonian Dinners: Personalized Email Invitations (v2)
 **Status:** FOR ANGEL'S REVIEW — DO NOT SEND
 **Event:** Jeffersonian Dinners during Human Tech Week
 **Dates:** May 11–15, 2026
 **Location:** San Francisco (venue confirmed upon RSVP)
 **Format:** 4 intimate dinners, ~12 guests each, off-the-record
 **Angel's role:** Co-host
-**Positive Technology Pledge:** Saved for the dinner itself (not mentioned in invite)
 
 ---
 
 # SOVEREIGN FUNDS DINNER (25 investors)
-*long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure*
 
 ---
 
@@ -20,19 +18,16 @@
 
 Hi Marcos,
 
-Vamos Ventures's commitment to health and wellness, AI and sustainability is exactly the perspective we want at the Sovereign Funds table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Vamos Ventures's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -44,19 +39,16 @@ Angel Gambino
 
 Hi Stephanie,
 
-With Vita Ventures's portfolio spanning AI, life sciences and sustainability, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Vita Ventures's focus on AI, life sciences, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -68,19 +60,16 @@ Angel Gambino
 
 Hi Laurence,
 
-With WestCap's portfolio spanning health and wellness, AI and sustainability, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given WestCap's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -92,19 +81,16 @@ Angel Gambino
 
 Hi Joel,
 
-Alexandria Venture Investments's strategic position in health and wellness, life sciences and health tech makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Alexandria Venture Investments's focus on health, life sciences, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -116,19 +102,16 @@ Angel Gambino
 
 Hi [First Name],
 
-Amazon Investments's strategic position in AI, consumer and deep tech makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Amazon Investments's focus on AI, consumer, media/entertainment. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -140,19 +123,16 @@ Angel Gambino
 
 Hi [First Name],
 
-Brookfield Technology Partners's strategic position in health and wellness, AI and sustainability makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Brookfield Technology Partners's focus on health, AI, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -164,19 +144,16 @@ Angel Gambino
 
 Hi Ted,
 
-With EQT Ventures's portfolio spanning AI, sustainability and fintech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given EQT Ventures's focus on AI, fintech, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -188,19 +165,16 @@ Angel Gambino
 
 Hi Brendan,
 
-Fifth Wall's strategic position in AI, sustainability and fintech makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Fifth Wall's focus on AI, fintech, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -212,19 +186,16 @@ Angel Gambino
 
 Hi Arjuna,
 
-Flourish Ventures's commitment to fintech is exactly the perspective we want at the Sovereign Funds table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Flourish Ventures's focus on impact, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -236,19 +207,16 @@ Angel Gambino
 
 Hi Michael,
 
-With Forum Ventures's portfolio spanning health and wellness, AI and fintech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Forum Ventures's focus on health, AI, consumer. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -260,19 +228,16 @@ Angel Gambino
 
 Hi Hemant,
 
-With General Catalyst's portfolio spanning health and wellness, enterprise tech and consumer, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given General Catalyst's focus on health, consumer, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -284,19 +249,16 @@ Angel Gambino
 
 Hi Mike,
 
-With Green D Ventures (an Alumni Ventures Group fund)'s portfolio spanning health and wellness, sustainability and fintech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Green D Ventures (an Alumni Ventures Group fund)'s focus on health, fintech, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -308,19 +270,16 @@ Angel Gambino
 
 Hi Mathias,
 
-With Headline's portfolio spanning health and wellness, AI and fintech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Headline's focus on health, AI, consumer. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -332,19 +291,16 @@ Angel Gambino
 
 Hi Amy,
 
-JetBlue Ventures's strategic position in AI and sustainability makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given JetBlue Ventures's focus on AI, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -356,19 +312,16 @@ Angel Gambino
 
 Hi Jakob,
 
-Lumos Capital Group's commitment to enterprise tech and education is exactly the perspective we want at the Sovereign Funds table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Lumos Capital Group's focus on impact, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -380,19 +333,16 @@ Angel Gambino
 
 Hi Matt,
 
-With Menlo Ventures's portfolio spanning health and wellness, AI and enterprise tech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Menlo Ventures's focus on health, AI, consumer. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -404,19 +354,16 @@ Angel Gambino
 
 Hi Javier,
 
-With Mundi Ventures's portfolio spanning AI, life sciences and sustainability, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Mundi Ventures's focus on AI, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -428,19 +375,16 @@ Angel Gambino
 
 Hi Michael,
 
-Northwell Holdings's strategic position in health and wellness, AI and health tech makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Northwell Holdings's focus on health, AI, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -452,19 +396,16 @@ Angel Gambino
 
 Hi Scott,
 
-With Sageview Capital's portfolio spanning AI, sustainability and enterprise tech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Sageview Capital's focus on AI, consumer, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -476,19 +417,16 @@ Angel Gambino
 
 Hi Brendon,
 
-Samsung NEXT Ventures's strategic position in health and wellness, AI and fintech makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Samsung NEXT Ventures's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -500,19 +438,16 @@ Angel Gambino
 
 Hi David,
 
-With The 98's portfolio spanning AI, sustainability and health tech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given The 98's focus on AI, fintech, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -524,19 +459,16 @@ Angel Gambino
 
 Hi Eric,
 
-With Wavemaker 360's portfolio spanning health and wellness and health tech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Wavemaker 360's focus on health. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -548,19 +480,16 @@ Angel Gambino
 
 Hi Alana,
 
-AHA Ventures's strategic position in health and wellness, life sciences and health tech makes you an ideal voice at our Sovereign Funds table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given AHA Ventures's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -572,19 +501,16 @@ Angel Gambino
 
 Hi Andres,
 
-With Ansa Capital's portfolio spanning life sciences, health tech and enterprise tech, I think you'd find the Sovereign Funds conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Ansa Capital's focus on media/entertainment, life sciences, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -596,26 +522,22 @@ Angel Gambino
 
 Hi Ron,
 
-Closed Loop Ventures's commitment to AI, sustainability and consumer is exactly the perspective we want at the Sovereign Funds table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Closed Loop Ventures's focus on AI, consumer, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Sovereign Funds Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together long-horizon capital leaders discussing national resilience, workforce readiness, and AI as human infrastructure. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Sovereign Funds Dinner** will focus on national resilience, workforce readiness, and AI as human infrastructure. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
 ---
 
 # FAMILY OFFICE DINNER (25 investors)
-*multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact*
 
 ---
 
@@ -625,19 +547,16 @@ Angel Gambino
 
 Hi Laurent,
 
-Danone Ventures's strategic position in AI, life sciences and sustainability makes you an ideal voice at our Family Office table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Danone Ventures's focus on AI, consumer, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -649,19 +568,16 @@ Angel Gambino
 
 Hi Baba,
 
-With Decisive Point's portfolio spanning life sciences, sustainability and deep tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Decisive Point's focus on life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -673,19 +589,16 @@ Angel Gambino
 
 Hi Karim,
 
-With Dynamk Capital's portfolio spanning AI and life sciences, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Dynamk Capital's focus on AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -697,19 +610,16 @@ Angel Gambino
 
 Hi Martin,
 
-With EW Healthcare Partners's portfolio spanning health and wellness, life sciences and health tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given EW Healthcare Partners's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -721,19 +631,16 @@ Angel Gambino
 
 Hi Noubar,
 
-Flagship Pioneering's strategic position in health and wellness, AI and life sciences makes you an ideal voice at our Family Office table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Flagship Pioneering's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -745,19 +652,16 @@ Angel Gambino
 
 Hi David,
 
-With Gore Range Capital's portfolio spanning health and wellness and life sciences, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Gore Range Capital's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -769,19 +673,16 @@ Angel Gambino
 
 Hi Evan,
 
-With LDV Capital's portfolio spanning health and wellness, AI and life sciences, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given LDV Capital's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -793,19 +694,16 @@ Angel Gambino
 
 Hi Constance,
 
-With Moderne Ventures's portfolio spanning AI, sustainability and fintech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Moderne Ventures's focus on AI, fintech, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -817,19 +715,16 @@ Angel Gambino
 
 Hi Andrew,
 
-With New York City Economic Development Corporation's portfolio spanning AI, life sciences and sustainability, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given New York City Economic Development Corporation's focus on AI, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -841,19 +736,16 @@ Angel Gambino
 
 Hi James,
 
-With NY Ventures's portfolio spanning health and wellness, AI and sustainability, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given NY Ventures's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -865,19 +757,16 @@ Angel Gambino
 
 Hi Paul,
 
-With Parkway Venture Capital's portfolio spanning health and wellness, AI and sustainability, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Parkway Venture Capital's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -889,19 +778,16 @@ Angel Gambino
 
 Hi Todd,
 
-With Phoenix Venture Partners's portfolio spanning health and wellness, life sciences and health tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Phoenix Venture Partners's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -913,19 +799,16 @@ Angel Gambino
 
 Hi Brian,
 
-With Santé's portfolio spanning health and wellness, life sciences and health tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Santé's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -937,19 +820,16 @@ Angel Gambino
 
 Hi Jason,
 
-SteelSky Ventures's commitment to health and wellness and health tech is exactly the perspective we want at the Family Office table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given SteelSky Ventures's focus on health. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -961,19 +841,16 @@ Angel Gambino
 
 Hi Mark,
 
-With Stelliger Partners's focus on health and wellness, life sciences and food and agriculture, I thought you'd bring exactly the right perspective to our Family Office table — where we'll explore how these sectors intersect with human flourishing and AI.
+I'm reaching out given Stelliger Partners's focus on health, life sciences, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -985,19 +862,16 @@ Angel Gambino
 
 Hi Jimmy,
 
-The Outsiders Fund's strategic position in health and wellness, sustainability and food and agriculture makes you an ideal voice at our Family Office table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given The Outsiders Fund's focus on health, climate, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1009,19 +883,16 @@ Angel Gambino
 
 Hi Dan,
 
-With Apax Digital Investments's portfolio spanning AI, sustainability and enterprise tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Apax Digital Investments's focus on AI, consumer, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1033,19 +904,16 @@ Angel Gambino
 
 Hi Nick,
 
-With Athneia Partners's portfolio spanning AI, life sciences and sustainability, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Athneia Partners's focus on AI, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1057,19 +925,16 @@ Angel Gambino
 
 Hi Scott,
 
-With Carica Sustainable Investments's focus on AI, sustainability and food and agriculture, I thought you'd bring exactly the right perspective to our Family Office table — where we'll explore how these sectors intersect with human flourishing and AI.
+I'm reaching out given Carica Sustainable Investments's focus on AI, climate, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1081,19 +946,16 @@ Angel Gambino
 
 Hi Rajeev,
 
-With Clear Ventures's portfolio spanning AI, enterprise tech and deep tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Clear Ventures's focus on AI, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1105,19 +967,16 @@ Angel Gambino
 
 Hi [First Name],
 
-With Commonfund Private Equity's portfolio spanning health and wellness, AI and life sciences, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Commonfund Private Equity's focus on health, AI, consumer. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1129,19 +988,16 @@ Angel Gambino
 
 Hi [First Name],
 
-CVS Health Ventures's strategic position in health and wellness makes you an ideal voice at our Family Office table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given CVS Health Ventures's focus on health. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1153,19 +1009,16 @@ Angel Gambino
 
 Hi David,
 
-With Decarbonization Partners's portfolio spanning AI and sustainability, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Decarbonization Partners's focus on AI, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1177,19 +1030,16 @@ Angel Gambino
 
 Hi Gia,
 
-With Eden Global Partners's portfolio spanning health and wellness, AI and deep tech, I think you'd find the Family Office conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Eden Global Partners's focus on health, AI. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1201,26 +1051,22 @@ Angel Gambino
 
 Hi John,
 
-Energize Ventures's commitment to AI, sustainability and enterprise tech is exactly the perspective we want at the Family Office table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Energize Ventures's focus on AI, enterprise, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Family Office Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together multigenerational stewards exploring longevity, wellbeing, values-aligned technology, and durable societal impact. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Family Office Dinner** will focus on longevity, wellbeing, values-aligned technology, and durable societal impact. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
 ---
 
 # ANGEL INVESTOR DINNER (25 investors)
-*early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled*
 
 ---
 
@@ -1230,19 +1076,16 @@ Angel Gambino
 
 Hi John,
 
-Your investment focus on health and wellness and food and agriculture aligns perfectly with the themes of our Angel Investor gathering — and I think you'd both contribute to and benefit from the caliber of conversation we're assembling.
+I'm reaching out given Satiate Syndicate's focus on health, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1254,19 +1097,16 @@ Angel Gambino
 
 Hi Jay,
 
-Your investment focus on life sciences aligns perfectly with the themes of our Angel Investor gathering — and I think you'd both contribute to and benefit from the caliber of conversation we're assembling.
+I'm reaching out given Natural Capital's focus on life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1278,19 +1118,16 @@ Angel Gambino
 
 Hi [First Name],
 
-With Equilibra Partners Management's focus on health and wellness, consumer and food and agriculture, I thought you'd bring exactly the right perspective to our Angel Investor table — where we'll explore how these sectors intersect with human flourishing and AI.
+I'm reaching out given Equilibra Partners Management's focus on health, consumer, impact. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1302,19 +1139,16 @@ Angel Gambino
 
 Hi Julian,
 
-Goldman Sachs Investment Group's commitment to health and wellness, AI and sustainability is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Goldman Sachs Investment Group's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1326,19 +1160,16 @@ Angel Gambino
 
 Hi Jeff,
 
-With Greenbacker Capital (GDEV)'s portfolio spanning AI and sustainability, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Greenbacker Capital (GDEV)'s focus on AI, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1350,19 +1181,16 @@ Angel Gambino
 
 Hi Kristian,
 
-With High Alpha Innovation's portfolio spanning health and wellness, AI and sustainability, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given High Alpha Innovation's focus on health, AI, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1374,19 +1202,16 @@ Angel Gambino
 
 Hi John,
 
-Impact America Fund's commitment to AI, fintech and enterprise tech is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Impact America Fund's focus on AI, consumer, impact. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1398,19 +1223,16 @@ Angel Gambino
 
 Hi Jessica,
 
-Impact Engine's commitment to health and wellness, sustainability and fintech is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Impact Engine's focus on health, fintech, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1422,19 +1244,16 @@ Angel Gambino
 
 Hi Zach,
 
-With Integrated VC's portfolio spanning health and wellness, life sciences and consumer, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Integrated VC's focus on health, consumer, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1446,19 +1265,16 @@ Angel Gambino
 
 Hi Gil,
 
-KawiSafi Ventures's commitment to AI, sustainability and fintech is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given KawiSafi Ventures's focus on AI, fintech, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1470,19 +1286,16 @@ Angel Gambino
 
 Hi Ben,
 
-With Lerer Hippeau's portfolio spanning health and wellness, AI and life sciences, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Lerer Hippeau's focus on health, AI, media/entertainment. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1494,19 +1307,16 @@ Angel Gambino
 
 Hi Olaf,
 
-With Maniv's portfolio spanning AI, sustainability and enterprise tech, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Maniv's focus on AI, enterprise, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1518,19 +1328,16 @@ Angel Gambino
 
 Hi Sherri,
 
-Mastercard's strategic position in AI, fintech and consumer makes you an ideal voice at our Angel Investor table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Mastercard's focus on AI, consumer, impact. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1542,19 +1349,16 @@ Angel Gambino
 
 Hi Carmichael,
 
-With Material Impact's portfolio spanning life sciences, sustainability and deep tech, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Material Impact's focus on life sciences, climate, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1566,19 +1370,16 @@ Angel Gambino
 
 Hi Jan,
 
-MUUS Climate Partners's commitment to AI, sustainability and food and agriculture is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given MUUS Climate Partners's focus on AI, climate, food/ag. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1590,19 +1391,16 @@ Angel Gambino
 
 Hi Patricia,
 
-Nationwide Ventures's strategic position in health and wellness, AI and sustainability makes you an ideal voice at our Angel Investor table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Nationwide Ventures's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1614,19 +1412,16 @@ Angel Gambino
 
 Hi Paul,
 
-NYU Impact Investing Fund (NIIF)'s commitment to health and wellness, sustainability and fintech is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given NYU Impact Investing Fund (NIIF)'s focus on health, fintech, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1638,19 +1433,16 @@ Angel Gambino
 
 Hi Pratima,
 
-OGCI Climate Investments's commitment to AI and sustainability is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given OGCI Climate Investments's focus on AI, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1662,19 +1454,16 @@ Angel Gambino
 
 Hi Nacho,
 
-Olympus Innovation Ventures's strategic position in health and wellness and health tech makes you an ideal voice at our Angel Investor table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Olympus Innovation Ventures's focus on health. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1686,19 +1475,16 @@ Angel Gambino
 
 Hi Robin,
 
-With Picus Capital's portfolio spanning health and wellness, AI and fintech, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Picus Capital's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1710,19 +1496,16 @@ Angel Gambino
 
 Hi Simon,
 
-With Revelstoke Capital Partners's portfolio spanning health and wellness, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Revelstoke Capital Partners's focus on health. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1734,19 +1517,16 @@ Angel Gambino
 
 Hi John,
 
-With Shine Capital's portfolio spanning health and wellness, AI and sustainability, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Shine Capital's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1758,19 +1538,16 @@ Angel Gambino
 
 Hi David,
 
-With Tenfore Holdings's portfolio spanning health and wellness, AI and enterprise tech, I think you'd find the Angel Investor conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Tenfore Holdings's focus on health, AI, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1782,19 +1559,16 @@ Angel Gambino
 
 Hi Maya,
 
-TSEF: The Social Entrepreneurs' Fund's commitment to health and wellness, fintech and enterprise tech is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given TSEF: The Social Entrepreneurs' Fund's focus on health, impact, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1806,26 +1580,22 @@ Angel Gambino
 
 Hi Leo,
 
-Veranda Venture Partners's commitment to AI, sustainability and consumer is exactly the perspective we want at the Angel Investor table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Veranda Venture Partners's focus on AI, consumer, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **Angel Investor Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together early-stage investors shaping how human-centered AI companies are funded, governed, and responsibly scaled. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **Angel Investor Dinner** will focus on how human-centered AI companies are funded, governed, and responsibly scaled. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
 ---
 
 # VC DINNER (25 investors)
-*growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI*
 
 ---
 
@@ -1835,19 +1605,16 @@ Angel Gambino
 
 Hi Samir,
 
-With Vine Ventures's portfolio spanning health and wellness, life sciences and health tech, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Vine Ventures's focus on health, life sciences, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1859,19 +1626,16 @@ Angel Gambino
 
 Hi Bryan,
 
-H/L Ventures's strategic position in AI, sustainability and enterprise tech makes you an ideal voice at our VC table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given H/L Ventures's focus on AI, impact, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1883,19 +1647,16 @@ Angel Gambino
 
 Hi Michael,
 
-With AgFunder's portfolio spanning AI, sustainability and consumer, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given AgFunder's focus on AI, consumer, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1907,19 +1668,16 @@ Angel Gambino
 
 Hi Celeste,
 
-Alante Capital's commitment to AI, life sciences and sustainability is exactly the perspective we want at the VC table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Alante Capital's focus on AI, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1931,19 +1689,16 @@ Angel Gambino
 
 Hi Hadiyah,
 
-Black Opal Ventures's commitment to health and wellness, AI and life sciences is exactly the perspective we want at the VC table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Black Opal Ventures's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1955,19 +1710,16 @@ Angel Gambino
 
 Hi Suzanne,
 
-Catalytic Impact Foundation's commitment to health and wellness, life sciences and health tech is exactly the perspective we want at the VC table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Catalytic Impact Foundation's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -1979,19 +1731,16 @@ Angel Gambino
 
 Hi John,
 
-With Emerald Development Managers,  LP's portfolio spanning AI, life sciences and sustainability, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Emerald Development Managers,  LP's focus on AI, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2003,19 +1752,16 @@ Angel Gambino
 
 Hi Simon,
 
-With Episode 1 Ventures's portfolio spanning health and wellness, AI and life sciences, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Episode 1 Ventures's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2027,19 +1773,16 @@ Angel Gambino
 
 Hi Marco,
 
-With Liftt Spa's portfolio spanning health and wellness, life sciences and sustainability, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Liftt Spa's focus on health, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2051,19 +1794,16 @@ Angel Gambino
 
 Hi Ezra,
 
-With Overview Capital's portfolio spanning health and wellness, AI and life sciences, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Overview Capital's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2075,19 +1815,16 @@ Angel Gambino
 
 Hi Deborah,
 
-With Plum Alley Investments's portfolio spanning health and wellness, AI and life sciences, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Plum Alley Investments's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2099,19 +1836,16 @@ Angel Gambino
 
 Hi Jordan,
 
-With Radian Capital's portfolio spanning AI, sustainability and fintech, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Radian Capital's focus on AI, consumer, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2123,19 +1857,16 @@ Angel Gambino
 
 Hi Wende,
 
-With Canaan Partners's portfolio spanning health and wellness, life sciences and enterprise tech, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Canaan Partners's focus on health, consumer, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2147,19 +1878,16 @@ Angel Gambino
 
 Hi [First Name],
 
-Citi's strategic position in AI, sustainability and fintech makes you an ideal voice at our VC table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given Citi's focus on AI, fintech, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2171,19 +1899,16 @@ Angel Gambino
 
 Hi Sanjay,
 
-With Fine Structure Ventures's portfolio spanning AI, life sciences and sustainability, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Fine Structure Ventures's focus on AI, life sciences, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2195,19 +1920,16 @@ Angel Gambino
 
 Hi [First Name],
 
-Firework Ventures's commitment to health and wellness, fintech and education is exactly the perspective we want at the VC table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Firework Ventures's focus on health, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2219,19 +1941,16 @@ Angel Gambino
 
 Hi Jim,
 
-With Foresite Capital's portfolio spanning health and wellness, AI and life sciences, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Foresite Capital's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2243,19 +1962,16 @@ Angel Gambino
 
 Hi Jonathan,
 
-FTW Ventures's commitment to health and wellness, AI and life sciences is exactly the perspective we want at the VC table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given FTW Ventures's focus on health, AI, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2267,19 +1983,16 @@ Angel Gambino
 
 Hi Troy,
 
-gener8tor's strategic position in health and wellness, AI and sustainability makes you an ideal voice at our VC table, where we're bringing together capital leaders who are actively shaping how technology serves human potential.
+I'm reaching out given gener8tor's focus on health, AI, fintech. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2291,19 +2004,16 @@ Angel Gambino
 
 Hi Hans,
 
-With GGV's portfolio spanning AI, fintech and enterprise tech, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given GGV's focus on AI, consumer, impact. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2315,19 +2025,16 @@ Angel Gambino
 
 Hi Anand,
 
-With Petrichor Healthcare Capital Management's portfolio spanning health and wellness, life sciences and health tech, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Petrichor Healthcare Capital Management's focus on health, life sciences. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2339,19 +2046,16 @@ Angel Gambino
 
 Hi Patrick,
 
-Pulse Fund's commitment to AI, sustainability and enterprise tech is exactly the perspective we want at the VC table — these dinners are designed for investors who believe technology should expand human capacity, not replace it.
+I'm reaching out given Pulse Fund's focus on AI, enterprise, climate. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2363,19 +2067,16 @@ Angel Gambino
 
 Hi Ashish,
 
-With Redesign Health's portfolio spanning health and wellness, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Redesign Health's focus on health. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2387,19 +2088,16 @@ Angel Gambino
 
 Hi Chris,
 
-With SignalFire's portfolio spanning health and wellness, AI and fintech, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given SignalFire's focus on health, AI, consumer. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 
@@ -2411,19 +2109,16 @@ Angel Gambino
 
 Hi Peter,
 
-With Summit Partners's portfolio spanning AI, enterprise tech and consumer, I think you'd find the VC conversation both relevant and generative — we're assembling a group of capital leaders who are thinking deeply about human-centered AI.
+I'm reaching out given Summit Partners's focus on AI, consumer, enterprise. I'm co-hosting a series of Jeffersonian dinners during Human Tech Week in San Francisco, and your perspective would add real value to the table.
 
-I'm co-hosting a series of invitation-only **Jeffersonian dinners** during **Human Tech Week** in San Francisco (May 11–15), and I'd love for you to join us at the **VC Dinner**.
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors). These dinners bring together 12 investors per table for off-the-record conversation at the intersection of AI, human performance, and long-term capital.
 
-This dinner brings together growth-stage and institutional VCs aligning on theses, governance norms, and category creation in Human Performance + AI. Just 12 guests, off-the-record, designed for the kind of honest, substantive conversation that rarely happens at conferences.
-
-Our co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, XPRIZE, and Stanford — and the series is presented in collaboration with the **Positive Technology Institute**.
+The **VC Dinner** will focus on growth-stage theses and category creation in Human Performance + AI. Co-hosts include leaders from Goldman Sachs, Esalen Institute, Google, Kleiner Perkins, NASA, and XPRIZE.
 
 **When:** May 11–15, 2026 (specific date confirmed upon RSVP)
 **Where:** San Francisco (venue confirmed upon RSVP)
-**Format:** 12 guests, off-the-record Jeffersonian dinner
 
-Would love to have you at the table. Just reply and I'll share the details.
+Are you open to joining us?
 
 Angel Gambino
 

@@ -1,10 +1,9 @@
-# DRAFT — ACA Summit: Personalized Email Invitations
+# DRAFT — ACA Summit: Personalized Email Invitations (v2)
 **Status:** FOR ANGEL'S REVIEW — DO NOT SEND
 **Event:** Angel Capital Association Summit 2026
 **Dates:** April 21–23, 2026
 **Location:** The Westin, Westminster, Colorado
 **Angel's role:** Keynote speaker
-**Tone:** Softer ask — coffee/meeting at their conference, not hosting a separate event
 
 ---
 
@@ -13,13 +12,14 @@
 
 Hi Manny,
 
-With Wheelhouse 360's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Wheelhouse 360's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -30,13 +30,14 @@ Angel Gambino
 
 Hi Kelly,
 
-Your focus on health and wellness and fintech caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given 360 Venture Collective's focus on health, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -47,13 +48,14 @@ Angel Gambino
 
 Hi Jonathan,
 
-Your focus on health and wellness and food/ag caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Jonathan Wasserstrum's focus on health, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -64,13 +66,14 @@ Angel Gambino
 
 Hi Tony,
 
-Your focus on enterprise/SaaS, sustainability and food/ag caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Climate Venture Partners's focus on enterprise, climate, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -81,13 +84,14 @@ Angel Gambino
 
 Hi William,
 
-Your focus on AI, fintech and food/ag caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Uber Alumni Investment Club's focus on AI, fintech, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -98,13 +102,14 @@ Angel Gambino
 
 Hi Justin,
 
-Your focus on AI and fintech caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Inkwell Ventures's focus on AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -115,13 +120,14 @@ Angel Gambino
 
 Hi James,
 
-Your focus on sustainability caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Nexus Labs's focus on climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -132,13 +138,14 @@ Angel Gambino
 
 Hi Salman,
 
-Your focus on AI and fintech caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Australian Gulf Capital's focus on AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -149,13 +156,14 @@ Angel Gambino
 
 Hi Valerie,
 
-Your focus on sustainability caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Nucleation Capital's focus on climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -166,13 +174,14 @@ Angel Gambino
 
 Hi Robert,
 
-Your focus on education caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Blue Titan Ventures's focus on education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -183,13 +192,14 @@ Angel Gambino
 
 Hi Zecca,
 
-I came across Zecca J. Lehn and thought we'd have a lot to talk about.
+I'm reaching out given Zecca J. Lehn's focus on early-stage investing. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -200,13 +210,14 @@ Angel Gambino
 
 Hi Joe,
 
-Your focus on enterprise/SaaS caught my eye — I run Angel Club (6,000+ founders, 400+ investors) and I think there's real overlap in how we think about deal flow and backing founders in these spaces.
+I'm reaching out given Joe Nigro's focus on enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -217,13 +228,14 @@ Angel Gambino
 
 Hi Alex,
 
-With Bright Ventures's portfolio spanning health and wellness, AI and impact, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Bright Ventures's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -234,13 +246,14 @@ Angel Gambino
 
 Hi Claire,
 
-With Carbon6 VC's portfolio spanning health and wellness and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Carbon6 VC's focus on health, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -251,13 +264,14 @@ Angel Gambino
 
 Hi Hoda,
 
-Chasing Rainbows's commitment to health and wellness, AI and fintech resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Chasing Rainbows's focus on health, AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -268,13 +282,14 @@ Angel Gambino
 
 Hi Sean,
 
-With Colle Capital Partners's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Colle Capital Partners's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -285,13 +300,14 @@ Angel Gambino
 
 Hi John,
 
-With ff Venture Capital's portfolio spanning AI, consumer and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given ff Venture Capital's focus on AI, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -302,13 +318,14 @@ Angel Gambino
 
 Hi Ian,
 
-With Greycroft's portfolio spanning health and wellness, consumer and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Greycroft's focus on health, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -319,13 +336,14 @@ Angel Gambino
 
 Hi Heather,
 
-With Human Ventures's portfolio spanning health and wellness and media, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Human Ventures's focus on health, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -336,13 +354,14 @@ Angel Gambino
 
 Hi Oana,
 
-Given IRL Ventures's hands-on approach to health and wellness and consumer, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given IRL Ventures's focus on health, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -353,13 +372,14 @@ Angel Gambino
 
 Hi Eric,
 
-With Lightbank's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Lightbank's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -370,13 +390,14 @@ Angel Gambino
 
 Hi Emily,
 
-With Liminal Ventures's portfolio spanning health and wellness, consumer and media, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Liminal Ventures's focus on health, consumer, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -387,13 +408,14 @@ Angel Gambino
 
 Hi Lisa,
 
-With MicDrop Capital's portfolio spanning health and wellness, consumer and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given MicDrop Capital's focus on health, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -404,13 +426,14 @@ Angel Gambino
 
 Hi Rob,
 
-With Nextview Ventures's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Nextview Ventures's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -421,13 +444,14 @@ Angel Gambino
 
 Hi Steve,
 
-With Revolution Growth's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Revolution Growth's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -438,13 +462,14 @@ Angel Gambino
 
 Hi Pocket,
 
-With SoGal Ventures's portfolio spanning health and wellness, impact and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given SoGal Ventures's focus on health, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -455,13 +480,14 @@ Angel Gambino
 
 Hi David,
 
-With Springbank Collective's portfolio spanning health and wellness and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Springbank Collective's focus on health, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -472,13 +498,14 @@ Angel Gambino
 
 Hi Kaitlin,
 
-With Suttona Capital LLC's portfolio spanning health and wellness, consumer and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Suttona Capital LLC's focus on health, consumer, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -489,13 +516,14 @@ Angel Gambino
 
 Hi John,
 
-Teneo Ventures's strategic focus on health and wellness, AI and enterprise/SaaS is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given Teneo Ventures's focus on health, AI, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -506,13 +534,14 @@ Angel Gambino
 
 Hi Emily,
 
-With Threshold Ventures's portfolio spanning health and wellness, consumer and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Threshold Ventures's focus on health, consumer, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -523,13 +552,14 @@ Angel Gambino
 
 Hi Fred,
 
-With Union Square Ventures's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Union Square Ventures's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -540,13 +570,14 @@ Angel Gambino
 
 Hi Brian,
 
-With 3L Capital's portfolio spanning consumer and media, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given 3L Capital's focus on consumer, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -557,13 +588,14 @@ Angel Gambino
 
 Hi Claus,
 
-With Asabys Partners's portfolio spanning health and wellness, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Asabys Partners's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -574,13 +606,14 @@ Angel Gambino
 
 Hi Ahmed,
 
-With Avenir Growth Capital's portfolio spanning health and wellness, consumer and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Avenir Growth Capital's focus on health, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -591,13 +624,14 @@ Angel Gambino
 
 Hi Eva,
 
-Beyond Capital Ventures's commitment to health and wellness, fintech and sustainability resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Beyond Capital Ventures's focus on health, fintech, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -608,13 +642,14 @@ Angel Gambino
 
 Hi Michael,
 
-Given BioNexus's hands-on approach to health and wellness and life sciences, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given BioNexus's focus on health, life sciences. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -625,13 +660,14 @@ Angel Gambino
 
 Hi Gary,
 
-Given Companyon Ventures's hands-on approach to health and wellness, AI and fintech, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Companyon Ventures's focus on health, AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -642,13 +678,14 @@ Angel Gambino
 
 Hi Charles,
 
-With CREADEV's focus on health and wellness, sustainability and food/ag, I think we'd have a great conversation about what we're each seeing in the early-stage landscape — and where the best co-investment opportunities are emerging.
+I'm reaching out given CREADEV's focus on health, climate, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -659,13 +696,14 @@ Angel Gambino
 
 Hi Lander,
 
-Diageo Ventures's strategic focus on AI, impact and consumer is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given Diageo Ventures's focus on AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -676,13 +714,14 @@ Angel Gambino
 
 Hi Anna,
 
-With Digitalis Ventures's portfolio spanning health and wellness, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Digitalis Ventures's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -693,13 +732,14 @@ Angel Gambino
 
 Hi Stephen,
 
-With Eir Partners's portfolio spanning health and wellness, fintech and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Eir Partners's focus on health, fintech, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -710,13 +750,14 @@ Angel Gambino
 
 Hi Danny,
 
-With Enlightened Hospitality Investments's portfolio spanning AI, consumer and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Enlightened Hospitality Investments's focus on AI, consumer, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -727,13 +768,14 @@ Angel Gambino
 
 Hi Drew,
 
-GreyMatter Capital's commitment to health and wellness resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given GreyMatter Capital's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -744,13 +786,14 @@ Angel Gambino
 
 Hi Libby,
 
-With Hatzimemos, Libby's portfolio spanning impact, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Hatzimemos, Libby's focus on impact. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -761,13 +804,14 @@ Angel Gambino
 
 Hi Michael,
 
-With Infinite Road's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Infinite Road's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -778,13 +822,14 @@ Angel Gambino
 
 Hi Wen,
 
-With Innovius Capital's portfolio spanning health and wellness, life sciences and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Innovius Capital's focus on health, life sciences, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -795,13 +840,14 @@ Angel Gambino
 
 Hi Bryan,
 
-Kirchner Group's commitment to impact, consumer and food/ag resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Kirchner Group's focus on consumer, impact, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -812,13 +858,14 @@ Angel Gambino
 
 Hi Kwame,
 
-Given Kupanda Capital's hands-on approach to AI, sustainability and media, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Kupanda Capital's focus on AI, climate, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -829,13 +876,14 @@ Angel Gambino
 
 Hi Jeffrey,
 
-With Laconia Capital Group's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Laconia Capital Group's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -846,13 +894,14 @@ Angel Gambino
 
 Hi Martin,
 
-With ME Ventures's portfolio spanning AI, impact and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given ME Ventures's focus on AI, fintech, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -863,13 +912,14 @@ Angel Gambino
 
 Hi Kelsi,
 
-With Neon's portfolio spanning health and wellness, life sciences and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Neon's focus on health, consumer, life sciences. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -880,13 +930,14 @@ Angel Gambino
 
 Hi Troy,
 
-With PLUS Capital's portfolio spanning health and wellness, consumer and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given PLUS Capital's focus on health, consumer, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -897,13 +948,14 @@ Angel Gambino
 
 Hi Greg,
 
-With Preface Ventures's portfolio spanning health and wellness, AI and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Preface Ventures's focus on health, AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -914,13 +966,14 @@ Angel Gambino
 
 Hi Brad,
 
-With Primary Ventures's portfolio spanning health and wellness, consumer and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Primary Ventures's focus on health, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -931,13 +984,14 @@ Angel Gambino
 
 Hi Alex,
 
-Given Reciprocal Studio's hands-on approach to AI, sustainability and food/ag, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Reciprocal Studio's focus on AI, climate, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -948,13 +1002,14 @@ Angel Gambino
 
 Hi Pratik,
 
-Given Remedy Product Studio's hands-on approach to health and wellness, fintech and education, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Remedy Product Studio's focus on health, fintech, education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -965,13 +1020,14 @@ Angel Gambino
 
 Hi Leo,
 
-With Rogue Venture Partners's portfolio spanning health and wellness, consumer and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Rogue Venture Partners's focus on health, consumer, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -982,13 +1038,14 @@ Angel Gambino
 
 Hi Mike,
 
-With Rosecliff Ventures's portfolio spanning health and wellness, AI and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Rosecliff Ventures's focus on health, AI, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -999,13 +1056,14 @@ Angel Gambino
 
 Hi Guillaume,
 
-Solvay Ventures's strategic focus on health and wellness and sustainability is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given Solvay Ventures's focus on health, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1016,13 +1074,14 @@ Angel Gambino
 
 Hi Kash,
 
-Synchrony Ventures's strategic focus on health and wellness, consumer and fintech is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given Synchrony Ventures's focus on health, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1033,13 +1092,14 @@ Angel Gambino
 
 Hi Andrew,
 
-Given Town Hall Ventures's hands-on approach to health and wellness, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Town Hall Ventures's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1050,13 +1110,14 @@ Angel Gambino
 
 Hi Dan,
 
-VNS Health's strategic focus on health and wellness is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given VNS Health's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1067,13 +1128,14 @@ Angel Gambino
 
 Hi Sarah,
 
-With Windham Venture Partners's portfolio spanning health and wellness and education, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Windham Venture Partners's focus on health, education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1084,13 +1146,14 @@ Angel Gambino
 
 Hi Ray,
 
-Given Aegis Ventures's hands-on approach to health and wellness and AI, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Aegis Ventures's focus on health, AI. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1101,13 +1164,14 @@ Angel Gambino
 
 Hi Julian,
 
-With Alliance Consumer Growth's portfolio spanning AI, consumer and food/ag, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Alliance Consumer Growth's focus on AI, consumer, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1118,13 +1182,14 @@ Angel Gambino
 
 Hi Yolanda,
 
-With Althea Group's portfolio spanning health and wellness, life sciences and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Althea Group's focus on health, life sciences, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1135,13 +1200,14 @@ Angel Gambino
 
 Hi Harshul,
 
-American Express Ventures's strategic focus on AI, consumer and fintech is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given American Express Ventures's focus on AI, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1152,13 +1218,14 @@ Angel Gambino
 
 Hi Melissa,
 
-With Arbor Ventures's portfolio spanning health and wellness, AI and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Arbor Ventures's focus on health, AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1169,13 +1236,14 @@ Angel Gambino
 
 Hi [First Name],
 
-With Arkitekt Ventures's portfolio spanning health and wellness, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Arkitekt Ventures's focus on health, deep tech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1186,13 +1254,14 @@ Angel Gambino
 
 Hi Courtney,
 
-With Avalanche VC's portfolio spanning enterprise/SaaS, media and education, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Avalanche VC's focus on enterprise, media, education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1203,13 +1272,14 @@ Angel Gambino
 
 Hi Addie,
 
-With Avid Ventures's portfolio spanning AI, consumer and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Avid Ventures's focus on AI, consumer, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1220,13 +1290,14 @@ Angel Gambino
 
 Hi Matt,
 
-BDMI's strategic focus on fintech, enterprise/SaaS and media is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given BDMI's focus on fintech, enterprise, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1237,13 +1308,14 @@ Angel Gambino
 
 Hi [First Name],
 
-With Bios Health Group's portfolio spanning health and wellness and life sciences, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Bios Health Group's focus on health, life sciences. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1254,13 +1326,14 @@ Angel Gambino
 
 Hi Alexandre,
 
-With Blisce's focus on consumer and sustainability, I think we'd have a great conversation about what we're each seeing in the early-stage landscape — and where the best co-investment opportunities are emerging.
+I'm reaching out given Blisce's focus on consumer, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1271,13 +1344,14 @@ Angel Gambino
 
 Hi [First Name],
 
-Broadway Women's Fund's commitment to AI and media resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Broadway Women's Fund's focus on AI, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1288,13 +1362,14 @@ Angel Gambino
 
 Hi Tyler,
 
-With Catalyst Investors's portfolio spanning health and wellness, AI and fintech, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Catalyst Investors's focus on health, AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1305,13 +1380,14 @@ Angel Gambino
 
 Hi Mark,
 
-Concord Health Partners's commitment to health and wellness resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Concord Health Partners's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1322,13 +1398,14 @@ Angel Gambino
 
 Hi Kesha,
 
-Dive In (Diversity Investments)'s commitment to impact, fintech and sustainability resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Dive In (Diversity Investments)'s focus on fintech, climate, education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1339,13 +1416,14 @@ Angel Gambino
 
 Hi Chris,
 
-With Edison Partners's portfolio spanning health and wellness, fintech and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Edison Partners's focus on health, fintech, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1356,13 +1434,14 @@ Angel Gambino
 
 Hi Linda,
 
-Given Endeavor's hands-on approach to consumer and food/ag, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Endeavor's focus on consumer, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1373,13 +1452,14 @@ Angel Gambino
 
 Hi Nihal,
 
-Given Eniac Ventures's hands-on approach to health and wellness, AI and fintech, I think we'd have a lot to discuss about how the early-stage ecosystem is evolving — especially around founder support and syndication.
+I'm reaching out given Eniac Ventures's focus on health, AI, fintech. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1390,13 +1470,14 @@ Angel Gambino
 
 Hi Rich,
 
-Equal Opportunity Ventures's commitment to health and wellness and education resonates with a lot of what I'm seeing from the strongest founders in our Angel Club community. Would love to compare notes on the ecosystem.
+I'm reaching out given Equal Opportunity Ventures's focus on health, education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1407,13 +1488,14 @@ Angel Gambino
 
 Hi Gareth,
 
-Equinor Ventures's strategic focus on AI and sustainability is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given Equinor Ventures's focus on AI, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1424,13 +1506,14 @@ Angel Gambino
 
 Hi Josh,
 
-With First Round Capital's portfolio spanning health and wellness and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given First Round Capital's focus on health, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1441,13 +1524,14 @@ Angel Gambino
 
 Hi Tina,
 
-With G9 Ventures's portfolio spanning health and wellness and consumer, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given G9 Ventures's focus on health, consumer. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1458,13 +1542,14 @@ Angel Gambino
 
 Hi Mike,
 
-With Galaxy Digital's portfolio spanning AI, consumer and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Galaxy Digital's focus on AI, consumer, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1475,13 +1560,14 @@ Angel Gambino
 
 Hi James,
 
-With Great Wave Ventures's portfolio spanning AI and sustainability, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Great Wave Ventures's focus on AI, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1492,13 +1578,14 @@ Angel Gambino
 
 Hi Eric,
 
-With Growth Stack Inc's portfolio spanning AI, enterprise/SaaS and sustainability, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Growth Stack Inc's focus on AI, enterprise, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1509,13 +1596,14 @@ Angel Gambino
 
 Hi David,
 
-With Health Enterprise Partners's portfolio spanning health and wellness, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Health Enterprise Partners's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1526,13 +1614,14 @@ Angel Gambino
 
 Hi Dan,
 
-Highmark Ventures's strategic focus on health and wellness is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given Highmark Ventures's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1543,13 +1632,14 @@ Angel Gambino
 
 Hi [First Name],
 
-With International's focus on AI and sustainability, I think we'd have a great conversation about what we're each seeing in the early-stage landscape — and where the best co-investment opportunities are emerging.
+I'm reaching out given International's focus on AI, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1560,13 +1650,14 @@ Angel Gambino
 
 Hi Dan,
 
-JP Morgan Morgan Health Ventures's strategic focus on health and wellness is particularly interesting to me — I'm seeing a lot of early-stage innovation in these sectors through Angel Club, and I think there could be interesting deal flow alignment.
+I'm reaching out given JP Morgan Morgan Health Ventures's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1577,13 +1668,14 @@ Angel Gambino
 
 Hi Maia,
 
-With K50 Ventures's portfolio spanning health and wellness, fintech and education, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given K50 Ventures's focus on health, fintech, education. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1594,13 +1686,14 @@ Angel Gambino
 
 Hi Allan,
 
-With KarpReilly's portfolio spanning AI, consumer and food/ag, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given KarpReilly's focus on AI, consumer, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1611,13 +1704,14 @@ Angel Gambino
 
 Hi Bo,
 
-With Kitchen Fund's portfolio spanning AI, consumer and food/ag, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Kitchen Fund's focus on AI, consumer, food/ag. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1628,13 +1722,14 @@ Angel Gambino
 
 Hi Mitchell,
 
-With Lead Edge Capital's portfolio spanning health and wellness, AI and enterprise/SaaS, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Lead Edge Capital's focus on health, AI, enterprise. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1645,13 +1740,14 @@ Angel Gambino
 
 Hi Aryeh,
 
-With LionTree Partners's portfolio spanning consumer and media, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given LionTree Partners's focus on consumer, media. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1662,13 +1758,14 @@ Angel Gambino
 
 Hi Keith,
 
-With LRVHealth's portfolio spanning health and wellness, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given LRVHealth's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1679,13 +1776,14 @@ Angel Gambino
 
 Hi Matt,
 
-With Meridian Street Capital's portfolio spanning health and wellness, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Meridian Street Capital's focus on health. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
@@ -1696,13 +1794,14 @@ Angel Gambino
 
 Hi Kevin,
 
-With Mirae Asset Venture Capital (US)'s portfolio spanning AI and sustainability, I think a quick coffee would be worth it — I'm seeing interesting patterns in these sectors through Angel Club (6,000+ founders, 400+ investors) and would love to compare notes.
+I'm reaching out given Mirae Asset Venture Capital (US)'s focus on AI, climate. I'm currently seeing a few non-obvious shifts in those markets through Angel Club and my investment banking work that may be relevant to you and your portfolio.
 
-Are you planning to attend the **ACA Summit** in Westminster, Colorado (April 21–23)?
+I've been investing for 20+ years and run Angel Club (6,000+ founders, 400+ investors), in addition to advising on growth capital and M&A.
 
-I'm **keynoting** this year, and I'd love to grab a coffee downstairs afterward to see if there are opportunities to collaborate — whether that's deal flow, co-investing, or just comparing notes on what we're each seeing in the market.
+Will you be at the **ACA Summit** in Westminster (April 21–23)?
+I'm keynoting and will be there throughout. If you're attending, let's find 15 minutes for coffee. If not, I'd love to share views on the market and explore areas of mutual interest on a short call next week.
 
-If you're attending (or considering it), just reply and we'll find a time to connect.
+Are you open to connecting?
 
 Angel Gambino
 
