@@ -30,6 +30,66 @@
       "enabled": true,
       "wakeMode": "now",
       "sessionTarget": "main"
+    },
+    {
+      "id": "monday-kiyan-la-investors",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 24 3 *"
+      },
+      "task": "Remind Angel: Send Kiyan the P1 list of LA-based investors for Needle outreach. Filter the Needle Active list for LA/Southern California investors marked P1. Send via Telegram.",
+      "state": {
+        "nextRunAtMs": 1774360800000
+      },
+      "name": "Cron: 0 14 24 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
+    },
+    {
+      "id": "monday-psymed-outreach",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 24 3 *"
+      },
+      "task": "Remind Angel: Reach out to Psymed Ventures in earls and update Mati on progress. Send via Telegram.",
+      "state": {
+        "nextRunAtMs": 1774360800000
+      },
+      "name": "Cron: 0 14 24 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
+    },
+    {
+      "id": "monday-ciis-approval",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 24 3 *"
+      },
+      "task": "Remind Angel: Send Brock Blomberg (brock@ciis.edu), Michael Pinto (MPINTO@aol.com), and Evan Rutter (erutter@ciis.edu) at CIIS the list of fundraising/donor prospects for their approval before reaching out. The list is at projects/investor-outreach/ciis-donor-targets-v2.csv. Send via Telegram.",
+      "state": {
+        "nextRunAtMs": 1774360800000
+      },
+      "name": "Cron: 0 14 24 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
+    },
+    {
+      "id": "monday-dealcloud-update",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 15 24 3 *"
+      },
+      "task": "Remind Angel: Log into DealCloud to update it. Also send Gary, Mike, and Brewer an update at Nfluence Partners. Send via Telegram.",
+      "state": {
+        "nextRunAtMs": 1774364400000
+      },
+      "name": "Cron: 0 15 24 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     }
   ]
 }
