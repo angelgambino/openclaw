@@ -3,93 +3,53 @@
   "jobs": [
     {
       "id": "investor-checkin",
-      "schedule": {
-        "kind": "cron",
-        "expr": "*/30 * * * *"
-      },
+      "schedule": "*/30 * * * *",
       "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short — what's done, what's in progress, any blockers. Send via Telegram.",
-      "state": {
-        "nextRunAtMs": 1774042200000
-      },
-      "name": "Cron: */30 * * * *",
-      "enabled": true,
-      "wakeMode": "now",
-      "sessionTarget": "main"
+      "channel": "telegram",
+      "to": "telegram:912959241"
     },
     {
       "id": "euno-followup-reminder",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 14 3 4 *"
-      },
+      "schedule": "0 14 3 4 *",
       "task": "Remind Angel to follow up with EUNO (Justin Tibble & Roshani Gami). They were sent a Hubble follow-up email on March 20. Check if they signed up for Ready to Raise or booked another Hubble session. If not, nudge them. Send reminder via Telegram.",
-      "state": {
-        "nextRunAtMs": 1775224800000
-      },
-      "name": "Cron: 0 14 3 4 *",
-      "enabled": true,
-      "wakeMode": "now",
-      "sessionTarget": "main"
+      "channel": "telegram",
+      "to": "telegram:912959241"
     },
     {
       "id": "monday-kiyan-la-investors",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 14 24 3 *"
-      },
+      "schedule": "0 14 24 3 *",
       "task": "Remind Angel: Send Kiyan the P1 list of LA-based investors for Needle outreach. Filter the Needle Active list for LA/Southern California investors marked P1. Send via Telegram.",
-      "state": {
-        "nextRunAtMs": 1774360800000
-      },
-      "name": "Cron: 0 14 24 3 *",
-      "enabled": true,
-      "wakeMode": "now",
-      "sessionTarget": "main"
+      "channel": "telegram",
+      "to": "telegram:912959241"
     },
     {
       "id": "monday-psymed-outreach",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 14 24 3 *"
-      },
+      "schedule": "0 14 24 3 *",
       "task": "Remind Angel: Reach out to Psymed Ventures in earls and update Mati on progress. Send via Telegram.",
-      "state": {
-        "nextRunAtMs": 1774360800000
-      },
-      "name": "Cron: 0 14 24 3 *",
-      "enabled": true,
-      "wakeMode": "now",
-      "sessionTarget": "main"
+      "channel": "telegram",
+      "to": "telegram:912959241"
     },
     {
       "id": "monday-ciis-approval",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 14 24 3 *"
-      },
+      "schedule": "0 14 24 3 *",
       "task": "Remind Angel: Send Brock Blomberg (brock@ciis.edu), Michael Pinto (MPINTO@aol.com), and Evan Rutter (erutter@ciis.edu) at CIIS the list of fundraising/donor prospects for their approval before reaching out. The list is at projects/investor-outreach/ciis-donor-targets-v2.csv. Send via Telegram.",
-      "state": {
-        "nextRunAtMs": 1774360800000
-      },
-      "name": "Cron: 0 14 24 3 *",
-      "enabled": true,
-      "wakeMode": "now",
-      "sessionTarget": "main"
+      "channel": "telegram",
+      "to": "telegram:912959241"
     },
     {
       "id": "monday-dealcloud-update",
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 15 24 3 *"
-      },
+      "schedule": "0 15 24 3 *",
       "task": "Remind Angel: Log into DealCloud to update it. Also send Gary, Mike, and Brewer an update at Nfluence Partners. Send via Telegram.",
-      "state": {
-        "nextRunAtMs": 1774364400000
-      },
-      "name": "Cron: 0 15 24 3 *",
-      "enabled": true,
-      "wakeMode": "now",
-      "sessionTarget": "main"
+      "channel": "telegram",
+      "to": "telegram:912959241"
+    },
+    {
+      "id": "countryline-simon-email",
+      "schedule": "20 0 21 3 *",
+      "task": "Remind Angel: Send Simon and Nathalie at CountryLine the pre-call email + 100-investor sheet before Monday's call. The note is at projects/countryline/note-to-simon-nathalie.md and the investor sheet is at projects/countryline/countryline-investors-100-updated.csv. Send via Telegram.",
+      "channel": "telegram",
+      "to": "telegram:912959241",
+      "cleanup": "delete"
     }
   ]
 }
