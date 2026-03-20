@@ -60,6 +60,8 @@ Going out to investors right now without this work would burn warm introductions
 
 👉 **[angelclub.com/readytoraise](https://www.angelclub.com/readytoraise)**
 
+If you're not ready to commit to the full program yet, at minimum let's **book another Hubble session** so we can work through the deck revisions and outreach strategy together. But honestly — Ready to Raise will get you there faster and more completely than one-off sessions can.
+
 **Visibility in the meantime:**
 Post one takeaway from our conversation on LinkedIn this week. Tag me (Angel Gambino), Angel Club, and Kevin at Hubble. This puts you in front of my network of 400+ investors and creates a credibility signal. Founders who share their journey publicly attract more inbound than those who pitch in DMs.
 
@@ -69,14 +71,15 @@ Start engaging daily with mortgage/fintech investors' LinkedIn posts — thought
 ACA Summit (April 21-23, Westminster CO) is the largest angel investor gathering globally. I'm keynoting. Real estate and fintech angels attend — worth getting there. Pitch Slam (April 9, virtual) is another option — you could pitch to a room of investors in your space.
 
 **Your next steps:**
-1. **Sign up for Ready to Raise** — highest-ROI thing you can do right now → [angelclub.com/readytoraise](https://www.angelclub.com/readytoraise)
-2. Strip the deck down to the mortgage wedge story (cut slides 7-8 to a single "vision" slide)
-3. Add a "what we've built" slide (even wireframes or architecture diagrams)
-4. Rewrite outreach using the templates above
-5. Build a list of 30-50 mortgage/RE/fintech angels
-6. Post on LinkedIn — tag me, Angel Club, and Hubble
-7. Consider whether $4M-$5M cap makes the round easier to close
-8. Book another Hubble session when revised materials are ready
+1. **Sign up for Ready to Raise** — this is the single highest-ROI thing you can do before going out to investors → [angelclub.com/readytoraise](https://www.angelclub.com/readytoraise)
+2. **If not Ready to Raise yet** — book another Hubble session so we can at least fix the deck and outreach together
+3. Strip the deck down to the mortgage wedge story (cut slides 7-8 to a single "vision" slide)
+4. Add a "what we've built" slide (even wireframes or architecture diagrams)
+5. Rewrite outreach using the templates above
+6. Build a list of 30-50 mortgage/RE/fintech angels
+7. Post on LinkedIn — tag me, Angel Club, and Hubble
+8. Consider whether $4M-$5M cap makes the round easier to close
+8. If Ready to Raise isn't the right fit right now, at minimum book another Hubble session so we can work through the deck revisions together → https://hubble.social/angelgambino
 
 The foundation is strong. Justin's domain expertise + Roshani's technical depth is a credible founding team. The mortgage wedge has real pain, real TAM, and real timing. But going out half-ready wastes your best shots. Get sharp first — then go fast.
 
