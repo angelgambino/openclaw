@@ -9,7 +9,8 @@
       },
       "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short \u2014 what's done, what's in progress, any blockers. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774042200000
+        "nextRunAtMs": 1774042200000,
+        "runningAtMs": 1774042200002
       },
       "name": "Cron: */30 * * * *",
       "enabled": true,
@@ -109,10 +110,18 @@
     },
     {
       "id": "health-checkin",
-      "schedule": "0 9-23 * * *",
-      "task": "Quick health check-in with Angel. Ask: How many steps have you done today so far? And how much water have you had? Keep it short and friendly \u2014 just the two questions. If it's the morning (before noon UTC), encourage them to start strong. If it's evening, encourage them to hit their goal before bed. Send via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241"
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9-23 * * *"
+      },
+      "task": "Quick health check-in with Angel. Ask: \ud83d\udeb6\u200d\u2640\ufe0f How many steps today? (Goal: 10,000) \ud83d\udca7 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
+      "state": {
+        "nextRunAtMs": 1774044000000
+      },
+      "name": "Cron: 0 9-23 * * *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     }
   ]
 }
