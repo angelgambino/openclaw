@@ -9,10 +9,24 @@
       },
       "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short — what's done, what's in progress, any blockers. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1773784800000,
-        "runningAtMs": 1774036111172
+        "nextRunAtMs": 1774042200000
       },
       "name": "Cron: */30 * * * *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
+    },
+    {
+      "id": "euno-followup-reminder",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 3 4 *"
+      },
+      "task": "Remind Angel to follow up with EUNO (Justin Tibble & Roshani Gami). They were sent a Hubble follow-up email on March 20. Check if they signed up for Ready to Raise or booked another Hubble session. If not, nudge them. Send reminder via Telegram.",
+      "state": {
+        "nextRunAtMs": 1775224800000
+      },
+      "name": "Cron: 0 14 3 4 *",
       "enabled": true,
       "wakeMode": "now",
       "sessionTarget": "main"
