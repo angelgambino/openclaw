@@ -1,0 +1,41 @@
+Firm,Website Checked,Email Found,Email Type (personal/pitch/general/info),Found On Page (URL),Notes
+Jukebox Ventures,https://jukebox.vc/,none found,n/a,n/a,Domain is for sale (forsale.dynadot.com) - website no longer active
+Mercuri (formerly GMG Ventures),https://www.mercuri.vc/,none found,n/a,https://www.mercuri.vc/,No email on homepage; has LinkedIn link; no contact page found with email
+Crush Ventures,https://www.crushventures.com/,none found,n/a,n/a,Website could not be fetched (connection failed)
+Slow Ventures,https://slow.co/,none found,n/a,https://slow.co/contact/,Contact page has funding application link; callback request form; phone number (888-616-7569); press form - no email addresses listed
+Seven Seven Six (776),https://776.com/,none found,n/a,https://776.com/,Website is JavaScript-rendered only; content could not be extracted
+Night Media / Night Ventures,https://nightmedia.co/,none found,n/a,https://www.night.co/,Redirects to night.co; has physical address (3402 Pico Blvd Santa Monica CA 90405); Get In Touch section but no email visible
+United Talent Agency (UTA),https://www.unitedtalent.com/,none found,n/a,n/a,Website could not be fetched (extraction failed)
+Imaginary Ventures,https://www.imaginaryventures.com/,none found,n/a,n/a,Website could not be fetched (connection failed)
+Inspired Capital,https://inspiredcapital.com/,none found,n/a,https://www.inspiredcapital.com/,No email on homepage; contact page returned 404
+SignalFire,https://signalfire.com/,none found,n/a,https://www.signalfire.com/,No email on homepage or contact pages; uses forms and team page
+Freestyle Capital,https://www.freestylevc.com/,none found,n/a,https://freestyle.vc/,Redirects to freestyle.vc; no email found on homepage or contact pages
+Behind Genius Ventures,https://www.behindgeniusventures.com/,none found,n/a,https://www.behindgeniusventures.com/,Homepage shows blog content only; no email found
+Harlem Capital,https://www.harlemcapital.com/,none found,n/a,https://harlem.capital/contact/,Redirects to harlem.capital; contact page has no visible email; uses forms
+Antler,https://www.antler.co/,none found,n/a,https://www.antler.co/apply,Application form for cohort programs; no general pitch email found
+Index Ventures,https://www.indexventures.com/,none found,n/a,https://www.indexventures.com/,No email on homepage or contact area; large fund uses referral-based approach
+Craft Ventures,https://craftventures.com/,none found,n/a,https://www.craftventures.com/,No email found; no contact page discovered
+AlleyCorp,https://www.alleycorp.com/,none found,n/a,https://alleycorp.com/contact/,Contact page exists but contains no visible email address
+Lightspeed Venture Partners,https://lsvp.com/,none found,n/a,https://lsvp.com/,No email on homepage; large fund likely uses referral approach
+Kindred Capital,https://kindredcapital.vc/,none found,n/a,https://kindredcapital.vc/,No email on homepage; contact page returned 404
+Passion Capital,https://www.passioncapital.com/,info@passioncapital.com,info/general,https://passioncapital.com/ (footer),Email found in website footer; office at 2nd Floor Laxmi The Tanneries 57 Bermondsey Street London SE1 3XJ; site also has Pitch Us button
+Backed VC,https://www.backed.vc/,none found,n/a,https://www.backed.vc/contact,Contact page has newsletter signup form only; no email address visible
+Felix Capital,https://felixcap.com/,none found,n/a,https://www.felixcap.com/contact,Contact page exists but has no visible email; navigation only
+LocalGlobe,https://localglobe.vc/,none found,n/a,https://www.phoenixcourt.vc/localglobe,Redirects to phoenixcourt.vc/localglobe; minimal content; no email found
+Balderton Capital,https://www.balderton.com/,none found,n/a,https://www.balderton.com/contact/,Contact page directs to team page for investment inquiries; phone +44 (0) 20 7016 6800; no email listed
+Seedcamp,https://seedcamp.com/,none found,n/a,https://seedcamp.com/contact/,Contact page says Email Us with link but actual email not visible in text extraction
+Playfair Capital,https://www.playfaircapital.com/,none found,n/a,https://playfair.vc/,Redirects to playfair.vc; no email found on homepage
+MMC Ventures,https://www.mmcventures.com/,none found,n/a,n/a,Website could not be fetched (connection failed)
+Hoxton Ventures,https://www.hoxtonventures.com/,none found,n/a,https://hoxtonventures.com/contact/,Contact page has pitch deck submission form only; no email address
+Forerunner Ventures,https://forerunnerventures.com/,none found,n/a,https://www.forerunnerventures.com/,No email on homepage; footer has Media Inquiry and General Inquiry links (likely forms)
+M13,https://m13.co/,press@m13.co,general/press,https://www.m13.co/ (footer),Press email found in footer; offices in LA (1800 Ave of the Stars) NYC (419 Lafayette St) and SF (114 Sansome St)
+Betaworks,https://betaworks.com/,none found,n/a,https://www.betaworks.com/contact,Contact page has newsletter signup form only; no email address visible
+Lerer Hippeau,https://www.lererhippeau.com/,none found,n/a,https://www.lererhippeau.com/,Minimal homepage; no email found
+Atelier Ventures (Li Jin),https://www.atelierventures.co/,none found,n/a,https://www.atelierventures.co/,NOTE: atelier.co is a different company (beauty manufacturing); Li Jin's fund is at atelierventures.co; no email found on site; has newsletter signup
+Benchmark,https://www.benchmark.com/,none found,n/a,https://www.benchmark.com/,Physical addresses only (140 New Montgomery St SF; 2965 Woodside Rd Woodside); Twitter @benchmark; notoriously private firm
+Greycroft,https://www.greycroft.com/,emails obfuscated by Cloudflare,press + general,https://www.greycroft.com/ (footer),Footer contains two email addresses protected by Cloudflare email obfuscation - one for press/media inquiries and one for all other inquiries; actual addresses not readable
+WndrCo,https://wndrco.com/,none found,n/a,https://www.wndrco.com/,No email found; lists partners and portfolio only
+Maveron,https://maveron.com/,none found,n/a,https://www.maveron.com/,No email found; extensive about page but no contact email
+Goodwater Capital,https://www.goodwatercap.com/,info@goodwatercap.com,info/general,https://www.goodwatercap.com/,Email found on homepage in fraud warning section; used for reporting suspected scams
+Precursor Ventures,https://precursorvc.com/,hello@precursorvc.com,general/pitch,https://precursorvc.com/contact/,Contact page lists hello@precursorvc.com for sponsorship/PR inquiries; startup pitches should use their form; office at 580 Pacific Avenue SF CA 94133
+Notation Capital,https://notation.vc/,hello@notation.vc,general,https://notation.vc/ (footer),Email found in site footer; NYC-based pre-seed fund
