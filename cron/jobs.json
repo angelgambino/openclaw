@@ -118,7 +118,7 @@
       "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
       "state": {
         "nextRunAtMs": 1774044000000,
-        "runningAtMs": 1774116031990
+        "runningAtMs": 1774123235060
       },
       "name": "Cron: 0 9-23 * * *",
       "enabled": true,
