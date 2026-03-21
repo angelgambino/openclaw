@@ -5,7 +5,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Name:** Angel
 - **What to call them:** Angel
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone:** Pacific Time (PT / UTC-7)
 - **Notes:**
 
 ## Context
