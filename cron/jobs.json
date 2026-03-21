@@ -101,7 +101,8 @@
       "task": "Remind Angel: Send Simon and Nathalie at CountryLine the pre-call email + 100-investor sheet before Monday's call. The note is at projects/countryline/note-to-simon-nathalie.md and the investor sheet is at projects/countryline/countryline-investors-100-updated.csv. Send via Telegram.",
       "cleanup": "delete",
       "state": {
-        "nextRunAtMs": 1774052400000
+        "nextRunAtMs": 1774052400000,
+        "runningAtMs": 1774052401537
       },
       "name": "Cron: 20 0 21 3 *",
       "enabled": true,
