@@ -1,0 +1,202 @@
+Name,Fund,Old Type,New Type,Reason
+Peter Lee,Baroda Ventures,Angel,VC,Known VC firm match: baroda ventures
+Nick Adams,AME Cloud Ventures,Family Office,VC,Known VC firm match: ame cloud ventures
+Fabian Hansen,Presight Capital,Family Office,VC,Known VC firm match: presight capital
+Brian Mac Mahon,Expert DOJO,Angel,VC,Known VC firm match: expert dojo
+Andrea Zurek,XG Ventures,Angel,VC,Known VC firm match: xg ventures
+Adam Draper,Boost VC,Angel,VC,Known VC firm match: boost vc
+Lisa Yu,99VC,"Angel Investor, Investor",VC,Known VC firm match: 99vc
+Ramy Adeeb,1984 Ventures,Angel,VC,Known VC firm match: 1984 ventures
+Michael Berolzheimer,Bee Partners,Angel,VC,Known VC firm match: bee partners
+Brian Yee,ACME Capital,Angel,VC,Known VC firm match: acme capital
+Mitul Bisarya,Gen3 Ventures,Family Office,VC,Known VC firm match: gen3 ventures
+Mark Pretorius,Premanco Ventures,Family Office,VC,Known VC firm match: premanco ventures
+Lisa Molinaro,Kapor Capital,Family Office,VC,Known VC firm match: kapor capital
+Divesh Makan,ICONIQ Capital,Family Office,VC,Known VC firm match: iconiq capital
+Ariana Thacker,Conscience VC,Angel,VC,Known VC firm match: conscience vc
+Allison Scott,Kapor Capital,Family Office,VC,Known VC firm match: kapor capital
+Ian Doody,Powerhouse Capital,Angel,VC,Fund name contains VC keyword pattern: \bcapital\b
+Bryant W,SoftBank Investment Advisers,,VC,Known VC firm match: softbank
+Chihyu Chien,AME Cloud Ventures,Family Office,VC,Known VC firm match: ame cloud ventures
+William C. Powers,Strand Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Walter Jin,Three Fields Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Walter Cruttenden,Cruttenden Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Victoria Fram,VilCap Investments,Angel,VC,Known VC firm match: vilcap
+Tracy Saxton,Dolby Family Ventures,Angel/Family Office,VC,Known VC firm match: dolby family ventures
+Tom Baruch,Baruch Future Ventures,Family Office,VC,Known VC firm match: baruch future ventures
+Todd Wilson,"Portola Creek Capital, LLC",Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Thaxter Sharp,Pointu Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Thomas Gottelib,Geolo Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Ted Cronin,Manchester Capital Management LLC,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Sue Xu,Amino Capital (zPark Capital),Angel,VC,Known VC firm match: amino capital
+Steve Farrell,Presidium Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Stephan Reckie,Concordia Ventures,Family Office,VC,Known VC firm match: concordia ventures
+Stephen Prough,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Sam Petke,Willcrest Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Sonia Von Berg,Osborne Partners Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Stephen Lauck,Ashfield Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Shane Hartnett,"Avalon Capital Group, Inc.",Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Karine Sarkissian,Tamar Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Russell Yue,H.I.G. Capital,Angel,VC,Fund name contains VC keyword pattern: \bcapital\b
+Robert Rosner,Buena Vista Fund Management,Family Office,VC,Known VC firm match: buena vista fund
+Rian Cruttenden,Cruttenden Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Stan Ray,"Avalon Capital Group, Inc.",Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Roy Choi,KBW Ventures,Family Office,VC,Fund name contains VC keyword pattern: \bventures?\b
+Pascal Levensohn,Dolby Family Ventures,Family Office,VC,Known VC firm match: dolby family ventures
+Peter Johnson,Ashfield Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Pierre Omidyar,Omidyar Network,Family Office,VC,Known VC firm match: omidyar network
+Peter Phillips,Medley Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Patrick Dunagan,North Range Ventures,Family Office,VC,Known VC firm match: north range ventures
+Pascal Levenson,Dolby Family Ventures,Family Office,VC,Known VC firm match: dolby family ventures
+Aaron Oestmann,"Avalon Capital Group, Inc.",Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Peter Nolan,Nolan Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Nicholas Pritzker,Tao Capital Partners,Family Office,VC,Known VC firm match: tao capital partners
+Naeem Zafar,Concordia Ventures,Family Office,VC,Known VC firm match: concordia ventures
+Mark Udis,Camden Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Mark Stevens,S-Cubed Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Marie Pierre,Hall Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Matthew Jacobson,ICONIQ Capital,Family Office,VC,Known VC firm match: iconiq capital
+Mitchell Reavis,Enter Capital,Family Office,VC,Known VC firm match: enter capital
+Mitchell Kapor,Kapor Capital,Family Office,VC,Known VC firm match: kapor capital
+Mike Harden,"Big Rock Partners, LLC",Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Michael Blanchard,Davis Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Paras Mehta,Nolan Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Margo Doyle,S-Cubed Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Matt Bigliardi,Tao Capital Partners,Family Office,VC,Known VC firm match: tao capital partners
+Matt Lyon,PrideCo Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Martin Gedalin,Lumia Capital,Angel,VC,Known VC firm match: lumia capital
+Mark Pincus,Work Play Ventures,Family Office,VC,Known VC firm match: work play ventures
+Mar Hershenson,"pear VC
+","Investor, Women Investor, Women VC Investor, VC Investor, Accelerator",VC,Known VC firm match: pear vc
+Louis Ryan,Rockefeller Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Larry Webb,Nimble Ventures LLC,Family Office,VC,Known VC firm match: nimble ventures
+Lanse Davis,Davis Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Lan Xuezhao,Basis Set Ventures,Angel,VC,Known VC firm match: basis set ventures
+Kevin Foster,ICONIQ Capital,Family Office,VC,Known VC firm match: iconiq capital
+Kevin M Coughlin,Coughlin Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Kara Boccella,Camden Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Kara Kohlenberg,K2 Capital,Angel/Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Justin W. Mcnichols,Osborne Partners Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+James Ratkovich,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Jeff Peters,Ashfield Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Joel Parrish,Shinnecock Partners LP,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Joyce Cenali,"Big Rock Partners, LLC",Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Josh Bradley,Bellco Capital,Family Office,VC,Known VC firm match: bellco capital
+John Lilly,Lateral Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+John Krambeer,Camden Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Jim Cao,Provenio Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+John Hemmingstad,"Avalon Capital Group, Inc.",Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Jonathan Gans,Ironwood Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Jesse Draper,Halogen Capital,Angel,VC,Known VC firm match: halogen capital
+Jeremy Chused,Provenio Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Jeffrey Reinstein,Geolo Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Jeff Chung,AME Cloud Ventures,Family Office,VC,Known VC firm match: ame cloud ventures
+John Dyett,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Jason Holt,Baruch Future Ventures,Family Office,VC,Known VC firm match: baruch future ventures
+Mitchell Ames,Three Fields Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Hershel Mehta,Mehta Ventures,Family Office,VC,Known VC firm match: mehta ventures
+Huy Do,PrideCo Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Hannah Chang,Wu Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Gary Benitt,Social Leverage,Angel,VC,Known VC firm match: social leverage
+Gary Post,The K Fund,Family Office,VC,Fund name contains VC keyword pattern: \bfund\b
+Frank Troise,Soho Capital LLC,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Frank Newsom,Presidium Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Francis X. (fran) Coughlin,Coughlin Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Erik Ridgley,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Eric Bahn,Hustle Fund,Angel,VC,Known VC firm match: hustle fund
+Eric Menke,Growth Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Ethan Doyle,NorthTower Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Doug Raetz,True Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+David Waxman,TenOneTen,Angel,VC,Known VC firm match: tenoneten
+Diego Alcaino,Pirque Ventures,Family Office,VC,Known VC firm match: pirque ventures
+Claire Chang,gniteXL Ventures,"Investor, Folk Investor List, Woman Angel Investor",VC,Known VC firm match: gnite
+Cindy Padnos,Illuminate Ventures,Angel,VC,Known VC firm match: illuminate ventures
+Chas Bruck,Soho Capital LLC,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Chad Boeding,EPIQ Capital Group,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Carl D. Arnold,Saltwater Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Carl P. Coughlin,Coughlin Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+William Witte,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Austin Browning,Nolan Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Brandon Small,PrideCo Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Ben Krick,Willcrest Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Brendan Houlihan,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Ben Durrant,Provenio Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Arturo Tafolla,Soar Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Alan Snyder,Shinnecock Partners LP,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Arie Belldegrun,Bellco Capital,Family Office,VC,Known VC firm match: bellco capital
+Andrew Glaze,Shiro Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Andrew Ponomarev,Enter Capital,Family Office,VC,Known VC firm match: enter capital
+Andrew Krowne,Dolby Family Ventures,Family Office,VC,Known VC firm match: dolby family ventures
+Alpesh Kadakia,K2 Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Adam Fried,The K Fund,Family Office,VC,Fund name contains VC keyword pattern: \bfund\b
+Tim Millikin,TPG Growth,Angel,VC,Known VC firm match: tpg growth
+Mark Wolfson,Jasper Ridge Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Richard Hayes,Jasper Ridge Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Jeremy Wolfe,Jasper Ridge Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+James Scarbrough,Jasper Ridge Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Joseph Tou,Sony Innvoation Fund,Angel,VC,Fund name contains VC keyword pattern: \bfund\b
+Jeremy Klepner,Jasper Ridge Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Janice Hou,Cure Ventures,Family Office,VC,Known VC firm match: cure ventures
+Erin Lockhart,Merus Capital,Angel,VC,Known VC firm match: merus capital
+Domenic Perri,Vertex Ventures,Angel,VC,Known VC firm match: vertex ventures
+Danielle Strachman,1517 Fund,Angel,VC,Known VC firm match: 1517 fund
+Christian Garrett,Exodus Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Ben Metcalfe,Monochrome Capital,Angel,VC,Fund name contains VC keyword pattern: \bcapital\b
+Austin Clements,Slauson,Angel,VC,Known VC firm match: slauson
+Austin Lawrence,Carolwood Capital Management LLC,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Andrew Boston,Founders Circle Capital,Angel,VC,Known VC firm match: founders circle capital
+Amit Bhatti,500 Startups,Angel,VC,Known VC firm match: 500 startups
+Ajay Singh,Samsung NEXT,Angel,VC,Known VC firm match: samsung next
+Tim Arnold,Set Wave Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Stan Subeck,S-Cubed Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Shahzad M. Khan,Devonshire Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Nicolas Peluffo,"OTB Capital, LLC",Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Nathan Mee,Nimble Ventures LLC,Family Office,VC,Known VC firm match: nimble ventures
+Morgan White,Osborne Partners Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Ted Dardani,Oak Hill Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Melissa Mcjannet,Northleaf Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Joanna Drake,Core Ventures Group,Angel,VC,Known VC firm match: core ventures
+Dylan Shrader,DRD Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+David Powers,Strand Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Dan Fuqua,Andesite Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Tony Chang,Rockefeller Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Brent Whisenant,Medley Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Brett Brown,Dorado Peak Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Boris Albul,EPIQ Capital Group,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Bret Forster,Willcrest Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Laura Sims,C&S Family Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Constantine Hatzivassiliou,Camden Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Justin Bass,True Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Dennis Deandre,DRD Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Fred M. Vaught,Capital Resource Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Mandar Deshpande,Set Wave Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Bo Hyde,Salem Partners LLC,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Neil Rimer,Index Ventures,Angel,VC,Known VC firm match: index ventures
+Miles Grimshaw,Thrive Capital,Family Office,VC,Known VC firm match: thrive capital
+Ryan Graves,Saltwater Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Dhruv Chandhok,Westbridge Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+"Elana Gold
+","Red Beard Ventures
+","Venture Capital, Accelerator",VC,Fund name contains VC keyword pattern: \bventures?\b
+Linda Assante,Jasper Ridge Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Hao Dinh,Rockefeller Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Jason Farber,Carlin Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Zach Walters,Set Wave Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Matthew Greathouse,KBW Ventures,Family Office,VC,Fund name contains VC keyword pattern: \bventures?\b
+Paul Stals,Carlin Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Tricia Hom,Set Wave Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Nirav Bisarya,Gen3 Ventures,Family Office,VC,Known VC firm match: gen3 ventures
+Kevin Harvey,Benchmark,Angel,VC,Known VC firm match: benchmark
+Skip Farber,Carlin Capital Partners,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Dj Van  Keuren,Evergreen Property Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+Andrew Gebhart,Set Wave Capital,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Beijun Luo,Work Play Ventures,Family Office,VC,Known VC firm match: work play ventures
+Edward Feldman,Celina Capital Corporation,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Smeet Mehta,Mehta Ventures,Family Office,VC,Known VC firm match: mehta ventures
+Jeffrey Cruttenden,Cruttenden Partners,Family Office,VC,Fund name contains VC keyword pattern: \bpartners\b
+John Cappetta,Andesite Capital Management,Family Office,VC,Fund name contains VC keyword pattern: \bcapital\b
+Matt Levine,Prime Meridian Capital Management,Angel,VC,Fund name contains VC keyword pattern: \bcapital\b
+Seth Rosenberg,Greylock,Angel,VC,Known VC firm match: greylock
+John Mannes,Basis Set Ventures,Angel,VC,Known VC firm match: basis set ventures
+Astasia Myers,Redpoint,Angel,VC,Known VC firm match: redpoint
+Natalie Sandman,Spark Capital,Angel,VC,Known VC firm match: spark capital
