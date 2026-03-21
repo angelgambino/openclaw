@@ -40,7 +40,7 @@ KNOWN_VC_FIRMS = {
     "dragoneer", "dragoneer investment group",
     "paradigm", "polychain capital", "pantera capital",
     "obvious ventures", "obvious", "collaborative fund",
-    "eniac ventures", "eniac", "lux capital", "lux",
+    "eniac ventures", "eniac", "lux capital",
     "shasta ventures", "shasta", "upfront ventures", "upfront",
     "greycroft", "greycroft partners", "sutter hill ventures", "sutter hill",
     "amplify partners", "amplify", "root ventures",
@@ -204,7 +204,7 @@ KNOWN_VC_FIRMS = {
     "atomico", "atomico ventures",
     "acton capital", "acton capital partners",
     "blossom capital", "blossom",
-    "cherry ventures", "cherry",
+    "cherry ventures",
     "creandum",
     "dawn capital",
     "draper esprit", "draper spirit",
@@ -213,7 +213,7 @@ KNOWN_VC_FIRMS = {
     "european founders fund",
     "fabric ventures",
     "fly ventures",
-    "frontline ventures", "frontline",
+    "frontline ventures",
     "general catalyst europe",
     "holtzbrinck ventures",
     "hv capital",
@@ -311,7 +311,7 @@ KNOWN_ACCELERATORS = {
     "boost vc",
     "capital factory",
     "chinaccelerator",
-    "creative destruction lab", "cdl",
+    "creative destruction lab",
     "creamery capital",
     "gener8tor",
     "globalfoundries",
@@ -431,10 +431,13 @@ KNOWN_CVCS = {
 # Keywords that suggest VC firm (in fund name)
 VC_KEYWORDS = [
     "ventures", "venture partners", "venture capital",
-    "capital partners", "growth equity", "growth capital",
-    "partners fund", "vc fund", "seed fund",
+    "growth equity", "growth capital",
+    "vc fund", "seed fund",
     "early stage fund",
 ]
+
+# These suggest VC but only for Angel→VC reclassification (not family office)
+MODERATE_VC_KEYWORDS = ["capital partners"]
 
 # Keywords that on their own are not sufficient (need context)
 WEAK_VC_KEYWORDS = ["capital", "partners", "fund", "equity", "growth"]
@@ -573,12 +576,18 @@ def check_vc_firm_match(text, firm_set, is_name_field=False):
             # e.g., "spark" should not match "August Spark" 
             if text_norm == firm or text_norm.startswith(firm + " "):
                 return firm
-        elif len(firm) >= 6 and firm in text_norm:
-            # For longer firm names, substring match is OK
-            # But skip if it's matching a person's last name to a fund
-            if is_name_field and len(words) == 1:
-                continue
-            return firm
+        elif len(words) >= 2 and len(firm) >= 8 and firm in text_norm:
+            # For multi-word firm names 8+ chars, require word boundary at start
+            import re as _re
+            if _re.search(r'(?:^|\b)' + _re.escape(firm), text_norm):
+                return firm
+        elif len(words) == 1 and len(firm) >= 8:
+            # Single-word firm, 8+ chars: require word boundary match
+            import re as _re
+            if _re.search(r'\b' + _re.escape(firm) + r'\b', text_norm):
+                if is_name_field:
+                    continue
+                return firm
     return None
 
 
@@ -666,19 +675,16 @@ def classify_investor(name, fund, old_type):
     if fund_norm:
         if has_vc_keywords(fund_norm):
             if is_angel:
-                # Angel with a fund that has VC keywords — likely VC or Angel/VC
                 return "VC", f"Fund name contains VC keywords: '{fund}'"
             elif is_family_office:
-                return "Family Office/VC", f"Fund name contains VC keywords: '{fund}'"
-        elif has_weak_vc_keywords(fund_norm):
-            # Weaker signal — only fix if we have additional context
-            # Check if the fund name itself looks like a VC firm
-            words = fund_norm.split()
-            if len(words) >= 2 and any(w in ["ventures", "venture"] for w in words):
-                if is_angel:
-                    return "VC", f"Fund name suggests VC: '{fund}'"
-                elif is_family_office:
-                    return "Family Office/VC", f"Fund name suggests VC: '{fund}'"
+                # Only reclassify family offices if it has strong VC keywords (not just "capital partners")
+                if any(kw in fund_norm for kw in ["ventures", "venture partners", "venture capital", "vc fund", "seed fund"]):
+                    return "Family Office/VC", f"Fund name contains VC keywords: '{fund}'"
+                # Otherwise leave as Family Office
+        elif any(kw in fund_norm for kw in MODERATE_VC_KEYWORDS):
+            if is_angel:
+                return "VC", f"Fund name suggests VC: '{fund}'"
+            # Don't reclassify family offices on moderate keywords alone
     
     # Check name field for VC-like names (the entity IS a VC firm)
     if name_norm and not fund_norm:
