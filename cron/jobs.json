@@ -102,7 +102,7 @@
       "cleanup": "delete",
       "state": {
         "nextRunAtMs": 1774052400000,
-        "runningAtMs": 1774232473849
+        "runningAtMs": 1774239677077
       },
       "name": "Cron: 20 0 21 3 *",
       "enabled": true,
@@ -118,7 +118,7 @@
       "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
       "state": {
         "nextRunAtMs": 1774044000000,
-        "runningAtMs": 1774231278671
+        "runningAtMs": 1774238481264
       },
       "name": "Cron: 0 9-23 * * *",
       "enabled": true,
