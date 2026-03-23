@@ -10,7 +10,7 @@
       "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short — what's done, what's in progress, any blockers. Send via Telegram.",
       "state": {
         "nextRunAtMs": 1774042200000,
-        "runningAtMs": 1774279898900
+        "runningAtMs": 1774294306445
       },
       "name": "Cron: */30 * * * *",
       "enabled": true,
@@ -102,7 +102,7 @@
       "cleanup": "delete",
       "state": {
         "nextRunAtMs": 1774052400000,
-        "runningAtMs": 1774282894685
+        "runningAtMs": 1774297300150
       },
       "name": "Cron: 20 0 21 3 *",
       "enabled": true,
@@ -118,7 +118,7 @@
       "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
       "state": {
         "nextRunAtMs": 1774044000000,
-        "runningAtMs": 1774281698992
+        "runningAtMs": 1774296104986
       },
       "name": "Cron: 0 9-23 * * *",
       "enabled": true,
