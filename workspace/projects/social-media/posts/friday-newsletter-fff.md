@@ -16,9 +16,10 @@ I won't spoil it. But I'll say this: the conversations in that room were the one
 
 Go see it this weekend. Take someone who doesn't work in tech. That's who needs to see it most.
 
-🎬 Trailer: [link]
-🎙️ Tristan on Bill Maher: [link]
-🎙️ Tristan on Oprah: [link]
+🎬 Trailer: https://youtu.be/r0JVbEmZt6I?si=qxM7Cx2rE7arjxqr
+🎬 Film site: https://www.human.mov/
+✊ Get involved: https://theaidocgetinvolved.com/
+🎙️ Interview: https://youtu.be/ZG2VG0oMpKI?si=6RFsJhrytHGUikIF
 
 This is connected to everything I've been building this year—the Jeffersonian dinners during Human Tech Week, the work with the Positive Technology Institute, the thesis that AI should expand human capacity, not replace it. More on that soon.
 

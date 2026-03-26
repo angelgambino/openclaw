@@ -13,9 +13,9 @@ This isn't The Social Dilemma Part 2. It's what comes after we all agreed social
 
 A few things worth watching before or after the film:
 
-🎬 Trailer: [link to trailer]
-🎙️ Tristan on Bill Maher: [link]
-🎙️ Tristan on Oprah: [link]
+🎬 Trailer: https://youtu.be/r0JVbEmZt6I?si=qxM7Cx2rE7arjxqr
+🎙️ Tristan on Bill Maher: https://youtu.be/ZG2VG0oMpKI?si=6RFsJhrytHGUikIF
+🎙️ Tristan on Oprah: https://youtu.be/ZG2VG0oMpKI?si=6RFsJhrytHGUikIF
 
 I've spent the last several months building at the intersection of AI and human potential — co-hosting Jeffersonian dinners during Human Tech Week with the Positive Technology Institute, working with founders using AI to expand human capacity rather than replace it.
 
