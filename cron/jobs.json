@@ -30,6 +30,14 @@
       "task": "Remind Angel to follow up with EUNO (Justin Tibble & Roshani Gami). They were sent a Hubble follow-up email on March 20. Check if they signed up for Ready to Raise or booked another Hubble session. If not, nudge them. Send reminder via Telegram.",
       "channel": "telegram",
       "to": "telegram:912959241"
+    },
+    {
+      "id": "tonight-groceries",
+      "schedule": "45 3 26 3 *",
+      "task": "Reminder: Go grocery shopping for Bronco's food TONIGHT before stores close! Don't push it to tomorrow. Send via Telegram.",
+      "channel": "telegram",
+      "to": "telegram:912959241",
+      "cleanup": "delete"
     }
   ]
 }
