@@ -38,6 +38,14 @@
       "channel": "telegram",
       "to": "telegram:912959241",
       "cleanup": "delete"
+    },
+    {
+      "id": "hillside-pickup",
+      "schedule": "0 4 27 3 *",
+      "task": "Remind Angel: 1) Pick up your KEY and HEADPHONES at hillside 2) Bring Bronco his gift! Don't forget! Send via Telegram.",
+      "channel": "telegram",
+      "to": "telegram:912959241",
+      "cleanup": "delete"
     }
   ]
 }
