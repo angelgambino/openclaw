@@ -7,6 +7,18 @@
 ## The Rule
 > Every post must be high value or no post at all. Silence > mediocrity. One great post beats five forgettable ones. If Madrizza wouldn't stake her reputation on it, it doesn't go out.
 
+## Voice & Tone: The Matriarch with Rizz
+Angel's personal brand voice is the **Matriarch with Rizz** — powerful, composed, effortlessly charismatic. Every post should feel like:
+- A woman who runs the room without raising her voice
+- Sharp enough to make you think, warm enough to make you trust
+- Confident but never trying hard — the authority is earned, not performed
+- Slightly playful edge — she'll make you laugh right before she makes you think
+- The person at the dinner party everyone gravitates toward — not because she's loud, but because she's magnetic
+- Opinionated without being combative. Direct without being cold. Generous without being soft.
+
+**Never:** Corporate drone. Motivational poster. LinkedIn bro. Overly polished. Try-hard.
+**Always:** Composed power. Cultural fluency. Real talk with elegance. Rizz.
+
 ## Core Positioning
 > Growth, capital, and partnerships in the AI era, with human performance as the differentiator.
 
