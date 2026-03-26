@@ -346,3 +346,71 @@ As a keynote speaker, Angel draws on her pioneering work in Somatic Speaking™ 
 Her journey spans professional soccer, mothering a son on the autism spectrum, five startup exits, and a lifelong obsession with what makes humans perform at their best.
 
 [Keep existing speaking topics — they're excellent]
+
+---
+
+# 7. BETHEVESSEL.COM — Rewrite
+
+## HERO
+**Angel Gambino — Be The Vessel™**
+The keynote that's changing how leaders communicate. TEDx. Fortune 500 stages. Your next event.
+
+[Book Angel for Your Event] | [Watch the TEDx Talk]
+
+## THE TALK
+In a world optimized for noise, the leaders who win are the ones who connect.
+
+"The Key to Meaningful Conversations" introduces Somatic Speaking™ — aligning head, heart, and gut to build trust, resolve conflict, and lead with presence.
+
+This isn't communication training. It's a fundamental rewiring of how you show up in every conversation that matters.
+
+[Watch on YouTube]
+
+## CREDENTIALS
+Angel Gambino — WIRED Top 100 | 5× Exited Entrepreneur | $1B+ P&L (MTV/BBC) | Former Pro Soccer Player | TEDx Speaker
+
+Angel developed Somatic Speaking™ through her journey as a mother to a son on the autism spectrum — learning that the most powerful communication happens below words.
+
+## SPEAKING TOPICS
+→ Be The Vessel: Leading With Connection in a Disconnected World (corporate)
+→ The Key to Meaningful Conversations (TEDx format)
+→ The Warm Intro: Why Authenticity Is the Only Fundraising Strategy That Compounds (investor/founder)
+→ AI and Human Potential: What We're Building and Who It's For
+
+## BOOKING
+Book Angel for your event, team offsite, or podcast.
+Availability: Limited 2026 dates remaining.
+[Request Speaking Info →]
+
+## Remove: "Mosphere Technologies" from nav. Add links to angelgambino.com + angelclub.com.
+
+---
+
+# 8. ALCHEMISTSCOLLECTIVE.COM — Rewrite
+
+## HERO
+**Alchemist Collective**
+Where operators build what's next.
+
+Growth advisory. Capital formation. Venture building.
+Led by Angel Gambino — WIRED Top 100, 5× exited, $1B+ in media leadership.
+
+[Work With Us] | [Meet Angel]
+
+## WHAT WE DO
+We work with CEOs and founders at inflection points.
+
+→ Fractional Chief Growth Officer — Revenue, GTM, partnerships, positioning
+→ Capital Formation & M&A — Fundraising, investor targeting, deal structuring, exits (via Nfluence Partners)
+→ Venture Building — Co-creating new ventures, programs, and partnerships
+→ Keynote Speaking — Somatic Speaking™, AI + human potential, authentic leadership
+
+## WHO
+Angel Gambino — WIRED Top 100. 5× exited. $1B+ P&L (MTV/BBC). Founder, Angel Club (6K+ founders, 400+ investors). TEDx speaker. Former pro soccer player.
+
+## CTA
+If you're building something that matters and you need someone who's done it before — let's talk.
+[Schedule a Conversation →]
+angel@angelgambino.com
+
+## Fix: Update location to San Francisco. Remove "innovation agency" language. Remove "download free chapter" unless real book exists.
