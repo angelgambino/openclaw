@@ -37,7 +37,7 @@
 **LEFT:**
 
 **Headline (H1):**
-> Building, advising, and investing at the intersection of AI, growth, and capital.
+> Building, advising, and investing at the intersection of AI and human potential.
 
 **Subheadline:**
 > AI-native operator. 5× exited entrepreneur. $1B+ P&L. I built a 6,400-person investor-founder ecosystem and used AI to create a 13,000-investor platform that rivals PitchBook — in 5 days.
