@@ -58,3 +58,40 @@
 "Ishan, great to connect. Sun spoke highly of the opportunity. I'd love to hear more about the company and what you're looking for in a CEO — and I'm happy to share why I think the music and fintech intersection is one of the most interesting spaces right now."
 
 Keep it conversational. This is a 30-min intro, not a pitch. Listen 60%, talk 40%.
+
+---
+
+## BEATBREAD — CONFIRMED DETAILS
+
+**Website:** beatbread.com
+**HQ:** St. George, UT (remote-friendly likely)
+**Products:**
+- Funding for **Artists** (advances based on streaming data)
+- Funding for **Labels** 
+- Funding for **Distributors**
+- Funding for **Songwriters & Producers**
+- **Compare Offers** tool (helps artists compare deal terms)
+
+**Key features:**
+- Artists get offers without giving up ownership
+- Data-driven underwriting (streaming analytics)
+- Transparent terms (vs opaque label deals)
+
+**Social:** TikTok, LinkedIn, Facebook, Instagram, Twitter, YouTube, Spotify
+
+**This is essentially:**
+- Revenue-based financing for the music industry
+- A capital marketplace — artists compare funding offers
+- Think "Clearco/Pipe for musicians"
+
+## WHY THIS IS A PERFECT CEO FIT FOR YOU
+
+1. **Music industry credibility** — MTV VP, CountryLine advisor. You KNOW this world.
+2. **Capital formation expertise** — beatBread IS a capital product. You do capital formation at Nfluence.
+3. **Growth operator** — They have product. They need GTM, partnerships, scale. That's literally what a CGO does.
+4. **Artist relationships** — Your network spans entertainment. beatBread needs distribution through artists, managers, labels.
+5. **M&A vision** — beatBread could acquire or be acquired. You've done 5 exits.
+6. **Fundraising** — You can help raise their next round while running the company. Dual threat.
+
+## THE PITCH IN YOUR HEAD (don't say this — but know it)
+"I understand music because I ran MTV. I understand capital because I do M&A and formation. I understand growth because I've built and exited 5 companies. And I have a network of 6,000+ founders and 400+ investors who could be customers, partners, or co-investors. There is nobody else who sits at this exact intersection."
