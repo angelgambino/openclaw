@@ -4,14 +4,14 @@
     {
       "id": "health-checkin",
       "schedule": "0 15-23,0-5 * * *",
-      "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
+      "task": "Quick health check-in with Angel. Ask: \ud83d\udeb6\u200d\u2640\ufe0f How many steps today? (Goal: 10,000) \ud83d\udca7 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
       "channel": "telegram",
       "to": "telegram:912959241"
     },
     {
       "id": "saturday-reminders",
       "schedule": "0 17 29 3 *",
-      "task": "Remind Angel: 1) Complete Broncos paperwork — don't push to Sunday, get it done today. 2) Pick up the cats! Both are time-sensitive weekend tasks. Send via Telegram.",
+      "task": "Remind Angel: Weekend to-do list! 1) \ud83d\udccb Complete Broncos paperwork \u2014 don't push to Sunday. 2) \ud83d\udc31 Pick up the cats! 3) \ud83c\udfe0 Organize the hillside garage. Block 2-3 hours for the garage. Get it all done today so Sunday is free. Send via Telegram.",
       "channel": "telegram",
       "to": "telegram:912959241",
       "cleanup": "delete"
@@ -19,7 +19,7 @@
     {
       "id": "sunday-backup-reminder",
       "schedule": "0 17 30 3 *",
-      "task": "Remind Angel: Did you finish the Broncos paperwork yesterday? If not — do it NOW. Today is the last day of the weekend. Also — did you pick up the cats? Send via Telegram.",
+      "task": "Remind Angel: Weekend checklist \u2014 what's done? \u2610 Broncos paperwork \u2610 Pick up cats \u2610 Hillside garage organized. Anything not done \u2014 do it NOW. Last day of the weekend. Send via Telegram.",
       "channel": "telegram",
       "to": "telegram:912959241",
       "cleanup": "delete"
