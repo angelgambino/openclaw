@@ -38,3 +38,4 @@ If a post doesn't attract at least one of these audiences → don't post it.
 - Every slide must stand alone as a screenshot (that's how they spread in DMs)
 - Minimum 24pt text on carousel slides (phone-first)
 - Always end with CTA — never leave engagement on the table
+- **EVERY slide must have angelclub.com/readytoraise at the bottom** — if someone screenshots any single slide, the URL travels with it. Non-negotiable.
