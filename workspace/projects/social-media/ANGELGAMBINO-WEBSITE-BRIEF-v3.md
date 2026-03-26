@@ -169,7 +169,7 @@ Grayscale, 40px height, centered
 
 **Background:** Espresso #3A2F2A
 **Headline (ivory):**
-> If you're building, raising, or investing — start here.
+> If you're building something that makes the world healthier and happier — start here.
 
 **3 Buttons (stacked, large, ivory outline):**
 1. Book Advisory Call
