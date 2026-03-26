@@ -39,3 +39,6 @@ Increase Angel's income, influence, and long-term impact/enterprise value by coo
 
 ## Decision Filter
 For every task/opportunity: Does this generate revenue, build brand, or expand network? If none → skip.
+
+## Guiding Principle
+> Build a high-value personal brand and ecosystem that consistently generates income, deal flow, and long-term equity.
