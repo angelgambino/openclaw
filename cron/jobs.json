@@ -9,8 +9,7 @@
       },
       "task": "Send Angel a brief status update on the Investor Outreach project progress. Check projects/investor-outreach/README.md for current state. Keep it short — what's done, what's in progress, any blockers. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774042200000,
-        "runningAtMs": 1774294306445
+        "nextRunAtMs": 1774042200000
       },
       "name": "Cron: */30 * * * *",
       "enabled": true,
@@ -40,7 +39,8 @@
       },
       "task": "Remind Angel: Send Kiyan the P1 list of LA-based investors for Needle outreach. Filter the Needle Active list for LA/Southern California investors marked P1. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774360800000
+        "nextRunAtMs": 1774360800000,
+        "runningAtMs": 1774457260945
       },
       "name": "Cron: 0 14 24 3 *",
       "enabled": true,
@@ -55,7 +55,8 @@
       },
       "task": "Remind Angel: Reach out to Psymed Ventures in earls and update Mati on progress. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774360800000
+        "nextRunAtMs": 1774360800000,
+        "runningAtMs": 1774457260945
       },
       "name": "Cron: 0 14 24 3 *",
       "enabled": true,
@@ -70,7 +71,8 @@
       },
       "task": "Remind Angel: Send Brock Blomberg (brock@ciis.edu), Michael Pinto (MPINTO@aol.com), and Evan Rutter (erutter@ciis.edu) at CIIS the list of fundraising/donor prospects for their approval before reaching out. The list is at projects/investor-outreach/ciis-donor-targets-v2.csv. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774360800000
+        "nextRunAtMs": 1774360800000,
+        "runningAtMs": 1774457260945
       },
       "name": "Cron: 0 14 24 3 *",
       "enabled": true,
@@ -85,7 +87,8 @@
       },
       "task": "Remind Angel: Log into DealCloud to update it. Also send Gary, Mike, and Brewer an update at Nfluence Partners. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774364400000
+        "nextRunAtMs": 1774364400000,
+        "runningAtMs": 1774457260945
       },
       "name": "Cron: 0 15 24 3 *",
       "enabled": true,
@@ -101,8 +104,7 @@
       "task": "Remind Angel: Send Simon and Nathalie at CountryLine the pre-call email + 100-investor sheet before Monday's call. The note is at projects/countryline/note-to-simon-nathalie.md and the investor sheet is at projects/countryline/countryline-investors-100-updated.csv. Send via Telegram.",
       "cleanup": "delete",
       "state": {
-        "nextRunAtMs": 1774052400000,
-        "runningAtMs": 1774297300150
+        "nextRunAtMs": 1774052400000
       },
       "name": "Cron: 20 0 21 3 *",
       "enabled": true,
@@ -117,8 +119,7 @@
       },
       "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
       "state": {
-        "nextRunAtMs": 1774044000000,
-        "runningAtMs": 1774296104986
+        "nextRunAtMs": 1774044000000
       },
       "name": "Cron: 0 9-23 * * *",
       "enabled": true,
