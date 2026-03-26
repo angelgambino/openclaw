@@ -30,6 +30,8 @@ Every post must attract engagement from these 5 audiences:
 3. **Media** — Journalists, podcast hosts, newsletter writers covering tech/investing
 4. **Event bookers** — Conference organizers, speaker bureaus, corporate event planners
 5. **Hiring managers** — Recruiters and execs hiring for CGO/CRO/CMO/Partner roles at $500K+
+6. **UHNW individuals & family offices** — Potential LPs for Psymed Ventures, donors for CIIS, co-investors
+7. **Philanthropists / donors** — Mental health, education, consciousness, psychedelics — CIIS clinic pipeline
 
 If a post doesn't attract at least one of these audiences → don't post it.
 
