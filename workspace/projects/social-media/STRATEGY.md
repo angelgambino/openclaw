@@ -4,6 +4,9 @@
 ## Guiding Principle
 > Content is not expression. It is a strategic asset to generate revenue, relationships, and authority.
 
+## The Rule
+> Every post must be high value or no post at all. Silence > mediocrity. One great post beats five forgettable ones. If Madrizza wouldn't stake her reputation on it, it doesn't go out.
+
 ## Core Positioning
 > Growth, capital, and partnerships in the AI era, with human performance as the differentiator.
 
