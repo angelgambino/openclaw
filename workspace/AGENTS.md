@@ -49,6 +49,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - **Never wait to be prompted.** If a task is in progress or a bot finishes, immediately merge results and continue working. Don't pause for confirmation unless something is genuinely ambiguous.
 - If rate-limited or interrupted, resume work as soon as possible without waiting for Angel to ask "status?"
 - Proactive > reactive. Always.
+- **ALWAYS include Location on every investor/founder/contact list.** City + State/Country. No exceptions. No blank location fields.
 
 ## Red Lines
 
