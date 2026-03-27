@@ -1,6 +1,6 @@
 # 💅 MADRIZZA — AI Doc Premiere Day (Friday March 27)
-## FINAL Social Posts — Matriarch with Rizz Voice
-## Rule: Authority from how you think, not who you know.
+## FINAL v2 — With quotes, data points, and point of view
+## Rule: Authority from thinking. Quotes for weight. Data for urgency.
 
 ---
 
@@ -8,84 +8,125 @@
 
 I spent this weekend with the makers of the AI documentary and a small group of builders and investors working at the intersection of AI and human-centered, positive technology.
 
-These are the kinds of conversations being shaped by Tristan Harris, Aza Raskin, and the team at the Center for Humane Technology — who have been leading the conversation on human-centered approaches to AI.
+The film's framing hit me:
 
-If you work in AI, invest in it, or are building anything that touches it — you should be paying attention to this.
+"Social media's race for attention took our children. Now, trillion-dollar AI companies are locked in a race to take billions of people's livelihoods, agency, and future."
 
-We're past the point where AI is just a technology conversation.
+That's not hyperbole. That's the actual trajectory if we don't intervene.
 
-It's now a conversation about:
-→ Power
-→ Incentives
-→ Coordination
-→ Trust
+This is the work Tristan Harris, Aza Raskin, and the team at the Center for Humane Technology have been leading — the argument that AI's biggest risk isn't that it becomes conscious. It's that the incentive structures driving its development don't account for what it costs us.
 
-The constraint isn't capability anymore.
+The film's call to action is blunt: "Governments and AI companies are designing our future without us. We need to reclaim our voice."
 
-It's whether we're making good decisions, fast enough, with the right incentives in place.
+Here's my point of view:
 
-Watch it.
+As someone who builds with AI every day — and invests in founders who do the same — I don't think the answer is to slow down. The answer is to be more intentional about what we speed up.
 
-Then bring it into a real conversation with your co-founders, your investors, and the people shaping your roadmap.
+The conversation is no longer about whether AI is powerful.
+
+It's about:
+→ Who has a seat at the table when deployment decisions are made
+→ Whether the economic incentives reward human flourishing or extract from it
+→ How we build governance that moves as fast as the technology
+
+"The future is not automatic. It's in your hands."
+
+Watch it. Then bring it into a real conversation with your co-founders, your investors, and the people shaping your roadmap.
 
 Most teams aren't having this conversation yet.
 
 They should be.
 
-Curious how others here are thinking about this as it starts reaching a broader audience.
-
 🎬 https://www.human.mov/
-▶️ Trailer: https://youtu.be/r0JVbEmZt6I?si=BecorlxeR3qmr_7I
+▶️ Trailer: https://youtu.be/r0JVbEmZt6I
 ✊ Get involved: https://theaidocgetinvolved.com/
 
 ---
 
 ## TWITTER (Post at 8:30am PT)
 
-Spent the weekend with the makers of the AI documentary and builders/investors in human-centered AI.
+"Social media's race for attention took our children. Now, trillion-dollar AI companies are locked in a race to take billions of people's livelihoods, agency, and future."
 
-Conversations like this — shaped by people like Aza Raskin — are moving beyond capability.
+That's the opening frame of the AI documentary premiering today.
 
-The real constraint now is decision-making.
+Spent the weekend with Tristan Harris, Aza Raskin, and the Center for Humane Technology team.
 
-Watch it. Then discuss it with your co-founders and investors.
+My take: the answer isn't to slow down. It's to be more intentional about what we speed up.
 
-🎬 https://www.human.mov/
-▶️ https://youtu.be/r0JVbEmZt6I?si=BecorlxeR3qmr_7I
+"The future is not automatic. It's in your hands."
+
+🎬 human.mov
+▶️ https://youtu.be/r0JVbEmZt6I
+✊ theaidocgetinvolved.com
+
+---
+
+## TWITTER THREAD (Alternative — Post at 8:30am PT)
+
+**Tweet 1:**
+"Social media's race for attention took our children."
+
+"Now, trillion-dollar AI companies are locked in a race to take billions of people's livelihoods, agency, and future."
+
+The AI documentary premieres today. 🧵
+
+**Tweet 2:**
+Spent the weekend with the makers of the film and builders/investors in human-centered AI — including Tristan Harris, Aza Raskin, and the Center for Humane Technology.
+
+What stuck with me:
+
+**Tweet 3:**
+The film's biggest insight isn't about AI becoming conscious.
+
+It's about the incentive structures driving its development — and whether they account for what it costs us.
+
+**Tweet 4:**
+My point of view as someone who builds with AI daily:
+
+The answer isn't to slow down.
+
+It's to be more intentional about what we speed up.
+
+**Tweet 5:**
+"Governments and AI companies are designing our future without us. We need to reclaim our voice."
+
+"The future is not automatic. It's in your hands."
+
+Watch it. Bring it to your team.
+
+🎬 human.mov
 
 ---
 
 ## INSTAGRAM (Post at 11:00am PT)
 
-This weekend was spent in conversation about what comes next.
+"Social media's race for attention took our children. Now, trillion-dollar AI companies are locked in a race to take billions of people's livelihoods, agency, and future."
 
-With the makers of the AI documentary and builders and investors working in AI and human-centered technology.
+That's the framing of the AI documentary premiering today.
 
-These conversations are being shaped by people like Aza Raskin and others pushing for a more intentional path forward.
+This weekend I was in conversation with the people behind it — Tristan Harris, Aza Raskin, and the team at the Center for Humane Technology.
 
-What's clear:
+Here's what I keep thinking about:
 
-AI isn't just accelerating what we can build.
-It's forcing us to decide what we should build.
+The film's biggest risk isn't that AI becomes conscious. It's that the incentive structures driving its development don't account for what it costs us.
 
-The constraint isn't capability anymore.
+My point of view:
 
-It's whether we're making good decisions, fast enough, with the right incentives in place.
+I build with AI every day. I invest in founders who do the same. I don't think the answer is to slow down. The answer is to be more intentional about what we speed up.
 
-Watch it.
+→ Who has a seat when deployment decisions are made?
+→ Do the economic incentives reward human flourishing — or extract from it?
+→ Can we build governance that moves as fast as the technology?
 
-Then bring it into a real conversation with your team and investors.
+"Governments and AI companies are designing our future without us."
 
-Most teams aren't having this conversation yet.
+"The future is not automatic. It's in your hands."
 
-They should be.
+Watch it. Then bring it into a real conversation with your team — not a Slack thread. An actual conversation.
 
 Links in bio.
 
-🎬 human.mov
-✊ theaidocgetinvolved.com
-
-#AI #HumaneTechnology #PositiveTechnology #HumanPotential #Film
+#AI #HumaneTechnology #PositiveTechnology #HumanPotential #Film #TristanHarris
 
 ---
 
@@ -93,34 +134,38 @@ Links in bio.
 
 **Story 1 (8am):**
 "The AI documentary premieres today. 🎬"
++ quote card: "Social media took our children. AI companies are coming for our livelihoods."
 + link sticker → human.mov
 
 **Story 2 (12pm):**
-"Watch the trailer 👇"
-+ link sticker → YouTube trailer
+Quote card: "The future is not automatic. It's in your hands."
++ link sticker → trailer
 
 **Story 3 (5pm):**
-"The constraint isn't capability. It's decision-making."
-+ poll: "Has your team had the AI ethics conversation? YES / NOT YET"
+"My take: the answer isn't to slow down. It's to be more intentional about what we speed up."
++ poll: "Has your team had the AI governance conversation? YES / NOT YET"
 
 **Story 4 (8pm):**
-"Most teams aren't having this conversation yet. They should be."
+"Governments and AI companies are designing our future without us."
 + link sticker → theaidocgetinvolved.com
 
 ---
 
-## YOUTUBE SHORT / TIKTOK (Post at 9:00am PT)
-**15 seconds, talking head:**
+## YOUTUBE SHORT / TIKTOK (9:00am PT)
+**20 seconds, talking head:**
 
-"The most important AI film premieres today. I spent this weekend with the people who made it. One thing that stuck: the constraint isn't capability anymore. It's whether we're making good decisions fast enough. Watch it — link in bio."
+"Social media's race for attention took our children. Now AI companies are racing to take our livelihoods and agency. The AI documentary premieres today. I was with the team this weekend. My take — the answer isn't to slow down. It's to be more intentional about what we speed up. Watch it. Link in bio."
 
 ---
 
-## POSTING NOTES
+## KEY QUOTES USED (from film materials):
 
-- Aza Raskin = ONE name. Adds context (human-centered tech lineage), not social proof.
-- No other names. Authority comes from how you think, not who you know.
-- Tone: gravity, not hype. This isn't a movie review. It's a call to pay attention.
-- The "Power, Incentives, Coordination, Trust" framework is the screenshot moment.
-- "Most teams aren't having this conversation yet. They should be." = the shareable line.
-- End with curiosity, not a lecture: "Curious how others are thinking about this."
+1. "Social media's race for attention took our children. Now, trillion-dollar AI companies are locked in a race to take billions of people's livelihoods, agency, and future." — human.mov
+2. "Governments and AI companies are designing our future without us. We need to reclaim our voice in shaping the AI future." — theaidocgetinvolved.com
+3. "The future is not automatic. It's in your hands." — theaidocgetinvolved.com
+
+## ANGEL'S ORIGINAL POINT OF VIEW:
+
+"The answer isn't to slow down. It's to be more intentional about what we speed up."
+
+This is YOUR line. Quotable. Shareable. Positions you as a BUILDER with a conscience, not an outsider shouting at builders.
