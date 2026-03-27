@@ -49,9 +49,16 @@ Should they?
 
 If we require doctors to pledge "first, do no harm" before they touch a single patient — shouldn't we require the same of the engineers building systems that will touch billions of lives?
 
-Most teams aren't having this conversation yet.
+Most teams aren't having this conversation yet. They should be.
 
-They should be.
+Watch the film. Then do something about it:
+
+→ Host a screening with your team and discuss what it means for your roadmap
+→ Ask your investors how they're thinking about AI governance
+→ Join the movement to advance human-centered technology: theaidocgetinvolved.com
+→ If you invest at the intersection of AI and human potential, I'm co-hosting Jeffersonian Dinners during Human Tech Week (May 11-15, SF) where these exact conversations happen. DM me.
+
+The future isn't something that happens to us. It's something we build — or fail to.
 
 🎬 https://www.human.mov/
 ▶️ Trailer: https://youtu.be/r0JVbEmZt6I
@@ -108,7 +115,13 @@ It's to be more intentional about what we speed up.
 
 "The future is not automatic. It's in your hands."
 
-Watch it. Bring it to your team.
+Watch it. Discuss it with your team. Then do something about it.
+
+→ Host a screening
+→ Ask your investors about AI governance
+→ Get involved: theaidocgetinvolved.com
+
+The future isn't something that happens to us.
 
 🎬 human.mov
 
@@ -165,7 +178,14 @@ No oath. No license. No accountability framework.
 
 Yet.
 
-Watch it. Then bring it into a real conversation with your team.
+Watch it. Discuss it. Then do something about it.
+
+→ Host a screening with your team
+→ Ask your investors how they think about AI governance
+→ Get involved: theaidocgetinvolved.com
+→ If you invest at the intersection of AI and human potential — I'm hosting Jeffersonian Dinners during Human Tech Week in SF this May. DM me.
+
+The future isn't something that happens to us. It's something we build.
 
 Links in bio.
 
