@@ -33,6 +33,22 @@ It's about:
 
 Watch it. Then bring it into a real conversation with your co-founders, your investors, and the people shaping your roadmap.
 
+But here's what I keep coming back to — the questions the film doesn't fully answer but forces you to sit with:
+
+If we end up in a post-work economy, what happens to our sense of purpose? In the US, work isn't just economic — it's identity. Ask an American "who are you?" and they'll tell you what they do for a living. Ask an Italian or a Spaniard and they'll talk about their family, their friends, the food, the music, the afternoon light. Work rarely comes up.
+
+So what happens when AI takes the work away from a culture that defined itself by it?
+
+And here's the one that should keep every AI researcher up at night:
+
+Doctors take the Hippocratic Oath. Lawyers pass the bar and are bound by ethics rules. If you want to practice medicine or law, you need a license and a code of conduct.
+
+The people building AI — the technology that will reshape every aspect of human life — have none of that. No oath. No license. No binding accountability framework.
+
+Should they?
+
+If we require doctors to pledge "first, do no harm" before they touch a single patient — shouldn't we require the same of the engineers building systems that will touch billions of lives?
+
 Most teams aren't having this conversation yet.
 
 They should be.
@@ -96,6 +112,23 @@ Watch it. Bring it to your team.
 
 🎬 human.mov
 
+**Tweet 6:**
+Question I can't stop thinking about:
+
+If AI creates a post-work economy — what happens to purpose in a culture where work IS identity?
+
+In Italy, they talk about family, food, beauty. In the US, we say what we do for a living.
+
+What happens when the job title disappears?
+
+**Tweet 7:**
+Doctors take the Hippocratic Oath.
+Lawyers pass the bar.
+
+The people building AI — the technology reshaping every aspect of human life — have no oath, no license, no binding accountability.
+
+Should they?
+
 ---
 
 ## INSTAGRAM (Post at 11:00am PT)
@@ -122,7 +155,17 @@ I build with AI every day. I invest in founders who do the same. I don't think t
 
 "The future is not automatic. It's in your hands."
 
-Watch it. Then bring it into a real conversation with your team — not a Slack thread. An actual conversation.
+Two questions I can't stop thinking about:
+
+If AI creates a post-work economy, what happens to purpose in a culture like the US — where work IS identity? In Italy, Spain, France — people define themselves by family, food, friends, beauty. Not their job title. What happens when the job title disappears from a culture that built itself around it?
+
+And: doctors take the Hippocratic Oath. Lawyers pass the bar. Should AI engineers — building systems that touch billions of lives — be held to the same standard?
+
+No oath. No license. No accountability framework.
+
+Yet.
+
+Watch it. Then bring it into a real conversation with your team.
 
 Links in bio.
 
