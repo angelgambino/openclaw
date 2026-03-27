@@ -8,7 +8,7 @@
 
 I spent this weekend with the makers of the AI documentary and a small group of builders and investors working at the intersection of AI and human-centered, positive technology.
 
-These are the kinds of conversations being shaped by people like Aza Raskin and others working on more human-centered approaches to AI.
+These are the kinds of conversations being shaped by people like Tristan Harris and Aza Raskin and others working on more human-centered approaches to AI.
 
 If you work in AI, invest in it, or are building anything that touches it — you should be paying attention to this.
 
