@@ -46,6 +46,14 @@
       "channel": "telegram",
       "to": "telegram:912959241",
       "cleanup": "delete"
+    },
+    {
+      "id": "friday-applications",
+      "schedule": "0 15 27 3 *",
+      "task": "FRIDAY PRIORITIES: 1) Send 3 job applications (Cohere, Mastercard, Morgan Stanley) 2) Send Parsley360 list to Sheryl 3) Send CountryLine proposal to Simon 4) Post AI Doc on all socials 5) Send newsletter 6) Apply to 3 jobs. GO!",
+      "channel": "telegram",
+      "to": "telegram:912959241",
+      "cleanup": "delete"
     }
   ]
 }
