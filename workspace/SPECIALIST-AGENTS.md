@@ -57,12 +57,13 @@ Chief of Staff (Lengabot) → routes tasks to specialist agents
 
 ### Mission
 Secure highest-quality role aligned with:
-- Head of Growth / Chief Growth Officer
-- Head of Partnerships / BD / Ecosystem
+- Head of Partnerships / BD / Ecosystem (PREFERRED — relationship + strategy, not quota)
 - Head of Startups / VC Platform / Investor Relations
 - Venture Partner / Operating Partner / Platform roles
+- Head of Growth / Chief Growth Officer (open to it if role + company are exceptional)
 - Comp: $300K-$500K+ base OR $500K+ total (cash + equity + bonus)
 - OR high-value fractional/advisory portfolio replacing salary
+- PREFERENCE: Roles focused on strategy, partnerships, ecosystem, and relationships over owning sales targets and P&L. Will consider P&L ownership if the company and role are exceptional.
 
 ### Core Responsibilities
 
