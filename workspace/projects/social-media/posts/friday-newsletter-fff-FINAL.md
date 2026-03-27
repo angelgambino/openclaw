@@ -7,15 +7,17 @@ Hi friends —
 
 The AI documentary premieres today.
 
-I spent this past weekend in conversation with the people who made it and a small group of builders and investors working at the intersection of AI and human-centered technology.
+I spent this past weekend in conversation with the people who made it and a small group of builders and investors who are actually doing something about the thing everyone else is just posting about.
 
 I won't tell you what to think about it. I'll tell you what it made me think about.
 
-We're past the point where AI is a technology conversation. It's now a conversation about power, incentives, coordination, and trust. The constraint isn't capability anymore — it's whether we're making good decisions, fast enough, with the right incentives in place.
+We're past the point where AI is a technology conversation. It's a power conversation. An incentives conversation. A "who decides what gets built and for whom" conversation.
 
-Most founding teams aren't having this conversation yet. They should be. Most investors aren't asking these questions in diligence. They should be.
+The constraint isn't capability anymore — it's whether we're making good decisions, fast enough, with the right people in the room.
 
-Watch it this weekend. Then bring it into a real conversation with your co-founders, your investors, and the people shaping your roadmap.
+Most founding teams aren't having this conversation yet. Most investors aren't asking these questions in diligence. If that describes you, congratulations — you have a competitive advantage waiting to be claimed. All you have to do is start.
+
+Watch it this weekend. Then bring it into a real conversation with your co-founders, your investors, and the people shaping your roadmap. Not a Slack thread. An actual conversation. With eye contact and everything.
 
 🎬 Film: human.mov
 ▶️ Trailer: https://youtu.be/r0JVbEmZt6I
@@ -24,11 +26,12 @@ Watch it this weekend. Then bring it into a real conversation with your co-found
 ---
 
 **TL;DR**
-- The AI documentary premieres today — go see it
-- The Warm Intro, Part II is live (everything you're still doing wrong)
-- CountryLine, beatBread, and other active deals in motion
-- Fractional CGO availability update
-- Ready to Raise for founders who want leverage, not chaos
+- The AI Doc premieres today — go see it (bring someone who doesn't work in tech)
+- The Warm Intro, Part II is live (you're still doing it wrong)
+- Pitch Slam is April 9 — pitch live to real investors
+- ACA Summit April 21-23 — I'm keynoting
+- Human Tech Week May 11-15 — Jeffersonian Dinners in SF
+- Fractional CGO — I'm selectively open
 - Culture: Unapologetic Wealth by Marcia Dawood
 - Track of the week
 
@@ -38,70 +41,99 @@ Watch it this weekend. Then bring it into a real conversation with your co-found
 
 I published the sequel nobody asked for but apparently everyone needed.
 
-Cold email converts at under 5%. Warm intro? North of 50%. That's a different sport entirely.
+Cold email converts at under 5%. Warm intro? North of 50%. That's not a marginal improvement. That's a different sport entirely.
 
-The piece covers the double opt-in, the forwardable email (with a real before/after from my inbox), and the warmest intro you're not thinking about.
+I included a real before-and-after from my inbox. One email came with a 22-page deck and tracking links. The other got forwarded in under 60 seconds. Guess which one got a meeting.
 
-If you've ever asked someone for an intro and wondered why nothing happened — this is probably why.
+If you've ever asked someone for an intro and then heard nothing but the gentle hum of your own anxiety — this is probably why.
 
 Read it here: [link to article]
 
 ---
 
-## 2. What I'm Working On
+## 2. Upcoming Events (Where I'll Be and Where You Should Be)
 
-I'll keep this brief because most of it is in motion:
+**🎤 Pitch Slam — April 9 (Virtual)**
+Founders pitch live to active angel investors. No slides to hide behind. No "let me send my deck." Just you, your story, and real-time feedback from people who write checks.
 
-I'm in conversations about a CEO role at a music fintech. I'm advising a music fan platform going global. I'm building AI workflows that are replacing what used to take teams of five. And I'm still selectively open to fractional CGO work for the right company.
+30%+ of past pitches led to follow-up meetings and investment. That's not a stat. That's a reason to stop practicing in front of your mirror and start practicing in front of investors.
 
-If you're a founder or board looking for growth leadership at the intersection of AI and human potential — reply to this email. Let's see if it's a fit.
+Co-presented with SeedLegals. Investor breakout rooms matched to your thesis.
+
+👉 angelclub.com/pitchslam
+
+**🎙️ ACA Summit — April 21-23 (Westminster, CO)**
+I'm keynoting at the Angel Capital Association Summit — the largest gathering of angel investors on the planet.
+
+If you're an angel investor, an aspiring angel, or a founder who wants to understand how the people writing early checks actually think — this is where you should be.
+
+I'll be there the entire time. Let's grab coffee. I mean that literally. I will buy you coffee and ask you hard questions. It's my love language.
+
+👉 events.angelcapitalassociation.org/summit2026
+
+**🍽️ Human Tech Week — May 11-15 (San Francisco)**
+I'm co-hosting four invitation-only Jeffersonian dinners during Human Tech Week. Twelve investors per table. No panels. No pitch decks. No "so what do you do?" ping-pong.
+
+Just the hardest questions at the intersection of AI and human flourishing — discussed over food good enough to make a trainer worth every penny.
+
+Sovereign funds. Family offices. VCs. Angels. If you invest at the intersection of AI and human potential, DM me.
+
+We're optimizing for signal, not selfies.
+
+👉 humantechweek.com
 
 ---
 
-## 3. Earlier-Stage Founders: Ready to Raise
+## 3. Fractional CGO: Still Selectively Open
 
-If you're pre-seed, seed, or Series A and fundraising still feels opaque, reactive, or vaguely stressful — this is your on-ramp:
+I have capacity for one additional fractional Chief Growth Officer engagement this quarter.
 
-→ Fundraising clarity
-→ Investor-ready positioning
-→ A curated list of 100 investors aligned to your sector and stage
-→ The forwardable email template that actually gets forwarded
+This is for companies that have real traction (not just vibes), are navigating revenue or partnerships complexity, and want someone who's actually done the thing they're trying to do — not someone who read a book about it.
+
+The goal: build something investors can underwrite, customers stick with, and acquirers actually want to buy.
+
+If that sounds like you — or a founder you know — reply to this email. If it doesn't sound like you, also reply to this email. I enjoy being told I'm wrong. It keeps me sharp.
+
+---
+
+## 4. Ready to Raise
+
+If you're earlier-stage and fundraising still feels like throwing darts in the dark while someone times you — Ready to Raise is your on-ramp.
+
+Pitch deck evaluation. Curated investor list. Fundraising strategy. The forwardable email template that actually gets forwarded.
 
 Raise capital with confidence instead of cortisol.
 
-👉 https://www.angelclub.com/readytoraise
+👉 angelclub.com/readytoraise
 
 ---
 
-## 4. Culture Break
+## 5. Culture Break
 
 **Unapologetic Wealth** by Marcia Dawood.
 
-I was at her book launch this week. Chair Emeritus of the Angel Capital Association, SEC advisor, 50+ startup investments.
+I was at her book launch this week. Chair Emeritus of the Angel Capital Association. SEC advisor. 50+ investments. And now, an author telling you to stop apologizing for building wealth and start using it as a force for good.
 
-Her message: stop apologizing for building wealth. Use it as a force for good.
+If you invest — read this. If you want to start investing — read this first. If you've been told that wanting to build wealth is somehow unseemly — read this and then go build something beautiful with your money.
 
-If you invest — or want to start — read this. 📖
+📖
 
 ---
 
-## 5. Track of the Week
+## 6. Track of the Week
 
-[Angel to pick]
+[Angel to pick — something that matches the energy: defiant, intentional, forward-moving]
 
 ---
 
 The constraint isn't capability anymore. It's intention.
 
-Stay intentional.
+Stay intentional. Stay engaged. Stay human. And for the love of everything, stop sending 22-page decks to people who didn't ask for them.
 
 —Angel
 
 ---
 
-If you're building, hiring, raising, or investing — my door is open.
-Stay engaged. Stay sharp. Stay human.
+**P.S.** If you're building something that makes the world healthier and happier — my door is open. Reply to this email. I read every one.
 
-**P.S.** I'm keynoting the ACA Summit (April 21-23) and co-hosting Jeffersonian dinners during Human Tech Week (May 11-15, San Francisco). If you invest at the intersection of AI and human potential, let's talk.
-
-**P.P.S.** Pitch Slam is April 9. Founders pitch live to real investors. 30%+ of past pitches led to follow-up meetings. Last spots → angelclub.com/pitchslam
+**P.P.S.** Pitch Slam. April 9. Last spots. Stop thinking about it and just sign up. The worst that happens is you get honest feedback from real investors. The best that happens changes your trajectory. → angelclub.com/pitchslam
