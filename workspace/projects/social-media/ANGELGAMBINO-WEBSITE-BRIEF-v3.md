@@ -160,7 +160,7 @@ Grayscale, 40px height, centered
 **Headline:** Where deals and relationships actually start
 
 **Copy:**
-> A community and syndicate of angel investors who support each other, co-invest together, and mentor the founders building what's next.
+> A community and syndicate of angel investors who support each other, co-invest together, and mentor the founders building a better world.
 
 **Buttons:**
 | Primary | Secondary |
@@ -188,25 +188,24 @@ Grayscale, 40px height, centered
 **Headline (ivory):**
 > If you're building something that makes the world healthier and happier — start here.
 
-**3 Buttons (stacked, large, ivory outline):**
+**4 Buttons (stacked, large, ivory outline):**
 1. Book Advisory Call
 2. Join Angel Club
 3. Get Ready to Raise
+4. Subscribe to My Newsletter
 
 ---
 
 ## 💼 LINKEDIN PROFILE
 
 ### HEADLINE:
-> Building, advising, and investing at the intersection of AI and human potential | 5× Exited | $1B+ P&L (MTV/BBC) | WIRED Top 100
+> AI-Native Operator | Growth & Partnerships | $1B+ P&L (MTV/BBC) | 5× Exited | Built 13K-Investor AI Platform | WIRED Top 100
 
 ### ABOUT:
 
 I build with AI. Not just invest in it.
 
 Last month I used AI agent workflows to build a 13,000-investor database with 47 data columns — work that would have taken a 5-person research team 3 months. I did it in 5 days. That's not a demo. That's my operating model.
-
-My mission is simple: make the world healthier and happier. Every company I build, every founder I back, every dollar I help deploy points in that direction.
 
 Before that: $1B+ in P&L leadership at MTV Networks and the BBC. 5 exits across media, tech, and consumer. A 6,400-member community of founders and investors through Angel Club. 20+ years of building growth systems across four continents.
 
