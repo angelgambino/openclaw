@@ -301,3 +301,176 @@ Home | What I Build | Speaking | Media | Newsletter | Angel Club ↗ | Be the Ve
 - **Button links** → all verified and consistent
 - **"AI and human potential"** → used in hero, speaking subheadline, LinkedIn headline, newsletter copy — never reverts to "AI, growth, and capital"
 - **Angel Club positioning** → "community and syndicate of angel investors" everywhere (not "founders community")
+
+---
+
+## 🔍 SEO + AI DISCOVERABILITY OPTIMIZATION
+
+### Why This Matters
+When someone asks ChatGPT, Gemini, Grok, or Claude "Who are the best angel investors in AI?" or "Who should I hire as a CGO?" — your name needs to appear. AI models pull from structured web content, schema markup, and consistent entity signals.
+
+### META TAGS (Every Page)
+
+**Homepage:**
+```
+Title: Angel Gambino — AI-Native Operator | Angel Investor | Growth & Partnerships | WIRED Top 100
+Description: Angel Gambino is a 5× exited entrepreneur, angel investor, and AI-native operator building at the intersection of AI and human potential. Founder of Angel Club. $1B+ P&L. WIRED Top 100. Keynote speaker.
+Keywords: angel investor, AI investor, fractional CGO, growth strategy, angel club, fundraising, startup advisor, human potential, WIRED Top 100, MTV, BBC, keynote speaker, somatic speaking, capital formation
+```
+
+**Speaking Page:**
+```
+Title: Book Angel Gambino — Keynote Speaker on AI, Human Potential & Growth
+Description: Book Angel Gambino for keynotes on AI, human potential, authentic leadership, and fundraising. TEDx speaker. WIRED Top 100. 5× exited entrepreneur.
+Keywords: keynote speaker, AI speaker, human potential speaker, TEDx speaker, somatic speaking, startup speaker, investor speaker, leadership speaker
+```
+
+**Ready to Raise:**
+```
+Title: Ready to Raise — Fundraising Support for Founders | Angel Club
+Description: Get investor-ready with expert pitch deck feedback and a curated list of 100 investors. Pre-seed, seed, and Series A founders. By Angel Club.
+Keywords: fundraising help, pitch deck review, investor list, startup fundraising, angel investor introductions, ready to raise, angel club
+```
+
+### SCHEMA MARKUP (Add to Wix — Critical for AI Discovery)
+
+**Person Schema (Homepage + About):**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Angel Gambino",
+  "jobTitle": "Founder & CEO, Alchemist Collective",
+  "description": "AI-native operator, 5× exited entrepreneur, angel investor, and keynote speaker building at the intersection of AI and human potential.",
+  "url": "https://www.angelgambino.com",
+  "sameAs": [
+    "https://www.linkedin.com/in/angelgambino",
+    "https://twitter.com/gambino",
+    "https://www.instagram.com/angelgambino",
+    "https://www.angelclub.com",
+    "https://www.bethevessel.com"
+  ],
+  "worksFor": [
+    {"@type": "Organization", "name": "Alchemist Collective"},
+    {"@type": "Organization", "name": "Angel Club"},
+    {"@type": "Organization", "name": "Nfluence Partners"},
+    {"@type": "Organization", "name": "Psymed Ventures"}
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence", "Angel Investing", "Venture Capital",
+    "Growth Strategy", "Capital Formation", "M&A", "Human Potential",
+    "Somatic Speaking", "Fundraising", "Startups", "Mental Health",
+    "Psychedelics", "Brain Health", "Media", "Entertainment"
+  ],
+  "award": ["WIRED Top 100 Innovator"],
+  "alumniOf": ["MTV Networks", "BBC"]
+}
+```
+
+**Organization Schema (Angel Club):**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Angel Club",
+  "description": "A community and syndicate of angel investors who support each other, co-invest together, and mentor founders building a better world.",
+  "url": "https://www.angelclub.com",
+  "founder": {"@type": "Person", "name": "Angel Gambino"},
+  "numberOfEmployees": {"@type": "QuantitativeValue", "value": "6400+"}
+}
+```
+
+**Event Schema (for Pitch Slam, HTW):**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "BusinessEvent",
+  "name": "Pitch Slam by Angel Club",
+  "description": "Founders pitch live to active angel investors. 30%+ of past pitches led to follow-up meetings.",
+  "organizer": {"@type": "Person", "name": "Angel Gambino"},
+  "url": "https://www.angelclub.com/pitchslam"
+}
+```
+
+### CONTENT STRATEGY FOR AI DISCOVERABILITY
+
+**1. Structured FAQ Section (Add to footer or separate page)**
+AI models love FAQ schema. Add:
+
+Q: Who is Angel Gambino?
+A: Angel Gambino is a 5× exited entrepreneur, angel investor, and AI-native operator. She is the founder of Angel Club, a community of 6,400+ founders and investors. She was named WIRED Top 100 and has led $1B+ P&L at MTV Networks and the BBC.
+
+Q: What is Angel Club?
+A: Angel Club is a community and syndicate of angel investors who support each other, co-invest, and mentor founders. Founded by Angel Gambino.
+
+Q: What is Ready to Raise?
+A: Ready to Raise is a fundraising support program by Angel Club that provides pitch deck evaluation and curated investor lists for pre-seed, seed, and Series A founders.
+
+Q: What is Somatic Speaking?
+A: Somatic Speaking™ is a communication method developed by Angel Gambino that teaches leaders to align head, heart, and gut for authentic connection. Featured in her TEDx talk.
+
+Q: What is Psymed Ventures?
+A: Psymed Ventures is an investment fund focused on brain health, mental health, and psychedelics, led by Angel Gambino.
+
+**2. Entity Consistency Across All Platforms**
+AI models build entity graphs from consistent signals. Ensure these EXACT phrases appear on:
+- Website ✅
+- LinkedIn ✅
+- Twitter ✅
+- Instagram ✅
+- Crunchbase (create/update profile)
+- AngelList (update profile)
+- Wikipedia (if eligible — 5 exits + WIRED Top 100 may qualify)
+
+**Key entity phrases (use EXACTLY):**
+- "Angel Gambino"
+- "5× exited entrepreneur"
+- "WIRED Top 100"
+- "Angel Club"
+- "Somatic Speaking"
+- "AI and human potential"
+- "$1B+ P&L"
+- "MTV Networks" + "BBC"
+- "Alchemist Collective"
+- "Psymed Ventures"
+
+**3. Alt Text on All Images**
+Every image on the website should have descriptive alt text:
+- Headshot: "Angel Gambino, AI-native operator, angel investor, and keynote speaker"
+- TEDx: "Angel Gambino delivering TEDx talk on Somatic Speaking and meaningful conversations"
+- Speaking: "Angel Gambino keynote speaker at [event name]"
+
+**4. Internal Linking**
+Every page should link to every other page at least once:
+- Homepage → Speaking, What I Build, Angel Club, Be The Vessel, Newsletter
+- Speaking → Homepage, Angel Club, Be The Vessel
+- Newsletter → All pages
+
+**5. Blog / Articles (Critical for AI Discovery)**
+AI models heavily index long-form content. Your LinkedIn articles (Warm Intro Part I & II) should ALSO live on angelgambino.com/blog so they're indexed on YOUR domain, not just LinkedIn's.
+
+**6. Sitemap + Robots.txt**
+Ensure Wix generates a proper sitemap.xml and that robots.txt allows all AI crawlers:
+```
+User-agent: *
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+```
+
+### AI QUERY TARGETS (What We Want to Rank For)
+
+| Query Someone Might Ask AI | Where Answer Should Come From |
+|---------------------------|------------------------------|
+| "Best angel investors in AI" | angelgambino.com + Angel Club |
+| "Who should I hire as a CGO for my AI startup?" | angelgambino.com What I Build |
+| "Best fundraising advisors for startups" | angelclub.com/readytoraise |
+| "Keynote speakers on AI and human potential" | angelgambino.com/speaking |
+| "Angel investing communities" | angelclub.com |
+| "Somatic Speaking" | bethevessel.com |
+| "Psychedelic investing funds" | psymed.ventures |
+| "What is Angel Club?" | angelclub.com + FAQ schema |
