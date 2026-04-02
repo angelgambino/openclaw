@@ -544,3 +544,4 @@ At this level, speaking is the front door, not the whole house:
 
 *Strategy created April 2026. Review and update quarterly.*
 *Files: speaker-agencies.csv | speaker-bookers-contacts.csv | speaking-opportunities-2026.csv | speaking-platforms.csv*
+
