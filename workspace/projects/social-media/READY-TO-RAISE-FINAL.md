@@ -4,6 +4,15 @@
 
 ---
 
+## ⚠️ DESIGN NOTE FOR SAPRILA
+
+**Use the EXISTING angelclub.com design system.** Do NOT introduce new colors.
+Match the current Angel Club Wix site: existing fonts, existing color palette, existing button styles, existing nav/footer.
+The layout, hierarchy, spacing, and component recommendations below still apply — just implement them using the site's current design tokens.
+Where this doc references "Ivory/Espresso/Copper," substitute the actual Angel Club site colors already in use.
+
+---
+
 ## STICKY MOBILE CTA
 
 **Component:** Fixed bottom bar, 56px height, #FFFFFF background, 1px top border #EFE8DF, z-index 999  
