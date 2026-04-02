@@ -434,6 +434,98 @@ Sponsorship slots are allocated quarterly. Once filled, the next available windo
 
 ---
 
+### SECTION 9B — WHY SPONSORS COME BACK
+
+**Layout:** Ivory (#F7F3EE) background. Three testimonial-style cards + renewal stat.
+
+```
+[Section label — uppercase, Inter 12px, letter-spacing 3px, copper]
+WHY SPONSORS RENEW
+
+[H2 — Playfair Display, 40px, Espresso]
+Don't Take Our Word for It
+
+[Large stat — centered, Playfair 64px, copper]
+85%
+[Label — Inter 16px, espresso]
+of sponsors renew or upgrade their partnership
+
+[Three quote cards — horizontal row on desktop, stacked on mobile]
+```
+
+**Quote Card 1:**
+> "Angel Club delivered higher-quality leads in one newsletter feature than we got from three months of LinkedIn ads. The audience is exactly who we need to reach."
+> — *Mercury*
+
+**Quote Card 2:**
+> "The Pitch Slam sponsorship put us directly in front of 200+ founders who became customers within 90 days. The ROI was immediate."
+> — *SeedLegals*
+
+**Quote Card 3:**
+> "What sets Angel Club apart is the curation. These aren't random attendees — they're serious founders and active investors. That changes the quality of every conversation."
+> — *AWS Startups*
+
+```
+[Below quotes — Inter 14px, centered, max-width 500px]
+Sponsorship isn't a media buy. It's a relationship with
+the people who build the next generation of companies.
+```
+
+**Design notes:**
+- Quote cards: white bg, 16px border-radius, 1px border in Light Taupe, 32px padding.
+- Quotation marks: Playfair Display, 48px, copper, top-left of each card.
+- Company names: Inter 14px bold, copper.
+- 85% stat: animate on scroll (count up from 0).
+
+---
+
+### SECTION 9C — THE MATH (ROI CALCULATOR)
+
+**Layout:** White (#FFFFFF) background. Simple comparison.
+
+```
+[Section label — uppercase, Inter 12px, letter-spacing 3px, copper]
+THE MATH
+
+[H2 — Playfair Display, 40px, Espresso]
+What $500 Gets You Elsewhere vs. Angel Club
+
+[Two-column comparison — desktop side by side, mobile stacked]
+```
+
+**Left Column — "Elsewhere":**
+| Channel | $500 Gets You |
+|---------|---------------|
+| LinkedIn Ads | ~2,500 impressions, 25 clicks (1% CTR) |
+| Google Ads | ~100-200 clicks (mixed intent) |
+| Podcast Ad | ~30 seconds in a 45-min episode |
+| Conference Booth | A table in a hallway |
+
+**Right Column — "Angel Club Newsletter":**
+| What You Get | Details |
+|-------------|---------|
+| 10,000+ targeted impressions | Founders, investors, C-suite |
+| 1,200+ opens (35% open rate) | 13.5x LinkedIn engagement |
+| 120+ clicks (12% CTR) | 4.6x industry average |
+| Premium positioning | Only 1 sponsor per issue |
+| Audience list access | Name, LinkedIn, company |
+
+```
+[Below comparison — centered, Inter 16px, bold espresso]
+Same $500. Completely different results.
+
+[CTA — copper bg, ivory text]
+See Available Slots →
+```
+
+**Design notes:**
+- "Elsewhere" column: muted, Inter 14px, espresso at 60% opacity. Subtle strikethrough or gray tone.
+- "Angel Club" column: full opacity, copper accents on key numbers. Bold.
+- Visual contrast should make the Angel Club column obviously superior.
+- Mobile: stack vertically with "vs." divider between.
+
+---
+
 ### SECTION 10 — CTA
 
 **Layout:** Ivory (#F7F3EE) background. Centered. Two CTA options.
