@@ -3,57 +3,114 @@
   "jobs": [
     {
       "id": "health-checkin",
-      "schedule": "0 15-23,0-5 * * *",
-      "task": "Quick health check-in with Angel. Ask: \ud83d\udeb6\u200d\u2640\ufe0f How many steps today? (Goal: 10,000) \ud83d\udca7 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241"
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 15-23,0-5 * * *"
+      },
+      "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
+      "state": {
+        "nextRunAtMs": 1775149200000,
+        "runningAtMs": 1775149200002
+      },
+      "name": "Cron: 0 15-23,0-5 * * *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     },
     {
       "id": "saturday-reminders",
-      "schedule": "0 17 29 3 *",
-      "task": "Remind Angel: Weekend to-do list! 1) \ud83d\udccb Complete Broncos paperwork \u2014 don't push to Sunday. 2) \ud83d\udc31 Pick up the cats! 3) \ud83c\udfe0 Organize the hillside garage. Block 2-3 hours for the garage. Get it all done today so Sunday is free. Send via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241",
-      "cleanup": "delete"
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 17 29 3 *"
+      },
+      "task": "Remind Angel: Weekend to-do list! 1) 📋 Complete Broncos paperwork — don't push to Sunday. 2) 🐱 Pick up the cats! 3) 🏠 Organize the hillside garage. Block 2-3 hours for the garage. Get it all done today so Sunday is free. Send via Telegram.",
+      "cleanup": "delete",
+      "state": {
+        "nextRunAtMs": 1806339600000
+      },
+      "name": "Cron: 0 17 29 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     },
     {
       "id": "sunday-backup-reminder",
-      "schedule": "0 17 30 3 *",
-      "task": "Remind Angel: Weekend checklist \u2014 what's done? \u2610 Broncos paperwork \u2610 Pick up cats \u2610 Hillside garage organized. Anything not done \u2014 do it NOW. Last day of the weekend. Send via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241",
-      "cleanup": "delete"
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 17 30 3 *"
+      },
+      "task": "Remind Angel: Weekend checklist — what's done? ☐ Broncos paperwork ☐ Pick up cats ☐ Hillside garage organized. Anything not done — do it NOW. Last day of the weekend. Send via Telegram.",
+      "cleanup": "delete",
+      "state": {
+        "nextRunAtMs": 1806426000000
+      },
+      "name": "Cron: 0 17 30 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     },
     {
       "id": "euno-followup-reminder",
-      "schedule": "0 14 3 4 *",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 3 4 *"
+      },
       "task": "Remind Angel to follow up with EUNO (Justin Tibble & Roshani Gami). They were sent a Hubble follow-up email on March 20. Check if they signed up for Ready to Raise or booked another Hubble session. If not, nudge them. Send reminder via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241"
+      "state": {
+        "nextRunAtMs": 1775224800000
+      },
+      "name": "Cron: 0 14 3 4 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     },
     {
       "id": "tonight-groceries",
-      "schedule": "45 3 26 3 *",
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 3 26 3 *"
+      },
       "task": "Reminder: Go grocery shopping for Bronco's food TONIGHT before stores close! Don't push it to tomorrow. Send via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241",
-      "cleanup": "delete"
+      "cleanup": "delete",
+      "state": {
+        "nextRunAtMs": 1806032700000
+      },
+      "name": "Cron: 45 3 26 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     },
     {
       "id": "hillside-pickup",
-      "schedule": "0 4 27 3 *",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 4 27 3 *"
+      },
       "task": "Remind Angel: 1) Pick up your KEY and HEADPHONES at hillside 2) Bring Bronco his gift! Don't forget! Send via Telegram.",
-      "channel": "telegram",
-      "to": "telegram:912959241",
-      "cleanup": "delete"
+      "cleanup": "delete",
+      "state": {
+        "nextRunAtMs": 1806120000000
+      },
+      "name": "Cron: 0 4 27 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     },
     {
       "id": "friday-applications",
-      "schedule": "0 15 27 3 *",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 15 27 3 *"
+      },
       "task": "FRIDAY PRIORITIES: 1) Send 3 job applications (Cohere, Mastercard, Morgan Stanley) 2) Send Parsley360 list to Sheryl 3) Send CountryLine proposal to Simon 4) Post AI Doc on all socials 5) Send newsletter 6) Apply to 3 jobs. GO!",
-      "channel": "telegram",
-      "to": "telegram:912959241",
-      "cleanup": "delete"
+      "cleanup": "delete",
+      "state": {
+        "nextRunAtMs": 1806159600000
+      },
+      "name": "Cron: 0 15 27 3 *",
+      "enabled": true,
+      "wakeMode": "now",
+      "sessionTarget": "main"
     }
   ]
 }
