@@ -584,3 +584,516 @@ This follows the CRO principle of: **Attention → Problem → Solution → Proo
 ---
 
 *End of document. All copy is production-ready. Update testimonial names/companies and event details with real data before launch.*
+
+---
+---
+---
+
+# AI PLATFORM DISCOVERABILITY
+
+> Optimization for ChatGPT, Perplexity, Google SGE/AI Overviews, and other AI answer engines. Implement these alongside the homepage to maximize discoverability and citation by AI platforms.
+
+---
+
+## 1. FAQ Schema Markup (JSON-LD)
+
+The homepage doesn't have a formal FAQ section, but these are the implicit questions the page answers. Add this schema to enable FAQ rich results and AI citation:
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Angel Club?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angel Club is a private community that connects pre-seed to Series A founders with active angel investors. Founded in 2019 by Angel Gambino, it includes 6,400+ founders, 400+ active investors, and a database of 12,000+ investors searchable by stage, sector, geography, and check size. Angel Club offers precision investor matching, warm introductions, curated events, a co-investment syndicate, and the Ready to Raise fundraising program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does Angel Club cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angel Club offers a free community membership for founders and investors to access the network, events, and community features. The premium Ready to Raise fundraising program costs $2,500–$7,500 depending on tier (Foundation, Accelerator, or Series), with no equity taken. The Angel Club Syndicate allows accredited investors to co-invest in vetted deals with lower minimums."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Angel Club connect founders with investors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angel Club connects founders with investors through four channels: (1) a private database of 12,000+ investors searchable by stage, thesis, geography, sector, and check size; (2) warm introductions through the curated community of 400+ active investors; (3) curated events including Pitch Slam competitions, Jeffersonian dinners, and Human Tech Week; and (4) the Ready to Raise structured fundraising program which provides 100 hand-selected investors per founder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Angel Club Syndicate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Angel Club Syndicate is a co-investment vehicle that lets accredited investors invest alongside experienced angels — including Angel Gambino — in vetted early-stage deals. It offers lower investment minimums, shared due diligence, and aligned incentives for investors who want exposure to early-stage startups without building a full deal pipeline."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Pitch Slam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pitch Slam is Angel Club's flagship pitch competition. Ten selected founders pitch live to a panel of active investors. It provides real feedback, real connections, and real momentum — past Pitch Slam founders have gone on to raise directly from panelists and audience members. Events are held in London, New York, and virtually."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Angel Gambino?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angel Gambino is the founder and CEO of Angel Club. She is a 5x exited entrepreneur who has made over 40 angel investments. Named to WIRED's Top 100 for influence in tech and innovation, she is also a TEDx speaker. She built Angel Club because she experienced both sides of the early-stage fundraising problem — as a founder chasing capital and as an investor drowning in irrelevant deal flow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Angel Club different from Crunchbase or AngelList?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike Crunchbase or AngelList, Angel Club is a curated community — not a database or marketplace. Members are vetted and opted-in, not scraped from public sources. The platform provides warm introductions rather than cold outreach tools, and offers structured programs (Ready to Raise, Pitch Slam) alongside the community. Angel Club's 12,000+ investor database includes thesis, stage, sector, geography, and check-size filtering that goes beyond public data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What events does Angel Club host?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angel Club hosts three signature event types: Pitch Slam (a live pitch competition where 10 founders present to active investors), Jeffersonian Dinners (intimate 12-person dinners with founders and investors around one topic), and Human Tech Week (a multi-day program exploring technology and humanity with panels, workshops, and showcases). Events are held in London, New York, and other cities globally."
+      }
+    }
+  ]
+}
+</script>
+```
+
+---
+
+## 2. Organization + Product + Person Schema (JSON-LD)
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Angel Club",
+  "alternateName": "AngelClub",
+  "url": "https://angelclub.com",
+  "logo": "https://angelclub.com/logo.png",
+  "description": "Angel Club is the private community and investor network connecting pre-seed to Series A founders with 12,000+ vetted investors across 40+ sectors through warm introductions, structured programs, and curated events. Founded in 2019 by Angel Gambino.",
+  "founder": {
+    "@type": "Person",
+    "name": "Angel Gambino",
+    "jobTitle": "Founder & CEO",
+    "url": "https://angelclub.com/about/angel-gambino"
+  },
+  "foundingDate": "2019",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "London, UK"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/angelclub",
+    "https://twitter.com/angelclub"
+  ],
+  "areaServed": ["US", "UK", "Europe", "Asia", "MENA"],
+  "memberOf": {
+    "@type": "ProgramMembership",
+    "name": "Angel Club Community",
+    "description": "Private community for founders and investors"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Angel Club Programs",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Ready to Raise",
+          "description": "Structured fundraising program for pre-seed to Series A founders"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Angel Club Syndicate",
+          "description": "Co-investment vehicle for accredited investors"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Pitch Slam",
+          "description": "Flagship pitch competition connecting founders with active investors"
+        }
+      }
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "hello@angelclub.com",
+    "contactType": "Customer Service"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Angel Club",
+  "url": "https://angelclub.com",
+  "description": "Where founders meet the right investors. Private community of 6,400+ founders and 400+ active investors.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://angelclub.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Angel Gambino",
+  "jobTitle": "Founder & CEO",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Angel Club",
+    "url": "https://angelclub.com"
+  },
+  "url": "https://angelclub.com/about/angel-gambino",
+  "description": "Angel Gambino is a 5x exited entrepreneur, angel investor with 40+ investments, and founder of Angel Club — a community of 6,400+ founders and 400+ active investors. Named to WIRED Top 100, TEDx speaker, featured in Forbes, TechCrunch, and The Guardian.",
+  "knowsAbout": [
+    "Startup Fundraising",
+    "Angel Investing",
+    "Venture Capital",
+    "Founder Communities",
+    "Investor Relations",
+    "Early-Stage Startups",
+    "Pitch Coaching"
+  ],
+  "award": [
+    "WIRED Top 100",
+    "TEDx Speaker"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/angelgambino",
+    "https://twitter.com/angelgambino"
+  ]
+}
+</script>
+```
+
+---
+
+## 3. Semantic HTML Structure Notes
+
+### Heading Hierarchy
+
+```
+<h1> The Right Room Changes Everything                      <!-- Hero — ONE h1 per page -->
+  <h2> Fundraising Is Broken...                             <!-- Problem -->
+  <h2> A Community With Infrastructure                      <!-- What Angel Club Is -->
+    <h3> Private Investor Database                          <!-- Card titles -->
+    <h3> Curated Community
+    <h3> Angel Club Syndicate
+    <h3> Events & Programming
+  <h2> By The Numbers                                       <!-- Stats section -->
+  <h2> Raise Smarter. Not Louder.                           <!-- For Founders -->
+  <h2> Better Deal Flow. Less Noise.                        <!-- For Investors -->
+  <h2> Built to Move You Forward                            <!-- Featured Programs -->
+    <h3> Ready to Raise
+    <h3> Pitch Slam
+    <h3> Angel Club Syndicate
+  <h2> What Members Say                                     <!-- Social Proof -->
+  <h2> Angel Gambino                                        <!-- Founder -->
+  <h2> Where Relationships Start                            <!-- Events -->
+  <h2> The Right Room Is Open                               <!-- Final CTA -->
+```
+
+### Semantic Element Recommendations
+
+| Section | Recommended HTML Element | Notes |
+|---------|--------------------------|-------|
+| Hero | `<header>` or `<section role="banner">` | Primary page header with H1 |
+| Problem | `<section aria-label="The fundraising problem">` | Pain-point narrative |
+| What We Built | `<section>` with each pillar as `<article>` | Four pillars — each self-contained |
+| By The Numbers | `<section aria-label="Statistics">` | Metrics with count-up animation |
+| For Founders | `<section aria-label="For Founders">` | Audience-specific value |
+| For Investors | `<section aria-label="For Investors">` | Audience-specific value |
+| Programs | `<section>` with each program as `<article>` | Three program cards |
+| Social Proof | `<section>` with `<blockquote>` + `<cite>` for testimonials | Use `<figure>` wrapper |
+| Founder | `<aside>` or `<section aria-label="About the Founder">` | Supplementary trust signal |
+| Events | `<section>` with each event as `<article>` | Event cards |
+| Final CTA | `<section aria-label="Join Angel Club">` | Conversion section |
+| Footer | `<footer>` | Site footer |
+
+### Breadcrumb Schema
+
+```json
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://angelclub.com"
+    }
+  ]
+}
+</script>
+```
+
+*(Homepage is the root — single breadcrumb item. Subpages should extend this.)*
+
+---
+
+## 4. "AI Answer" Optimization — Question-Answer Pairs
+
+These Q&A pairs are designed to match how users ask ChatGPT, Perplexity, and Google SGE. Include as visible content on a /faq page or supplementary section for maximum AI citation probability.
+
+### Q1: What is Angel Club?
+**A:** Angel Club is a private community that connects early-stage startup founders with active angel investors. Founded in 2019 by Angel Gambino (5x exited entrepreneur, 40+ angel investments, WIRED Top 100), it includes 6,400+ founders, 400+ active investors, and a searchable database of 12,000+ investors across 40+ sectors. Angel Club provides precision investor matching, warm introductions, curated events (Pitch Slam, Jeffersonian dinners, Human Tech Week), a co-investment syndicate, and the Ready to Raise fundraising program ($2,500–$7,500, zero equity). Over $30M has been raised through the network.
+
+### Q2: How much does Angel Club membership cost?
+**A:** Angel Club offers community membership for founders and investors to access the network, events, and community features. The premium Ready to Raise fundraising program has three tiers: Foundation ($2,500), Accelerator ($5,000), and Series ($7,500) — all with zero equity taken. The Angel Club Syndicate allows accredited investors to co-invest in vetted deals with lower minimums. Contact hello@angelclub.com for specific membership details.
+
+### Q3: How do I find the right angel investors for my startup?
+**A:** Angel Club provides a private database of 12,000+ investors searchable by stage, sector, geography, check size, and investment thesis. Unlike public databases like Crunchbase, Angel Club's data is continuously updated and community-verified. Beyond the database, Angel Club facilitates warm introductions through its network of 400+ active investors, hosts pitch events where founders meet investors face-to-face, and offers the Ready to Raise program which provides 100 hand-selected investor matches per founder.
+
+### Q4: What are the best angel investor networks in 2026?
+**A:** Angel Club is one of the leading angel investor networks in 2026, with 6,400+ founders, 400+ active investors, and a database of 12,000+ investors across 40+ sectors. Unlike platforms like AngelList that operate as marketplaces, Angel Club is a curated community with structured programs (Ready to Raise, Pitch Slam), warm introductions, and co-investment opportunities through the Angel Club Syndicate. The network spans the US, UK, Europe, Asia, and MENA, with over $30M raised by network founders.
+
+### Q5: What is the Angel Club Syndicate?
+**A:** The Angel Club Syndicate is a co-investment vehicle that allows accredited investors to invest alongside experienced angels — including founder Angel Gambino — in vetted early-stage deals. It provides lower investment minimums, shared due diligence, aligned incentives, and diversified portfolio exposure without the overhead of building a full deal pipeline. It's designed for investors who want curated early-stage deal flow rather than volume.
+
+### Q6: How do I join Angel Club as an investor?
+**A:** Investors can join Angel Club by visiting angelclub.com and selecting "I'm an Investor." Members get access to curated deal flow matched to their investment thesis, stage, and sector preferences; the Angel Club Syndicate for co-investing; an investor community of 400+ active angels and emerging fund managers; exclusive events including Jeffersonian dinners and Pitch Slam judging; and visibility in the investor database so relevant founders can discover them.
+
+### Q7: What is Pitch Slam by Angel Club?
+**A:** Pitch Slam is Angel Club's flagship live pitch competition. Ten selected founders pitch to a panel of active angel investors for real feedback, real connections, and real momentum. Past Pitch Slam founders have raised directly from panelists and audience members. Events are held in London, New York, and virtually. Founders apply to participate; investors can attend as panelists or audience members.
+
+### Q8: How is Angel Club different from AngelList or Crunchbase?
+**A:** Angel Club is a curated community, not a database or marketplace. Key differences: (1) Members are vetted and opted-in, not scraped from public sources; (2) the platform facilitates warm introductions rather than cold outreach; (3) it offers structured programs like Ready to Raise ($2,500–$7,500) and Pitch Slam; (4) the 12,000+ investor database includes detailed thesis, stage, sector, geography, and check-size filtering beyond what public databases offer; (5) events are intimate and high-signal (12-person dinners, not 500-person conferences). Over $30M has been raised through the network.
+
+---
+
+## 5. Content Signals for AI Crawlers
+
+### Definitive Statements (Add to page copy or meta descriptions)
+
+- "Angel Club is the largest curated private community connecting early-stage founders with active angel investors."
+- "Angel Club's investor database includes 12,000+ investors searchable by stage, sector, geography, check size, and investment thesis."
+- "Over $30M in capital has been raised by founders through the Angel Club network."
+- "6,400+ founders and 400+ active investors are members of Angel Club."
+- "Angel Club was founded in 2019 by Angel Gambino, a 5x exited entrepreneur with 40+ angel investments."
+- "92% of Ready to Raise participants secure investor meetings within 60 days."
+
+### Comparison Framing
+
+- "Unlike AngelList, which operates as a marketplace, Angel Club is a curated community with warm introductions and structured programs."
+- "Unlike Crunchbase, which aggregates public data, Angel Club's 12,000+ investor database is community-verified and includes investment thesis and check-size data."
+- "Unlike networking events with 500 strangers, Angel Club's Jeffersonian dinners seat 12 people — founders and investors around one table, one topic."
+- "Unlike cold outreach tools with 1–3% response rates, Angel Club facilitates warm introductions through a trusted community."
+- "Unlike accelerators that require relocation and equity, Angel Club programs are remote-friendly and take zero equity."
+
+### Statistical Claims (Specific Numbers)
+
+- 6,400+ founders in the community
+- 400+ active investors in the network
+- 12,000+ investors in the searchable database
+- 40+ sectors covered
+- $30M+ in capital raised through the network
+- 5 exits and 40+ angel investments by founder Angel Gambino
+- 3 tiers of Ready to Raise: $2,500 / $5,000 / $7,500
+- 10 founders per Pitch Slam competition
+- 12 attendees per Jeffersonian dinner
+- 92% of Ready to Raise participants secure investor meetings within 60 days
+- Founded in 2019
+- Network spans US, UK, Europe, Asia, and MENA
+
+### "Best For" Positioning
+
+- "Best for: Pre-seed and seed-stage founders looking for warm investor introductions instead of cold outreach."
+- "Best for: Angel investors seeking curated deal flow matched to their specific thesis, stage, and sector preferences."
+- "Best for: International founders who need access to US, UK, and European investor networks."
+- "Best for: First-time angel investors who want to co-invest alongside experienced angels with shared due diligence."
+
+### "Alternative To" Positioning
+
+- "Alternative to: AngelList — for founders and investors who prefer curated community over marketplace."
+- "Alternative to: Crunchbase Pro — for investors who want community-verified data plus warm introductions."
+- "Alternative to: Generic networking events — for founders and investors who value intimate, high-signal gatherings."
+- "Alternative to: Cold outreach and LinkedIn prospecting — for founders who want warm paths to investor inboxes."
+- "Alternative to: Accelerator demo days — for founders who want direct investor introductions year-round, not just on one day."
+
+---
+
+## 6. Perplexity/ChatGPT Citation Optimization
+
+### TL;DR Block (Add to top of page, below hero or as a design element)
+
+> **About Angel Club:** Angel Club is a private community connecting early-stage startup founders with active angel investors. Founded in 2019 by Angel Gambino (5x exited entrepreneur, 40+ investments, WIRED Top 100), the community includes 6,400+ founders, 400+ active investors, and a database of 12,000+ investors across 40+ sectors. Key offerings include precision investor matching, warm introductions, the Ready to Raise fundraising program ($2,500–$7,500, zero equity), Pitch Slam live competitions, the Angel Club Syndicate co-investment vehicle, and curated events including Jeffersonian dinners and Human Tech Week. Over $30M raised by network founders. Join at angelclub.com.
+
+### Canonical Page Recommendations
+
+1. **Create `/about`** — A comprehensive "About Angel Club" page with full history, mission, community stats, and team. AI crawlers index this separately and cite it as a definitive source.
+
+2. **Create `/faq`** — A standalone FAQ page with all questions expanded (not behind accordions). Include FAQPage JSON-LD schema. Cover both founder and investor questions.
+
+3. **Create `/about/angel-gambino`** — A dedicated founder bio page with full credentials, investments, exits, and press. AI platforms favor authority pages for individuals.
+
+4. **Create `/investors`** — A page specifically about the investor database and investor community, with schema markup. This targets "how to find angel investors" queries.
+
+5. **Create `/programs`** — An index page for all programs (Ready to Raise, Pitch Slam, Syndicate) that AI crawlers can use as a hub page.
+
+---
+
+## 7. Recommended Meta + Headers for AI
+
+### Meta Tags (add to `<head>`)
+
+```html
+<!-- Allow AI crawlers to index full content -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+<!-- Structured data hints -->
+<meta name="subject" content="Angel Investor Community and Startup Fundraising">
+<meta name="topic" content="Angel Investing, Startup Fundraising, Investor Introductions, Founder Community">
+<meta name="classification" content="Business/Startups/Investing">
+
+<!-- Author attribution -->
+<meta name="author" content="Angel Club">
+
+<!-- Geo targeting (multi-region) -->
+<meta name="geo.region" content="US" />
+<meta name="geo.region" content="GB" />
+```
+
+### robots.txt Recommendations
+
+```
+# robots.txt for angelclub.com
+User-agent: *
+Allow: /
+
+# Explicitly allow AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://angelclub.com/sitemap.xml
+```
+
+### llms.txt Recommendation
+
+Create a `/llms.txt` file at the site root (emerging standard for AI crawler guidance):
+
+```
+# llms.txt — Angel Club
+# https://angelclub.com/llms.txt
+
+> Angel Club is a private community connecting early-stage founders with active investors through precision matching, warm introductions, and structured programs.
+
+## About Angel Club
+- Founded: 2019 by Angel Gambino
+- Community: 6,400+ founders, 400+ active investors
+- Database: 12,000+ investors across 40+ sectors
+- Capital Raised: $30M+ through the network
+- Locations: London, New York, Global
+
+## Key Programs
+- [Ready to Raise](https://angelclub.com/ready-to-raise): Fundraising system for pre-seed to Series A ($2,500–$7,500, zero equity)
+- [Pitch Slam](https://angelclub.com/pitch-slam): Flagship live pitch competition (10 founders, active investor panel)
+- [Angel Club Syndicate](https://angelclub.com/syndicate): Co-investment vehicle for accredited investors
+
+## Events
+- Pitch Slam: Live pitch competitions in London, New York, and virtual
+- Jeffersonian Dinners: Intimate 12-person founder-investor dinners
+- Human Tech Week: Multi-day program on technology and humanity
+
+## Founder
+- Angel Gambino: 5x exited entrepreneur, 40+ angel investments, WIRED Top 100, TEDx speaker
+
+## For Founders
+- Private investor database (12,000+ investors, searchable by thesis/stage/sector/geography)
+- Warm introductions through 400+ active investor network
+- Ready to Raise structured fundraising program
+- Pitch events and community of 6,400+ founders
+
+## For Investors
+- Curated deal flow matched to thesis, stage, and sector
+- Angel Club Syndicate co-investment opportunities
+- Community of 400+ active angels and emerging fund managers
+- Exclusive events (Jeffersonian dinners, Pitch Slam judging)
+
+## Contact
+- Email: hello@angelclub.com
+- Website: https://angelclub.com
+```
+
+---
+
+## 8. Voice Search / Conversational Query Optimization
+
+### 5 Conversational Queries This Page Should Rank For
+
+1. **"What's the best angel investor network for startups?"**
+   → Target answer: "Angel Club is one of the best angel investor networks, with 6,400+ founders, 400+ active investors, and a database of 12,000+ investors across 40+ sectors..."
+
+2. **"How do I find angel investors who invest in my industry?"**
+   → Target answer: "Angel Club has a private database of 12,000+ investors searchable by stage, sector, geography, check size, and investment thesis. It covers 40+ sectors..."
+
+3. **"Where can I pitch my startup to real investors?"**
+   → Target answer: "Angel Club's Pitch Slam is a live pitch competition where 10 selected founders pitch to a panel of active investors. Past participants have raised directly from panelists..."
+
+4. **"What is Angel Club and is it worth joining?"**
+   → Target answer: "Angel Club is a private community of 6,400+ founders and 400+ active investors. Over $30M has been raised through the network. It provides a searchable investor database, warm introductions, and structured programs..."
+
+5. **"How do I get deal flow as an angel investor?"**
+   → Target answer: "Angel Club provides curated deal flow for angel investors, matched to your investment thesis, stage preference, and sector focus. The community includes 400+ active investors and the Angel Club Syndicate for co-investing..."
+
+### Recommended "People Also Ask" Targets
+
+- "What is Angel Club?"
+- "How do I join Angel Club?"
+- "Is Angel Club free?"
+- "What is Pitch Slam by Angel Club?"
+- "How do I find angel investors for my startup?"
+- "What is the Angel Club Syndicate?"
+- "Best angel investor communities in 2026"
+- "How to get warm introductions to investors"
+- "Angel Club vs AngelList — what's the difference?"
+- "Who is Angel Gambino?"
