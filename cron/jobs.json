@@ -10,7 +10,7 @@
       "task": "Quick health check-in with Angel. Ask: 🚶‍♀️ How many steps today? (Goal: 10,000) 💧 How much water? (Goal: 80oz / 10 glasses). Keep it to 1-2 sentences. If morning: encourage starting strong. If afternoon: give progress encouragement. If evening: encourage hitting the goal. Be warm, not preachy. Send via Telegram.",
       "state": {
         "nextRunAtMs": 1775149200000,
-        "runningAtMs": 1775163605534
+        "runningAtMs": 1775235635980
       },
       "name": "Cron: 0 15-23,0-5 * * *",
       "enabled": true,
@@ -57,7 +57,8 @@
       },
       "task": "Remind Angel to follow up with EUNO (Justin Tibble & Roshani Gami). They were sent a Hubble follow-up email on March 20. Check if they signed up for Ready to Raise or booked another Hubble session. If not, nudge them. Send reminder via Telegram.",
       "state": {
-        "nextRunAtMs": 1775224800000
+        "nextRunAtMs": 1775224800000,
+        "runningAtMs": 1775232002851
       },
       "name": "Cron: 0 14 3 4 *",
       "enabled": true,
